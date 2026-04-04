@@ -33305,7 +33305,7 @@
             "Ledyba",
             "Meditie",
             "Farbeagle",
-            null,
+            "Rabauz",
             null
           ],
           "badges": [
@@ -33336,8 +33336,8 @@
               "status": ""
             },
             "Vertaniawald": {
-              "name": "",
-              "status": ""
+              "name": "Rabauz",
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "Farbeagle",
