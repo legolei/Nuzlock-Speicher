@@ -32275,7 +32275,7 @@
             "Nidorino",
             "Kabuto",
             "Jungglut",
-            "Kanivanha",
+            null,
             "Blanas"
           ],
           "badges": [
@@ -32288,7 +32288,7 @@
             false,
             false
           ],
-          "deaths": 6,
+          "deaths": 7,
           "mainStream": "https://vdo.ninja/?view=qggUENz&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=qggUENz&fps=30&bitrate=800",
           "taken": false,
@@ -32347,7 +32347,7 @@
             },
             "Route 5": {
               "name": "Kanivanha",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Safronia City": {
               "name": "",
@@ -34358,6 +34358,11 @@
         },
         {
           "name": "Schneppke",
+          "player": 0,
+          "color": "red"
+        },
+        {
+          "name": "Kanivanha",
           "player": 0,
           "color": "red"
         }
