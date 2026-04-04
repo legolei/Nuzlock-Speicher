@@ -33816,11 +33816,11 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
-            "Flurmel",
-            null,
             "Pudox",
-            "Krebscorps",
             "Kirlia",
+            "Flurmel",
+            "Krebscorps",
+            null,
             null
           ],
           "badges": [
