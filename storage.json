@@ -33816,15 +33816,15 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
+            "Flurmel",
+            "Hoothoot",
+            "Pudox",
             null,
-            null,
-            null,
-            null,
-            null,
+            "Schneppke",
             null
           ],
           "badges": [
-            false,
+            true,
             false,
             false,
             false,
@@ -33833,7 +33833,7 @@
             false,
             false
           ],
-          "deaths": 0,
+          "deaths": 1,
           "mainStream": "https://vdo.ninja/?view=Xy5QQeG&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=Xy5QQeG&fps=30&bitrate=800",
           "taken": false,
@@ -33856,7 +33856,7 @@
             },
             "Route 2": {
               "name": "Webarak",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mamoria City": {
               "name": "",
@@ -34373,6 +34373,11 @@
           "name": "Kindwurm",
           "player": 1,
           "color": "blue"
+        },
+        {
+          "name": "Webarak",
+          "player": 6,
+          "color": "pink"
         }
       ]
     }
