@@ -32292,7 +32292,224 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Alabastia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 1": {
+              "name": "",
+              "status": ""
+            },
+            "Vertania City": {
+              "name": "",
+              "status": ""
+            },
+            "Vertaniawald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 2": {
+              "name": "",
+              "status": ""
+            },
+            "Mamoria City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 3": {
+              "name": "",
+              "status": ""
+            },
+            "Mondberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4 (Kaufbares Pokémon)": {
+              "name": "",
+              "status": ""
+            },
+            "Azuria City": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 5": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Silph Co. (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 6": {
+              "name": "",
+              "status": ""
+            },
+            "Orania City": {
+              "name": "",
+              "status": ""
+            },
+            "Digdahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 7": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 8": {
+              "name": "",
+              "status": ""
+            },
+            "Route 9": {
+              "name": "",
+              "status": ""
+            },
+            "Felshöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 10": {
+              "name": "",
+              "status": ""
+            },
+            "Route 11": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 13": {
+              "name": "",
+              "status": ""
+            },
+            "Route 14": {
+              "name": "",
+              "status": ""
+            },
+            "Route 15": {
+              "name": "",
+              "status": ""
+            },
+            "Fuchsania City": {
+              "name": "",
+              "status": ""
+            },
+            "Safari-Zone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 17": {
+              "name": "",
+              "status": ""
+            },
+            "Route 18": {
+              "name": "",
+              "status": ""
+            },
+            "Route 19": {
+              "name": "",
+              "status": ""
+            },
+            "Route 20": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel (Fossil)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinober-Labor": {
+              "name": "",
+              "status": ""
+            },
+            "Route 21": {
+              "name": "",
+              "status": ""
+            },
+            "Route 22": {
+              "name": "",
+              "status": ""
+            },
+            "Route 24": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -32331,7 +32548,224 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Alabastia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 1": {
+              "name": "",
+              "status": ""
+            },
+            "Vertania City": {
+              "name": "",
+              "status": ""
+            },
+            "Vertaniawald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 2": {
+              "name": "",
+              "status": ""
+            },
+            "Mamoria City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 3": {
+              "name": "",
+              "status": ""
+            },
+            "Mondberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4 (Kaufbares Pokémon)": {
+              "name": "",
+              "status": ""
+            },
+            "Azuria City": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 5": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Silph Co. (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 6": {
+              "name": "",
+              "status": ""
+            },
+            "Orania City": {
+              "name": "",
+              "status": ""
+            },
+            "Digdahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 7": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 8": {
+              "name": "",
+              "status": ""
+            },
+            "Route 9": {
+              "name": "",
+              "status": ""
+            },
+            "Felshöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 10": {
+              "name": "",
+              "status": ""
+            },
+            "Route 11": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 13": {
+              "name": "",
+              "status": ""
+            },
+            "Route 14": {
+              "name": "",
+              "status": ""
+            },
+            "Route 15": {
+              "name": "",
+              "status": ""
+            },
+            "Fuchsania City": {
+              "name": "",
+              "status": ""
+            },
+            "Safari-Zone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 17": {
+              "name": "",
+              "status": ""
+            },
+            "Route 18": {
+              "name": "",
+              "status": ""
+            },
+            "Route 19": {
+              "name": "",
+              "status": ""
+            },
+            "Route 20": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel (Fossil)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinober-Labor": {
+              "name": "",
+              "status": ""
+            },
+            "Route 21": {
+              "name": "",
+              "status": ""
+            },
+            "Route 22": {
+              "name": "",
+              "status": ""
+            },
+            "Route 24": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -32370,7 +32804,224 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Alabastia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 1": {
+              "name": "",
+              "status": ""
+            },
+            "Vertania City": {
+              "name": "",
+              "status": ""
+            },
+            "Vertaniawald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 2": {
+              "name": "",
+              "status": ""
+            },
+            "Mamoria City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 3": {
+              "name": "",
+              "status": ""
+            },
+            "Mondberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4 (Kaufbares Pokémon)": {
+              "name": "",
+              "status": ""
+            },
+            "Azuria City": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 5": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Silph Co. (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 6": {
+              "name": "",
+              "status": ""
+            },
+            "Orania City": {
+              "name": "",
+              "status": ""
+            },
+            "Digdahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 7": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 8": {
+              "name": "",
+              "status": ""
+            },
+            "Route 9": {
+              "name": "",
+              "status": ""
+            },
+            "Felshöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 10": {
+              "name": "",
+              "status": ""
+            },
+            "Route 11": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 13": {
+              "name": "",
+              "status": ""
+            },
+            "Route 14": {
+              "name": "",
+              "status": ""
+            },
+            "Route 15": {
+              "name": "",
+              "status": ""
+            },
+            "Fuchsania City": {
+              "name": "",
+              "status": ""
+            },
+            "Safari-Zone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 17": {
+              "name": "",
+              "status": ""
+            },
+            "Route 18": {
+              "name": "",
+              "status": ""
+            },
+            "Route 19": {
+              "name": "",
+              "status": ""
+            },
+            "Route 20": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel (Fossil)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinober-Labor": {
+              "name": "",
+              "status": ""
+            },
+            "Route 21": {
+              "name": "",
+              "status": ""
+            },
+            "Route 22": {
+              "name": "",
+              "status": ""
+            },
+            "Route 24": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -32409,7 +33060,224 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Alabastia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 1": {
+              "name": "",
+              "status": ""
+            },
+            "Vertania City": {
+              "name": "",
+              "status": ""
+            },
+            "Vertaniawald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 2": {
+              "name": "",
+              "status": ""
+            },
+            "Mamoria City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 3": {
+              "name": "",
+              "status": ""
+            },
+            "Mondberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4 (Kaufbares Pokémon)": {
+              "name": "",
+              "status": ""
+            },
+            "Azuria City": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 5": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Silph Co. (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 6": {
+              "name": "",
+              "status": ""
+            },
+            "Orania City": {
+              "name": "",
+              "status": ""
+            },
+            "Digdahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 7": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 8": {
+              "name": "",
+              "status": ""
+            },
+            "Route 9": {
+              "name": "",
+              "status": ""
+            },
+            "Felshöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 10": {
+              "name": "",
+              "status": ""
+            },
+            "Route 11": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 13": {
+              "name": "",
+              "status": ""
+            },
+            "Route 14": {
+              "name": "",
+              "status": ""
+            },
+            "Route 15": {
+              "name": "",
+              "status": ""
+            },
+            "Fuchsania City": {
+              "name": "",
+              "status": ""
+            },
+            "Safari-Zone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 17": {
+              "name": "",
+              "status": ""
+            },
+            "Route 18": {
+              "name": "",
+              "status": ""
+            },
+            "Route 19": {
+              "name": "",
+              "status": ""
+            },
+            "Route 20": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel (Fossil)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinober-Labor": {
+              "name": "",
+              "status": ""
+            },
+            "Route 21": {
+              "name": "",
+              "status": ""
+            },
+            "Route 22": {
+              "name": "",
+              "status": ""
+            },
+            "Route 24": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -32448,7 +33316,224 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Alabastia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 1": {
+              "name": "",
+              "status": ""
+            },
+            "Vertania City": {
+              "name": "",
+              "status": ""
+            },
+            "Vertaniawald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 2": {
+              "name": "",
+              "status": ""
+            },
+            "Mamoria City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 3": {
+              "name": "",
+              "status": ""
+            },
+            "Mondberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4 (Kaufbares Pokémon)": {
+              "name": "",
+              "status": ""
+            },
+            "Azuria City": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 5": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Silph Co. (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 6": {
+              "name": "",
+              "status": ""
+            },
+            "Orania City": {
+              "name": "",
+              "status": ""
+            },
+            "Digdahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 7": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 8": {
+              "name": "",
+              "status": ""
+            },
+            "Route 9": {
+              "name": "",
+              "status": ""
+            },
+            "Felshöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 10": {
+              "name": "",
+              "status": ""
+            },
+            "Route 11": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 13": {
+              "name": "",
+              "status": ""
+            },
+            "Route 14": {
+              "name": "",
+              "status": ""
+            },
+            "Route 15": {
+              "name": "",
+              "status": ""
+            },
+            "Fuchsania City": {
+              "name": "",
+              "status": ""
+            },
+            "Safari-Zone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 17": {
+              "name": "",
+              "status": ""
+            },
+            "Route 18": {
+              "name": "",
+              "status": ""
+            },
+            "Route 19": {
+              "name": "",
+              "status": ""
+            },
+            "Route 20": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel (Fossil)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinober-Labor": {
+              "name": "",
+              "status": ""
+            },
+            "Route 21": {
+              "name": "",
+              "status": ""
+            },
+            "Route 22": {
+              "name": "",
+              "status": ""
+            },
+            "Route 24": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -32487,7 +33572,224 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Alabastia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 1": {
+              "name": "",
+              "status": ""
+            },
+            "Vertania City": {
+              "name": "",
+              "status": ""
+            },
+            "Vertaniawald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 2": {
+              "name": "",
+              "status": ""
+            },
+            "Mamoria City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 3": {
+              "name": "",
+              "status": ""
+            },
+            "Mondberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4 (Kaufbares Pokémon)": {
+              "name": "",
+              "status": ""
+            },
+            "Azuria City": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 5": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Silph Co. (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 6": {
+              "name": "",
+              "status": ""
+            },
+            "Orania City": {
+              "name": "",
+              "status": ""
+            },
+            "Digdahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 7": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 8": {
+              "name": "",
+              "status": ""
+            },
+            "Route 9": {
+              "name": "",
+              "status": ""
+            },
+            "Felshöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 10": {
+              "name": "",
+              "status": ""
+            },
+            "Route 11": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 13": {
+              "name": "",
+              "status": ""
+            },
+            "Route 14": {
+              "name": "",
+              "status": ""
+            },
+            "Route 15": {
+              "name": "",
+              "status": ""
+            },
+            "Fuchsania City": {
+              "name": "",
+              "status": ""
+            },
+            "Safari-Zone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 17": {
+              "name": "",
+              "status": ""
+            },
+            "Route 18": {
+              "name": "",
+              "status": ""
+            },
+            "Route 19": {
+              "name": "",
+              "status": ""
+            },
+            "Route 20": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel (Fossil)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinober-Labor": {
+              "name": "",
+              "status": ""
+            },
+            "Route 21": {
+              "name": "",
+              "status": ""
+            },
+            "Route 22": {
+              "name": "",
+              "status": ""
+            },
+            "Route 24": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -32526,7 +33828,224 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Alabastia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 1": {
+              "name": "",
+              "status": ""
+            },
+            "Vertania City": {
+              "name": "",
+              "status": ""
+            },
+            "Vertaniawald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 2": {
+              "name": "",
+              "status": ""
+            },
+            "Mamoria City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 3": {
+              "name": "",
+              "status": ""
+            },
+            "Mondberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4 (Kaufbares Pokémon)": {
+              "name": "",
+              "status": ""
+            },
+            "Azuria City": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 5": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Silph Co. (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 6": {
+              "name": "",
+              "status": ""
+            },
+            "Orania City": {
+              "name": "",
+              "status": ""
+            },
+            "Digdahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 7": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 8": {
+              "name": "",
+              "status": ""
+            },
+            "Route 9": {
+              "name": "",
+              "status": ""
+            },
+            "Felshöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 10": {
+              "name": "",
+              "status": ""
+            },
+            "Route 11": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 13": {
+              "name": "",
+              "status": ""
+            },
+            "Route 14": {
+              "name": "",
+              "status": ""
+            },
+            "Route 15": {
+              "name": "",
+              "status": ""
+            },
+            "Fuchsania City": {
+              "name": "",
+              "status": ""
+            },
+            "Safari-Zone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 17": {
+              "name": "",
+              "status": ""
+            },
+            "Route 18": {
+              "name": "",
+              "status": ""
+            },
+            "Route 19": {
+              "name": "",
+              "status": ""
+            },
+            "Route 20": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel (Fossil)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinober-Labor": {
+              "name": "",
+              "status": ""
+            },
+            "Route 21": {
+              "name": "",
+              "status": ""
+            },
+            "Route 22": {
+              "name": "",
+              "status": ""
+            },
+            "Route 24": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -32565,7 +34084,224 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Alabastia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 1": {
+              "name": "",
+              "status": ""
+            },
+            "Vertania City": {
+              "name": "",
+              "status": ""
+            },
+            "Vertaniawald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 2": {
+              "name": "",
+              "status": ""
+            },
+            "Mamoria City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 3": {
+              "name": "",
+              "status": ""
+            },
+            "Mondberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4 (Kaufbares Pokémon)": {
+              "name": "",
+              "status": ""
+            },
+            "Azuria City": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 5": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Silph Co. (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 6": {
+              "name": "",
+              "status": ""
+            },
+            "Orania City": {
+              "name": "",
+              "status": ""
+            },
+            "Digdahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 7": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 8": {
+              "name": "",
+              "status": ""
+            },
+            "Route 9": {
+              "name": "",
+              "status": ""
+            },
+            "Felshöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 10": {
+              "name": "",
+              "status": ""
+            },
+            "Route 11": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 13": {
+              "name": "",
+              "status": ""
+            },
+            "Route 14": {
+              "name": "",
+              "status": ""
+            },
+            "Route 15": {
+              "name": "",
+              "status": ""
+            },
+            "Fuchsania City": {
+              "name": "",
+              "status": ""
+            },
+            "Safari-Zone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 17": {
+              "name": "",
+              "status": ""
+            },
+            "Route 18": {
+              "name": "",
+              "status": ""
+            },
+            "Route 19": {
+              "name": "",
+              "status": ""
+            },
+            "Route 20": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel (Fossil)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinober-Labor": {
+              "name": "",
+              "status": ""
+            },
+            "Route 21": {
+              "name": "",
+              "status": ""
+            },
+            "Route 22": {
+              "name": "",
+              "status": ""
+            },
+            "Route 24": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
