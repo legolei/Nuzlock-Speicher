@@ -1,5 +1,5 @@
 {
-  "game": "Schwarz",
+  "game": "Feuer Rot",
   "players": [
     {
       "name": "Legolei",
@@ -32264,6 +32264,323 @@
           "color": "pink"
         }
       ]
+    },
+    "Feuer Rot": {
+      "players": [
+        {
+          "name": "Legolei",
+          "color": "red",
+          "team": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "badges": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          "deaths": 0,
+          "mainStream": "",
+          "touchStream": "",
+          "taken": false,
+          "catches": {},
+          "mainAdj": {
+            "left": 0,
+            "top": 0,
+            "w": 100,
+            "h": 100
+          },
+          "touchAdj": {
+            "left": 0,
+            "top": 0,
+            "w": 100,
+            "h": 100
+          }
+        },
+        {
+          "name": "Jasmin",
+          "color": "blue",
+          "team": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "badges": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          "deaths": 0,
+          "mainStream": "",
+          "touchStream": "",
+          "taken": false,
+          "catches": {},
+          "mainAdj": {
+            "left": 0,
+            "top": 0,
+            "w": 100,
+            "h": 100
+          },
+          "touchAdj": {
+            "left": 0,
+            "top": 0,
+            "w": 100,
+            "h": 100
+          }
+        },
+        {
+          "name": "Kevin",
+          "color": "green",
+          "team": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "badges": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          "deaths": 0,
+          "mainStream": "",
+          "touchStream": "",
+          "taken": false,
+          "catches": {},
+          "mainAdj": {
+            "left": 0,
+            "top": 0,
+            "w": 100,
+            "h": 100
+          },
+          "touchAdj": {
+            "left": 0,
+            "top": 0,
+            "w": 100,
+            "h": 100
+          }
+        },
+        {
+          "name": "Niklas",
+          "color": "purple",
+          "team": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "badges": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          "deaths": 0,
+          "mainStream": "",
+          "touchStream": "",
+          "taken": false,
+          "catches": {},
+          "mainAdj": {
+            "left": 0,
+            "top": 0,
+            "w": 100,
+            "h": 100
+          },
+          "touchAdj": {
+            "left": 0,
+            "top": 0,
+            "w": 100,
+            "h": 100
+          }
+        },
+        {
+          "name": "Richard",
+          "color": "orange",
+          "team": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "badges": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          "deaths": 0,
+          "mainStream": "",
+          "touchStream": "",
+          "taken": false,
+          "catches": {},
+          "mainAdj": {
+            "left": 0,
+            "top": 0,
+            "w": 100,
+            "h": 100
+          },
+          "touchAdj": {
+            "left": 0,
+            "top": 0,
+            "w": 100,
+            "h": 100
+          }
+        },
+        {
+          "name": "Jannik",
+          "color": "cyan",
+          "team": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "badges": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          "deaths": 0,
+          "mainStream": "",
+          "touchStream": "",
+          "taken": false,
+          "catches": {},
+          "mainAdj": {
+            "left": 0,
+            "top": 0,
+            "w": 100,
+            "h": 100
+          },
+          "touchAdj": {
+            "left": 0,
+            "top": 0,
+            "w": 100,
+            "h": 100
+          }
+        },
+        {
+          "name": "Antonino",
+          "color": "pink",
+          "team": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "badges": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          "deaths": 0,
+          "mainStream": "",
+          "touchStream": "",
+          "taken": false,
+          "catches": {},
+          "mainAdj": {
+            "left": 0,
+            "top": 0,
+            "w": 100,
+            "h": 100
+          },
+          "touchAdj": {
+            "left": 0,
+            "top": 0,
+            "w": 100,
+            "h": 100
+          }
+        },
+        {
+          "name": "Fabian",
+          "color": "yellow",
+          "team": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "badges": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          "deaths": 0,
+          "mainStream": "",
+          "touchStream": "",
+          "taken": false,
+          "catches": {},
+          "mainAdj": {
+            "left": 0,
+            "top": 0,
+            "w": 100,
+            "h": 100
+          },
+          "touchAdj": {
+            "left": 0,
+            "top": 0,
+            "w": 100,
+            "h": 100
+          }
+        }
+      ],
+      "graveyard": []
     }
   }
 }
