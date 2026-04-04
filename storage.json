@@ -32532,7 +32532,7 @@
             "Rattikarl",
             "Nidorino",
             "Muntier",
-            null
+            "Kindwurm"
           ],
           "badges": [
             true,
@@ -32574,8 +32574,8 @@
               "status": ""
             },
             "Route 3": {
-              "name": "",
-              "status": ""
+              "name": "Kindwurm",
+              "status": "Lebendig"
             },
             "Mondberg": {
               "name": "Muntier",
