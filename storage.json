@@ -33816,7 +33816,7 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
-            "Flurmel",
+            null,
             "Hoothoot",
             "Schneppke",
             "Webarak",
@@ -33833,14 +33833,14 @@
             false,
             false
           ],
-          "deaths": 0,
+          "deaths": 1,
           "mainStream": "https://vdo.ninja/?view=Xy5QQeG&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=Xy5QQeG&fps=30&bitrate=800",
           "taken": false,
           "catches": {
             "Alabastia": {
               "name": "Flurmel",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 1": {
               "name": "Hoothoot",
@@ -34368,6 +34368,11 @@
           "name": "Kanivanha",
           "player": 0,
           "color": "red"
+        },
+        {
+          "name": "Flurmel",
+          "player": 6,
+          "color": "pink"
         }
       ]
     }
