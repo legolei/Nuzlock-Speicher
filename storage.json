@@ -33813,7 +33813,7 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
-            "Stollunior",
+            null,
             null,
             "Nidoran♀",
             null,
@@ -33830,14 +33830,14 @@
             false,
             false
           ],
-          "deaths": 3,
+          "deaths": 4,
           "mainStream": "https://vdo.ninja/?view=mMi8t4v&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=mMi8t4v&fps=30&bitrate=800",
           "taken": false,
           "catches": {
             "Alabastia": {
               "name": "Stollunior",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 1": {
               "name": "Schneckmag",
@@ -34373,6 +34373,11 @@
         },
         {
           "name": "Teddiursa",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Stollunior",
           "player": 6,
           "color": "pink"
         }
