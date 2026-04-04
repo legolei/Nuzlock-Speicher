@@ -32288,18 +32288,18 @@
             false,
             false
           ],
-          "deaths": 0,
+          "deaths": 6,
           "mainStream": "",
           "touchStream": "",
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "",
-              "status": ""
+              "name": "Schillok",
+              "status": "Tot"
             },
             "Route 1": {
               "name": "Habitak",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertania City": {
               "name": "",
@@ -32307,7 +32307,7 @@
             },
             "Vertaniawald": {
               "name": "Papinella",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 2": {
               "name": "",
@@ -32319,11 +32319,11 @@
             },
             "Route 3": {
               "name": "Ledyba",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mondberg": {
               "name": "Nincada",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 4": {
               "name": "Nidorino",
@@ -32491,7 +32491,7 @@
             },
             "Route 22": {
               "name": "Schneppke",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 24": {
               "name": "",
@@ -34324,6 +34324,36 @@
           "name": "Pichu",
           "player": 1,
           "color": "blue"
+        },
+        {
+          "name": "Schillok",
+          "player": 0,
+          "color": "red"
+        },
+        {
+          "name": "Habitak",
+          "player": 0,
+          "color": "red"
+        },
+        {
+          "name": "Papinella",
+          "player": 0,
+          "color": "red"
+        },
+        {
+          "name": "Ledyba",
+          "player": 0,
+          "color": "red"
+        },
+        {
+          "name": "Nincada",
+          "player": 0,
+          "color": "red"
+        },
+        {
+          "name": "Schneppke",
+          "player": 0,
+          "color": "red"
         }
       ]
     }
