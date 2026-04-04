@@ -33304,7 +33304,7 @@
             "Samurzel",
             "Ledyba",
             "Meditie",
-            null,
+            "Farbeagle",
             null,
             null
           ],
@@ -33340,8 +33340,8 @@
               "status": ""
             },
             "Route 2": {
-              "name": "",
-              "status": ""
+              "name": "Farbeagle",
+              "status": "Lebendig"
             },
             "Mamoria City": {
               "name": "",
