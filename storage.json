@@ -33820,7 +33820,7 @@
             "Kirlia",
             "Flurmel",
             "Krebscorps",
-            null,
+            "Eneco",
             null
           ],
           "badges": [
@@ -33871,8 +33871,8 @@
               "status": "Lebendig"
             },
             "Route 4": {
-              "name": "",
-              "status": ""
+              "name": "Eneco",
+              "status": "Lebendig"
             },
             "Route 4 (Kaufbares Pokémon)": {
               "name": "Krebscorps",
