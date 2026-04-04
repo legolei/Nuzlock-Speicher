@@ -32535,7 +32535,7 @@
             "Rattikarl",
             "Nidorino",
             "Muntier",
-            "Bisasam"
+            "Bisaknosp"
           ],
           "badges": [
             true,
@@ -32645,7 +32645,7 @@
               "status": "Lebendig"
             },
             "Route 8": {
-              "name": "Bisasam",
+              "name": "Bisaknosp",
               "status": "Lebendig"
             },
             "Route 9": {
@@ -33819,7 +33819,7 @@
             null,
             null,
             null,
-            "Webarak",
+            null,
             null,
             null
           ],
@@ -33833,7 +33833,7 @@
             false,
             false
           ],
-          "deaths": 4,
+          "deaths": 5,
           "mainStream": "https://vdo.ninja/?view=Xy5QQeG&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=Xy5QQeG&fps=30&bitrate=800",
           "taken": false,
@@ -33856,7 +33856,7 @@
             },
             "Route 2": {
               "name": "Webarak",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mamoria City": {
               "name": "",
@@ -34391,6 +34391,11 @@
         },
         {
           "name": "Schneppke",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Webarak",
           "player": 6,
           "color": "pink"
         }
