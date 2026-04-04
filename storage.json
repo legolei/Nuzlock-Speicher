@@ -32528,7 +32528,7 @@
           "color": "blue",
           "team": [
             "Nockchan",
-            null,
+            "Moorabbel",
             null,
             null,
             null,
@@ -32550,8 +32550,8 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "",
-              "status": ""
+              "name": "Moorabbel",
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "",
