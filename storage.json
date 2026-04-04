@@ -33815,7 +33815,7 @@
           "team": [
             "Flurmel",
             "Hoothoot",
-            null,
+            "Schneppke",
             null,
             null,
             null
@@ -34032,8 +34032,8 @@
               "status": ""
             },
             "Route 22": {
-              "name": "",
-              "status": ""
+              "name": "Schneppke",
+              "status": "Lebendig"
             },
             "Route 24": {
               "name": "",
