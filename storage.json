@@ -33833,18 +33833,18 @@
             false,
             false
           ],
-          "deaths": 5,
+          "deaths": 0,
           "mainStream": "https://vdo.ninja/?view=Xy5QQeG&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=Xy5QQeG&fps=30&bitrate=800",
           "taken": false,
           "catches": {
             "Alabastia": {
               "name": "Flurmel",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "Hoothoot",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
@@ -33852,11 +33852,11 @@
             },
             "Vertaniawald": {
               "name": "Pudox",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "Webarak",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Mamoria City": {
               "name": "",
@@ -34036,7 +34036,7 @@
             },
             "Route 22": {
               "name": "Schneppke",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 24": {
               "name": "",
@@ -34370,34 +34370,9 @@
           "color": "red"
         },
         {
-          "name": "Flurmel",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Pudox",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Hoothoot",
-          "player": 6,
-          "color": "pink"
-        },
-        {
           "name": "Kindwurm",
           "player": 1,
           "color": "blue"
-        },
-        {
-          "name": "Schneppke",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Webarak",
-          "player": 6,
-          "color": "pink"
         }
       ]
     }
