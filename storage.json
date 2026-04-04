@@ -32527,7 +32527,7 @@
           "name": "Jasmin",
           "color": "blue",
           "team": [
-            null,
+            "Nockchan",
             null,
             null,
             null,
@@ -32562,8 +32562,8 @@
               "status": ""
             },
             "Vertaniawald": {
-              "name": "",
-              "status": ""
+              "name": "Nockchan",
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "",
