@@ -33814,7 +33814,7 @@
           "color": "pink",
           "team": [
             "Stollunior",
-            "Teddiursa",
+            null,
             "Nidoran♀",
             null,
             null,
@@ -33830,7 +33830,7 @@
             false,
             false
           ],
-          "deaths": 2,
+          "deaths": 3,
           "mainStream": "https://vdo.ninja/?view=mMi8t4v&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=mMi8t4v&fps=30&bitrate=800",
           "taken": false,
@@ -34033,7 +34033,7 @@
             },
             "Route 22": {
               "name": "Teddiursa",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 24": {
               "name": "",
@@ -34368,6 +34368,11 @@
         },
         {
           "name": "Pichu",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Teddiursa",
           "player": 6,
           "color": "pink"
         }
