@@ -32390,8 +32390,8 @@
               "status": ""
             },
             "Route 9": {
-              "name": "",
-              "status": ""
+              "name": "Taubsi",
+              "status": "Lebendig"
             },
             "Felshöhle": {
               "name": "Stollunior",
@@ -33815,7 +33815,7 @@
           "team": [
             "Stollunior",
             "Teddiursa",
-            "Pichu",
+            null,
             "Nidoran♀",
             null,
             null
@@ -33830,7 +33830,7 @@
             false,
             false
           ],
-          "deaths": 1,
+          "deaths": 2,
           "mainStream": "https://vdo.ninja/?view=mMi8t4v&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=mMi8t4v&fps=30&bitrate=800",
           "taken": false,
@@ -33849,7 +33849,7 @@
             },
             "Vertaniawald": {
               "name": "Pichu",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 2": {
               "name": "Nidoran♀",
@@ -34363,6 +34363,11 @@
         },
         {
           "name": "Schneckmag",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Pichu",
           "player": 6,
           "color": "pink"
         }
