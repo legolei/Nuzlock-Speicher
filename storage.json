@@ -32535,7 +32535,7 @@
             "Rattikarl",
             "Nidorino",
             "Muntier",
-            null
+            "Bisasam"
           ],
           "badges": [
             true,
@@ -33818,7 +33818,7 @@
           "team": [
             null,
             null,
-            "Schneppke",
+            null,
             "Webarak",
             null,
             null
@@ -33833,7 +33833,7 @@
             false,
             false
           ],
-          "deaths": 3,
+          "deaths": 4,
           "mainStream": "https://vdo.ninja/?view=Xy5QQeG&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=Xy5QQeG&fps=30&bitrate=800",
           "taken": false,
@@ -34036,7 +34036,7 @@
             },
             "Route 22": {
               "name": "Schneppke",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 24": {
               "name": "",
@@ -34388,6 +34388,11 @@
           "name": "Kindwurm",
           "player": 1,
           "color": "blue"
+        },
+        {
+          "name": "Schneppke",
+          "player": 6,
+          "color": "pink"
         }
       ]
     }
