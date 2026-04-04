@@ -33830,18 +33830,18 @@
             false,
             false
           ],
-          "deaths": 5,
+          "deaths": 0,
           "mainStream": "https://vdo.ninja/?view=mMi8t4v&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=mMi8t4v&fps=30&bitrate=800",
           "taken": false,
           "catches": {
             "Alabastia": {
               "name": "Stollunior",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "Schneckmag",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
@@ -33849,11 +33849,11 @@
             },
             "Vertaniawald": {
               "name": "Pichu",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "Nidoran♀",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Mamoria City": {
               "name": "",
@@ -34033,7 +34033,7 @@
             },
             "Route 22": {
               "name": "Teddiursa",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 24": {
               "name": "",
@@ -34360,31 +34360,6 @@
           "name": "Schneppke",
           "player": 0,
           "color": "red"
-        },
-        {
-          "name": "Schneckmag",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Pichu",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Teddiursa",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Stollunior",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Nidoran♀",
-          "player": 6,
-          "color": "pink"
         }
       ]
     }
