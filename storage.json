@@ -33813,7 +33813,7 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
-            null,
+            "Flurmel",
             null,
             null,
             null,
@@ -33836,8 +33836,8 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "",
-              "status": ""
+              "name": "Flurmel",
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "",
