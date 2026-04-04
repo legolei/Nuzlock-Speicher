@@ -33817,7 +33817,7 @@
             "Hoothoot",
             "Schneppke",
             "Webarak",
-            null,
+            "Panekon",
             null
           ],
           "badges": [
@@ -33848,8 +33848,8 @@
               "status": ""
             },
             "Vertaniawald": {
-              "name": "",
-              "status": ""
+              "name": "Panekon",
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "Webarak",
