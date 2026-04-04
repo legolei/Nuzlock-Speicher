@@ -33816,7 +33816,7 @@
             "Flurmel",
             "Hoothoot",
             "Schneppke",
-            null,
+            "Webarak",
             null,
             null
           ],
@@ -33852,8 +33852,8 @@
               "status": ""
             },
             "Route 2": {
-              "name": "",
-              "status": ""
+              "name": "Webarak",
+              "status": "Lebendig"
             },
             "Mamoria City": {
               "name": "",
