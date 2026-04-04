@@ -32544,7 +32544,7 @@
             false,
             false
           ],
-          "deaths": 0,
+          "deaths": 1,
           "mainStream": "https://vdo.ninja/?view=X8rEYqF&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=X8rEYqF&fps=30&bitrate=800",
           "taken": false,
@@ -32566,8 +32566,8 @@
               "status": "Lebendig"
             },
             "Route 2": {
-              "name": "",
-              "status": ""
+              "name": "Pichu",
+              "status": "Tot"
             },
             "Mamoria City": {
               "name": "",
@@ -34319,7 +34319,13 @@
           }
         }
       ],
-      "graveyard": []
+      "graveyard": [
+        {
+          "name": "Pichu",
+          "player": 1,
+          "color": "blue"
+        }
+      ]
     }
   }
 }
