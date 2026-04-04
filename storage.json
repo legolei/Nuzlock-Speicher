@@ -33814,7 +33814,7 @@
           "color": "pink",
           "team": [
             "Flurmel",
-            null,
+            "Hoothoot",
             null,
             null,
             null,
@@ -33840,8 +33840,8 @@
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "",
-              "status": ""
+              "name": "Hoothoot",
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
