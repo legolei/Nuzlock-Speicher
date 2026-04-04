@@ -33817,7 +33817,7 @@
           "color": "pink",
           "team": [
             "Flurmel",
-            "Hoothoot",
+            null,
             "Pudox",
             "Krebscorps",
             "Kirlia",
@@ -33833,7 +33833,7 @@
             false,
             false
           ],
-          "deaths": 2,
+          "deaths": 3,
           "mainStream": "https://vdo.ninja/?view=Xy5QQeG&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=Xy5QQeG&fps=30&bitrate=800",
           "taken": false,
@@ -33844,7 +33844,7 @@
             },
             "Route 1": {
               "name": "Hoothoot",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertania City": {
               "name": "",
@@ -34381,6 +34381,11 @@
         },
         {
           "name": "Schneppke",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Hoothoot",
           "player": 6,
           "color": "pink"
         }
