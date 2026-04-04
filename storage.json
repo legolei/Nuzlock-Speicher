@@ -33814,7 +33814,7 @@
           "color": "pink",
           "team": [
             "Stollunior",
-            "Schneckmag",
+            null,
             "Pichu",
             "Nidoran♀",
             "Teddiursa",
@@ -33830,7 +33830,7 @@
             false,
             false
           ],
-          "deaths": 0,
+          "deaths": 1,
           "mainStream": "https://vdo.ninja/?view=mMi8t4v&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=mMi8t4v&fps=30&bitrate=800",
           "taken": false,
@@ -33841,7 +33841,7 @@
             },
             "Route 1": {
               "name": "Schneckmag",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertania City": {
               "name": "",
@@ -34360,6 +34360,11 @@
           "name": "Schneppke",
           "player": 0,
           "color": "red"
+        },
+        {
+          "name": "Schneckmag",
+          "player": 6,
+          "color": "pink"
         }
       ]
     }
