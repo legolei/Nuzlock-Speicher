@@ -33813,8 +33813,8 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
-            null,
-            null,
+            "Stollunior",
+            "Schneckmag",
             null,
             null,
             null,
@@ -33831,17 +33831,17 @@
             false
           ],
           "deaths": 0,
-          "mainStream": "https://vdo.ninja/?view=mMi8t4v&fps=30&bitrate=800",
-          "touchStream": "https://vdo.ninja/?view=mMi8t4v&fps=30&bitrate=800",
+          "mainStream": "",
+          "touchStream": "",
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "",
-              "status": ""
+              "name": "Stollunior",
+              "status": "Lebendig"
             },
             "Route 1": {
-              "name": "",
-              "status": ""
+              "name": "Schneckmag",
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
