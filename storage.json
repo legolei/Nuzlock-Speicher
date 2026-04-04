@@ -33301,7 +33301,7 @@
           "name": "Richard",
           "color": "orange",
           "team": [
-            null,
+            "Samurzel",
             null,
             null,
             null,
@@ -33324,8 +33324,8 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "",
-              "status": ""
+              "name": "Samurzel",
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "",
