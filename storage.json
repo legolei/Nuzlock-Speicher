@@ -33815,7 +33815,7 @@
           "team": [
             null,
             null,
-            "Nidoran♀",
+            null,
             null,
             null,
             null
@@ -33830,7 +33830,7 @@
             false,
             false
           ],
-          "deaths": 4,
+          "deaths": 5,
           "mainStream": "https://vdo.ninja/?view=mMi8t4v&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=mMi8t4v&fps=30&bitrate=800",
           "taken": false,
@@ -33853,7 +33853,7 @@
             },
             "Route 2": {
               "name": "Nidoran♀",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mamoria City": {
               "name": "",
@@ -34378,6 +34378,11 @@
         },
         {
           "name": "Stollunior",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Nidoran♀",
           "player": 6,
           "color": "pink"
         }
