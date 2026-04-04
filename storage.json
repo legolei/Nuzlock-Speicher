@@ -33303,7 +33303,7 @@
           "team": [
             "Samurzel",
             "Ledyba",
-            null,
+            "Meditie",
             null,
             null,
             null
@@ -33520,8 +33520,8 @@
               "status": ""
             },
             "Route 22": {
-              "name": "",
-              "status": ""
+              "name": "Meditie",
+              "status": "Lebendig"
             },
             "Route 24": {
               "name": "",
@@ -33820,7 +33820,7 @@
             "Hoothoot",
             "Schneppke",
             "Webarak",
-            "Pudox",
+            null,
             null
           ],
           "badges": [
@@ -33833,7 +33833,7 @@
             false,
             false
           ],
-          "deaths": 1,
+          "deaths": 2,
           "mainStream": "https://vdo.ninja/?view=Xy5QQeG&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=Xy5QQeG&fps=30&bitrate=800",
           "taken": false,
@@ -33852,7 +33852,7 @@
             },
             "Vertaniawald": {
               "name": "Pudox",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 2": {
               "name": "Webarak",
@@ -34371,6 +34371,11 @@
         },
         {
           "name": "Flurmel",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Pudox",
           "player": 6,
           "color": "pink"
         }
