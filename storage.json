@@ -33821,7 +33821,7 @@
             "Pudox",
             "Schneppke",
             "Kirlia",
-            null
+            "Krebscorps"
           ],
           "badges": [
             true,
@@ -33875,8 +33875,8 @@
               "status": ""
             },
             "Route 4 (Kaufbares Pokémon)": {
-              "name": "",
-              "status": ""
+              "name": "Krebscorps",
+              "status": "Lebendig"
             },
             "Azuria City": {
               "name": "",
