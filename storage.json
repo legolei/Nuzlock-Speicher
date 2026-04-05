@@ -32791,7 +32791,7 @@
           "team": [
             "Webarak",
             "Azurill",
-            "Dratini",
+            null,
             null,
             "Togepi",
             "Schwalbini"
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 3,
+          "deaths": 4,
           "mainStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "taken": false,
@@ -33009,7 +33009,7 @@
             },
             "Route 22": {
               "name": "Dratini",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 24": {
               "name": "",
@@ -34409,6 +34409,11 @@
         },
         {
           "name": "Metang",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Dratini",
           "player": 2,
           "color": "green"
         }
