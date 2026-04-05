@@ -32789,7 +32789,7 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            null,
+            "Bisasam",
             null,
             null,
             null,
@@ -32812,8 +32812,8 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "",
-              "status": ""
+              "name": "Bisasam",
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "",
