@@ -32789,7 +32789,7 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            "Ariados",
+            null,
             "Azurill",
             "Ibitak",
             "Rattikarl",
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 7,
+          "deaths": 8,
           "mainStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "taken": false,
@@ -32817,7 +32817,7 @@
             },
             "Route 1": {
               "name": "Ariados",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertania City": {
               "name": "Panekon",
@@ -34434,6 +34434,11 @@
         },
         {
           "name": "Woingenau",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Ariados",
           "player": 2,
           "color": "green"
         }
