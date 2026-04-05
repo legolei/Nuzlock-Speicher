@@ -32793,7 +32793,7 @@
             "Azurill",
             "Ibitak",
             "Rattikarl",
-            "Magnayen",
+            null,
             "Smettbo"
           ],
           "badges": [
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 5,
+          "deaths": 6,
           "mainStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "taken": false,
@@ -32885,7 +32885,7 @@
             },
             "Orania City": {
               "name": "Magnayen",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Digdahöhle": {
               "name": "Seemops",
@@ -34426,6 +34426,11 @@
           "name": "Rabauz",
           "player": 4,
           "color": "orange"
+        },
+        {
+          "name": "Magnayen",
+          "player": 2,
+          "color": "green"
         }
       ]
     }
