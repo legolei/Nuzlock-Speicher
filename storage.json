@@ -33309,7 +33309,7 @@
             "Meditie",
             "Farbeagle",
             "Bisasam",
-            null
+            "Flamara"
           ],
           "badges": [
             true,
@@ -33363,8 +33363,8 @@
               "status": ""
             },
             "Route 4 (Kaufbares Pokémon)": {
-              "name": "",
-              "status": ""
+              "name": "Flamara",
+              "status": "Lebendig"
             },
             "Azuria City": {
               "name": "",
