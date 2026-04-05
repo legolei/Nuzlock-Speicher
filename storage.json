@@ -32793,20 +32793,20 @@
             "Azurill",
             "Ibitak",
             "Rattikarl",
-            "Woingenau",
+            null,
             "Smettbo"
           ],
           "badges": [
             true,
             true,
-            false,
+            true,
             false,
             false,
             false,
             false,
             false
           ],
-          "deaths": 6,
+          "deaths": 7,
           "mainStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "taken": false,
@@ -32929,7 +32929,7 @@
             },
             "Route 11": {
               "name": "Woingenau",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 12": {
               "name": "",
@@ -34429,6 +34429,11 @@
         },
         {
           "name": "Magnayen",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Woingenau",
           "player": 2,
           "color": "green"
         }
