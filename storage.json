@@ -32792,7 +32792,7 @@
             "Webarak",
             "Azurill",
             "Dratini",
-            null,
+            "Tanhel",
             null,
             null
           ],
@@ -32848,8 +32848,8 @@
               "status": ""
             },
             "Route 4 (Kaufbares Pokémon)": {
-              "name": "",
-              "status": ""
+              "name": "Tanhel",
+              "status": "Lebendig"
             },
             "Azuria City": {
               "name": "",
