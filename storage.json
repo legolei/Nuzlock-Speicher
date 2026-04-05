@@ -32789,9 +32789,9 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            null,
-            null,
-            null,
+            "Webarak",
+            "Azurill",
+            "Dratini",
             null,
             null,
             null
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 5,
+          "deaths": 2,
           "mainStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "taken": false,
@@ -32817,7 +32817,7 @@
             },
             "Route 1": {
               "name": "Webarak",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
@@ -32825,7 +32825,7 @@
             },
             "Vertaniawald": {
               "name": "Azurill",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "Digda",
@@ -33009,7 +33009,7 @@
             },
             "Route 22": {
               "name": "Dratini",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 24": {
               "name": "",
@@ -34398,22 +34398,7 @@
           "color": "green"
         },
         {
-          "name": "Azurill",
-          "player": 2,
-          "color": "green"
-        },
-        {
           "name": "Digda",
-          "player": 2,
-          "color": "green"
-        },
-        {
-          "name": "Webarak",
-          "player": 2,
-          "color": "green"
-        },
-        {
-          "name": "Dratini",
           "player": 2,
           "color": "green"
         }
