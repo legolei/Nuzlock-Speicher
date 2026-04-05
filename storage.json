@@ -32794,7 +32794,7 @@
             "Dratini",
             "Tanhel",
             "Togepi",
-            null
+            "Schwalbini"
           ],
           "badges": [
             true,
@@ -32844,8 +32844,8 @@
               "status": "Lebendig"
             },
             "Route 4": {
-              "name": "",
-              "status": ""
+              "name": "Schwalbini",
+              "status": "Lebendig"
             },
             "Route 4 (Kaufbares Pokémon)": {
               "name": "Tanhel",
