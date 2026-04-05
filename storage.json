@@ -32793,7 +32793,7 @@
             "Webarak",
             "Dratini",
             "Digda",
-            "Azurill",
+            null,
             null
           ],
           "badges": [
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 1,
+          "deaths": 2,
           "mainStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "taken": false,
@@ -32825,7 +32825,7 @@
             },
             "Vertaniawald": {
               "name": "Azurill",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 2": {
               "name": "Digda",
@@ -34394,6 +34394,11 @@
         },
         {
           "name": "Bisasam",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Azurill",
           "player": 2,
           "color": "green"
         }
