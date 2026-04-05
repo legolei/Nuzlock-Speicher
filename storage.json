@@ -33308,7 +33308,7 @@
             "Ledyba",
             "Meditie",
             "Farbeagle",
-            "Rabauz",
+            null,
             null
           ],
           "badges": [
@@ -33321,7 +33321,7 @@
             false,
             false
           ],
-          "deaths": 0,
+          "deaths": 1,
           "mainStream": "https://vdo.ninja/?view=km9y3Bp&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=km9y3Bp&fps=30&bitrate=800",
           "taken": false,
@@ -33340,7 +33340,7 @@
             },
             "Vertaniawald": {
               "name": "Rabauz",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 2": {
               "name": "Farbeagle",
@@ -34421,6 +34421,11 @@
           "name": "Schwalboss",
           "player": 2,
           "color": "green"
+        },
+        {
+          "name": "Rabauz",
+          "player": 4,
+          "color": "orange"
         }
       ]
     }
