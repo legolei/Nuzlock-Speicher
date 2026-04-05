@@ -33834,8 +33834,8 @@
             false
           ],
           "deaths": 3,
-          "mainStream": "https://vdo.ninja/?view=Xy5QQeG&fps=30&bitrate=800",
-          "touchStream": "https://vdo.ninja/?view=Xy5QQeG&fps=30&bitrate=800",
+          "mainStream": "",
+          "touchStream": "",
           "taken": false,
           "catches": {
             "Alabastia": {
