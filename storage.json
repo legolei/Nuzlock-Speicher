@@ -32792,7 +32792,7 @@
             null,
             "Webarak",
             "Dratini",
-            "Digda",
+            null,
             null,
             null
           ],
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 2,
+          "deaths": 3,
           "mainStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "taken": false,
@@ -32829,7 +32829,7 @@
             },
             "Route 2": {
               "name": "Digda",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mamoria City": {
               "name": "",
@@ -34399,6 +34399,11 @@
         },
         {
           "name": "Azurill",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Digda",
           "player": 2,
           "color": "green"
         }
