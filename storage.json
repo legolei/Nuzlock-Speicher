@@ -32790,7 +32790,7 @@
           "color": "green",
           "team": [
             null,
-            "Webarak",
+            null,
             "Dratini",
             null,
             null,
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 3,
+          "deaths": 4,
           "mainStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "taken": false,
@@ -32817,7 +32817,7 @@
             },
             "Route 1": {
               "name": "Webarak",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertania City": {
               "name": "",
@@ -34404,6 +34404,11 @@
         },
         {
           "name": "Digda",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Webarak",
           "player": 2,
           "color": "green"
         }
