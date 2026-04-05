@@ -32673,12 +32673,12 @@
               "status": "Lebendig"
             },
             "Route 12": {
-              "name": "Wailmer",
-              "status": "Lebendig"
-            },
-            "Route 12 (Statik)": {
               "name": "",
               "status": ""
+            },
+            "Route 12 (Statik)": {
+              "name": "Wailmer",
+              "status": "Lebendig"
             },
             "Route 13": {
               "name": "",
@@ -32705,8 +32705,8 @@
               "status": "Lebendig"
             },
             "Route 16 (Statik)": {
-              "name": "",
-              "status": ""
+              "name": "Schlukwech",
+              "status": "Lebendig"
             },
             "Route 17": {
               "name": "",
