@@ -32414,7 +32414,7 @@
               "status": "Lebendig"
             },
             "Route 12": {
-              "name": "Rabauz",
+              "name": "Nockchan",
               "status": "Lebendig"
             },
             "Route 12 (Statik)": {
@@ -32721,8 +32721,8 @@
               "status": "Blockiert"
             },
             "Route 20": {
-              "name": "",
-              "status": ""
+              "name": "ne",
+              "status": "Lebendig"
             },
             "Seeschauminsel": {
               "name": "",
@@ -32908,12 +32908,12 @@
               "status": ""
             },
             "Route 9": {
-              "name": "",
-              "status": ""
+              "name": "Hoppspross",
+              "status": "Lebendig"
             },
             "Felshöhle": {
-              "name": "",
-              "status": ""
+              "name": "Taubsi",
+              "status": "Lebendig"
             },
             "Kraftwerk": {
               "name": "",
@@ -32924,8 +32924,8 @@
               "status": ""
             },
             "Route 10": {
-              "name": "",
-              "status": ""
+              "name": "Meditie",
+              "status": "Blockiert"
             },
             "Route 11": {
               "name": "Woingenau",
@@ -33167,8 +33167,8 @@
               "status": ""
             },
             "Route 9": {
-              "name": "Hoppspross",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Felshöhle": {
               "name": "",
@@ -33183,8 +33183,8 @@
               "status": ""
             },
             "Route 10": {
-              "name": "Meditie",
-              "status": "Blockiert"
+              "name": "",
+              "status": ""
             },
             "Route 11": {
               "name": "",
