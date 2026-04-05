@@ -32791,7 +32791,7 @@
           "team": [
             "Webarak",
             "Azurill",
-            null,
+            "Ibitak",
             "Rattikarl",
             "Togepi",
             "Smettbo"
@@ -32880,7 +32880,7 @@
               "status": ""
             },
             "Route 6": {
-              "name": "Habitak",
+              "name": "Ibitak",
               "status": "Lebendig"
             },
             "Orania City": {
@@ -33033,7 +33033,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 1.2000000000000002,
+            "userScale": 1.2500000000000002,
             "offX": -36,
             "offY": -34
           },
