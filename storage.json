@@ -32791,7 +32791,7 @@
           "team": [
             "Webarak",
             "Azurill",
-            "Schwalboss",
+            null,
             "Rattikarl",
             "Togepi",
             "Smettbo"
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 4,
+          "deaths": 5,
           "mainStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=CkX9AkF&fps=30&bitrate=800",
           "taken": false,
@@ -32845,7 +32845,7 @@
             },
             "Route 4": {
               "name": "Schwalboss",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 4 (Kaufbares Pokémon)": {
               "name": "Metang",
@@ -34414,6 +34414,11 @@
         },
         {
           "name": "Dratini",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Schwalboss",
           "player": 2,
           "color": "green"
         }
