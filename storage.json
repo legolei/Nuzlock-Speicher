@@ -32275,7 +32275,7 @@
             "Alpollo",
             "Kabuto",
             "Jungglut",
-            "Stollunior",
+            "Stollrak",
             "Tengulist"
           ],
           "badges": [
@@ -32394,7 +32394,7 @@
               "status": "Lebendig"
             },
             "Felshöhle": {
-              "name": "Stollunior",
+              "name": "Stollrak",
               "status": "Lebendig"
             },
             "Kraftwerk": {
@@ -32789,7 +32789,7 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            "Webarak",
+            "Ariados",
             "Azurill",
             "Ibitak",
             "Rattikarl",
@@ -32816,7 +32816,7 @@
               "status": "Tot"
             },
             "Route 1": {
-              "name": "Webarak",
+              "name": "Ariados",
               "status": "Lebendig"
             },
             "Vertania City": {
