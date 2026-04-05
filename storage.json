@@ -32274,7 +32274,7 @@
             "Altaria",
             "Alpollo",
             "Kabutops",
-            "Jungglut",
+            null,
             "Stollrak",
             "Tengulist"
           ],
@@ -32498,7 +32498,7 @@
               "status": "Lebendig"
             },
             "Route 25": {
-              "name": "Jungglut",
+              "name": "Lohgock",
               "status": "Lebendig"
             },
             "Siegesstraße": {
