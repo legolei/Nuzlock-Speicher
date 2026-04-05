@@ -32792,9 +32792,9 @@
             "Webarak",
             "Azurill",
             "Schwalboss",
-            "Rattfratz",
+            "Rattikarl",
             "Togepi",
-            null
+            "Smettbo"
           ],
           "badges": [
             true,
@@ -33012,11 +33012,11 @@
               "status": "Tot"
             },
             "Route 24": {
-              "name": "Rattfratz",
+              "name": "Rattikarl",
               "status": "Lebendig"
             },
             "Route 25": {
-              "name": "Safcon",
+              "name": "Smettbo",
               "status": "Lebendig"
             },
             "Siegesstraße": {
