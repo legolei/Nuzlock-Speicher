@@ -32792,7 +32792,7 @@
             "Webarak",
             "Azurill",
             "Schwalboss",
-            null,
+            "Rattfratz",
             "Togepi",
             null
           ],
@@ -33012,8 +33012,8 @@
               "status": "Tot"
             },
             "Route 24": {
-              "name": "",
-              "status": ""
+              "name": "Rattfratz",
+              "status": "Lebendig"
             },
             "Route 25": {
               "name": "",
