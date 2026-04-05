@@ -33167,8 +33167,8 @@
               "status": ""
             },
             "Route 9": {
-              "name": "",
-              "status": ""
+              "name": "Hoppspross",
+              "status": "Lebendig"
             },
             "Felshöhle": {
               "name": "",
@@ -33308,7 +33308,7 @@
             "Ledyba",
             "Meditie",
             "Farbeagle",
-            null,
+            "Bisasam",
             null
           ],
           "badges": [
@@ -33351,8 +33351,8 @@
               "status": ""
             },
             "Route 3": {
-              "name": "",
-              "status": ""
+              "name": "Bisasam",
+              "status": "Lebendig"
             },
             "Mondberg": {
               "name": "",
