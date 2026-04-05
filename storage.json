@@ -32273,7 +32273,7 @@
           "team": [
             "Altaria",
             "Alpollo",
-            null,
+            "Kabutops",
             "Jungglut",
             "Stollrak",
             "Tengulist"
@@ -32820,8 +32820,8 @@
               "status": "Lebendig"
             },
             "Vertania City": {
-              "name": "",
-              "status": ""
+              "name": "Panekon",
+              "status": "Blockiert"
             },
             "Vertaniawald": {
               "name": "Azurill",
