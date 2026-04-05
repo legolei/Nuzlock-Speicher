@@ -32790,7 +32790,7 @@
           "color": "green",
           "team": [
             "Bisasam",
-            null,
+            "Webarak",
             null,
             null,
             null,
@@ -32816,8 +32816,8 @@
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "",
-              "status": ""
+              "name": "Webarak",
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
