@@ -32273,7 +32273,7 @@
           "team": [
             "Altaria",
             "Alpollo",
-            "Kabuto",
+            null,
             "Jungglut",
             "Stollrak",
             "Tengulist"
@@ -32330,7 +32330,7 @@
               "status": "Lebendig"
             },
             "Route 4 (Kaufbares Pokémon)": {
-              "name": "Kabuto",
+              "name": "Kabutops",
               "status": "Lebendig"
             },
             "Azuria City": {
@@ -32542,7 +32542,7 @@
             true,
             true,
             true,
-            false,
+            true,
             false,
             false,
             false
