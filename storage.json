@@ -33016,8 +33016,8 @@
               "status": "Lebendig"
             },
             "Route 25": {
-              "name": "",
-              "status": ""
+              "name": "Safcon",
+              "status": "Blockiert"
             },
             "Siegesstraße": {
               "name": "",
@@ -34082,7 +34082,7 @@
             "Hoothoot",
             "Taubsi",
             "Gehweiher",
-            null,
+            "Sonnkern",
             null
           ],
           "badges": [
@@ -34113,8 +34113,8 @@
               "status": ""
             },
             "Vertaniawald": {
-              "name": "",
-              "status": ""
+              "name": "Sonnkern",
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "Gehweiher",
