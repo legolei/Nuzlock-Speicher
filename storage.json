@@ -33828,13 +33828,13 @@
           ],
           "badges": [
             true,
-            true,
-            true,
-            true,
-            true,
-            true,
-            true,
-            true
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
           ],
           "deaths": 3,
           "mainStream": "",
