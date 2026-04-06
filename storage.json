@@ -33821,9 +33821,9 @@
           "team": [
             "Metang",
             "Hoppspross",
-            "Magnayen",
-            "Zigzachs",
-            "Nincada",
+            null,
+            null,
+            null,
             null
           ],
           "badges": [
@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 4,
+          "deaths": 7,
           "mainStream": "https://vdo.ninja/?view=grRmfyj&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=grRmfyj&fps=30&bitrate=800",
           "taken": false,
@@ -33871,15 +33871,15 @@
             },
             "Mondberg": {
               "name": "Zigzachs",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 4": {
               "name": "Nincada",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 4 (Kaufbares Pokémon)": {
               "name": "Magnayen",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Azuria City": {
               "name": "",
@@ -34406,6 +34406,21 @@
           "name": "Eneco",
           "player": 2,
           "color": "green"
+        },
+        {
+          "name": "Magnayen",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Zigzachs",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Nincada",
+          "player": 6,
+          "color": "pink"
         }
       ]
     }
