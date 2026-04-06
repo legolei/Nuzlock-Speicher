@@ -32880,11 +32880,11 @@
               "status": ""
             },
             "Route 6": {
-              "name": "Kleinstein",
+              "name": "Georok",
               "status": "Lebendig"
             },
             "Orania City": {
-              "name": "Kirlia",
+              "name": "Guardevoir",
               "status": "Lebendig"
             },
             "Digdahöhle": {
@@ -32904,7 +32904,7 @@
               "status": "Lebendig"
             },
             "Route 8": {
-              "name": "Endivie",
+              "name": "Lorblatt",
               "status": "Lebendig"
             },
             "Route 9": {
@@ -34079,7 +34079,7 @@
           "color": "yellow",
           "team": [
             null,
-            "Hoothoot",
+            null,
             null,
             null,
             null,
@@ -34106,7 +34106,7 @@
             },
             "Route 1": {
               "name": "Hoothoot",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertania City": {
               "name": "",
