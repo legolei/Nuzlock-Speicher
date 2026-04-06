@@ -33820,7 +33820,7 @@
           "color": "pink",
           "team": [
             "Tanhel",
-            null,
+            "Marill",
             null,
             null,
             null,
@@ -33846,8 +33846,8 @@
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "",
-              "status": ""
+              "name": "Marill",
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
