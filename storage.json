@@ -33820,7 +33820,7 @@
           "color": "pink",
           "team": [
             "Tanhel",
-            "Fiffyen",
+            null,
             null,
             null,
             null,
@@ -33828,7 +33828,7 @@
           ],
           "badges": [
             true,
-            true,
+            false,
             false,
             false,
             false,
@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 11,
+          "deaths": 12,
           "mainStream": "https://vdo.ninja/?view=grRmfyj&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=grRmfyj&fps=30&bitrate=800",
           "taken": false,
@@ -33855,7 +33855,7 @@
             },
             "Vertaniawald": {
               "name": "Fiffyen",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 2": {
               "name": "Ledyba",
@@ -34434,6 +34434,11 @@
         },
         {
           "name": "Ledyba",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Fiffyen",
           "player": 6,
           "color": "pink"
         }
