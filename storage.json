@@ -33819,9 +33819,9 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
+            "Krakeelo",
             "Pudox",
             "Kirlia",
-            "Flurmel",
             "Krebscorps",
             "Eneco",
             null
@@ -33842,7 +33842,7 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "Flurmel",
+              "name": "Krakeelo",
               "status": "Lebendig"
             },
             "Route 1": {
