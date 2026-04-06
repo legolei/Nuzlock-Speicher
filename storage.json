@@ -32790,7 +32790,7 @@
           "color": "green",
           "team": [
             "Lombrero",
-            "Eneco",
+            null,
             "Blitza",
             "Digda",
             "Kicklee",
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 0,
+          "deaths": 1,
           "mainStream": "https://vdo.ninja/?view=38rWpJZ",
           "touchStream": "https://vdo.ninja/?view=38rWpJZ",
           "taken": false,
@@ -32817,7 +32817,7 @@
             },
             "Route 1": {
               "name": "Eneco",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertania City": {
               "name": "",
@@ -34401,6 +34401,11 @@
           "name": "Fiffyen",
           "player": 6,
           "color": "pink"
+        },
+        {
+          "name": "Eneco",
+          "player": 2,
+          "color": "green"
         }
       ]
     }
