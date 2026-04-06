@@ -33822,7 +33822,7 @@
             "Tanhel",
             "Hoppspross",
             "Magnayen",
-            null,
+            "Zigzachs",
             null,
             null
           ],
@@ -33870,8 +33870,8 @@
               "status": "Lebendig"
             },
             "Mondberg": {
-              "name": "",
-              "status": ""
+              "name": "Zigzachs",
+              "status": "Lebendig"
             },
             "Route 4": {
               "name": "",
