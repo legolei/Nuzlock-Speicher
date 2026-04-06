@@ -33819,11 +33819,11 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
-            "Krakeelo",
-            "Pudox",
             "Kirlia",
+            "Pudox",
             "Krebscorps",
             "Eneco",
+            null,
             null
           ],
           "badges": [
@@ -33836,14 +33836,14 @@
             false,
             false
           ],
-          "deaths": 3,
+          "deaths": 4,
           "mainStream": "https://vdo.ninja/?view=HU7TNZp&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=HU7TNZp&fps=30&bitrate=800",
           "taken": false,
           "catches": {
             "Alabastia": {
               "name": "Krakeelo",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 1": {
               "name": "Hoothoot",
@@ -34396,6 +34396,11 @@
           "name": "Arbok",
           "player": 0,
           "color": "red"
+        },
+        {
+          "name": "Krakeelo",
+          "player": 6,
+          "color": "pink"
         }
       ]
     }
