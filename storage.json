@@ -33820,7 +33820,7 @@
           "color": "pink",
           "team": [
             "Metang",
-            "Hoppspross",
+            null,
             null,
             null,
             null,
@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 7,
+          "deaths": 8,
           "mainStream": "https://vdo.ninja/?view=grRmfyj&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=grRmfyj&fps=30&bitrate=800",
           "taken": false,
@@ -33867,7 +33867,7 @@
             },
             "Route 3": {
               "name": "Hoppspross",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mondberg": {
               "name": "Zigzachs",
@@ -34419,6 +34419,11 @@
         },
         {
           "name": "Nincada",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Hoppspross",
           "player": 6,
           "color": "pink"
         }
