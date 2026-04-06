@@ -32789,8 +32789,8 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            null,
-            null,
+            "Loturzel",
+            "Eneco",
             null,
             null,
             null,
@@ -32812,12 +32812,12 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "",
-              "status": ""
+              "name": "Loturzel",
+              "status": "Lebendig"
             },
             "Route 1": {
-              "name": "",
-              "status": ""
+              "name": "Eneco",
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
