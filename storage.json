@@ -32791,7 +32791,7 @@
           "team": [
             null,
             null,
-            "Papinella",
+            null,
             null,
             null,
             null
@@ -32812,24 +32812,24 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "Knofensa",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 1": {
-              "name": "Taubsi",
-              "status": "Blockiert"
+              "name": "",
+              "status": ""
             },
             "Vertania City": {
               "name": "",
               "status": ""
             },
             "Vertaniawald": {
-              "name": "Papinella",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 2": {
-              "name": "Marill",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Mamoria City": {
               "name": "",
@@ -33008,8 +33008,8 @@
               "status": ""
             },
             "Route 22": {
-              "name": "Gehweiher",
-              "status": "Blockiert"
+              "name": "",
+              "status": ""
             },
             "Route 24": {
               "name": "",
@@ -33820,7 +33820,7 @@
           "color": "pink",
           "team": [
             "Kirlia",
-            "Pudox",
+            null,
             null,
             null,
             null,
@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 7,
+          "deaths": 8,
           "mainStream": "https://vdo.ninja/?view=HU7TNZp&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=HU7TNZp&fps=30&bitrate=800",
           "taken": false,
@@ -33855,7 +33855,7 @@
             },
             "Vertaniawald": {
               "name": "Pudox",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 2": {
               "name": "Webarak",
@@ -34424,6 +34424,11 @@
         },
         {
           "name": "Krebscorps",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Pudox",
           "player": 6,
           "color": "pink"
         }
