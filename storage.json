@@ -32792,7 +32792,7 @@
             "Lombrero",
             "Geradaks",
             "Blitza",
-            "Digda",
+            null,
             "Kicklee",
             "Schneckmag"
           ],
@@ -32828,7 +32828,7 @@
               "status": "Lebendig"
             },
             "Route 2": {
-              "name": "Digda",
+              "name": "Digdri",
               "status": "Lebendig"
             },
             "Mamoria City": {
