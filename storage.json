@@ -32790,7 +32790,7 @@
           "color": "green",
           "team": [
             "Knofensa",
-            null,
+            "Marill",
             null,
             null,
             null,
@@ -32828,8 +32828,8 @@
               "status": ""
             },
             "Route 2": {
-              "name": "",
-              "status": ""
+              "name": "Marill",
+              "status": "Lebendig"
             },
             "Mamoria City": {
               "name": "",
