@@ -33819,7 +33819,7 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
-            null,
+            "Tanhel",
             null,
             null,
             null,
@@ -33842,8 +33842,8 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "",
-              "status": ""
+              "name": "Tanhel",
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "",
