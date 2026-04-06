@@ -34078,7 +34078,7 @@
           "name": "Fabian",
           "color": "yellow",
           "team": [
-            "Marill",
+            null,
             "Hoothoot",
             "Taubsi",
             "Gehweiher",
@@ -34126,7 +34126,7 @@
             },
             "Route 3": {
               "name": "Marill",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mondberg": {
               "name": "Habitak",
