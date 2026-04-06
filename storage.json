@@ -34081,7 +34081,7 @@
             "Samurzel",
             "Hoothoot",
             "Taubsi",
-            null,
+            "Gehweiher",
             null,
             null
           ],
@@ -34118,7 +34118,7 @@
             },
             "Route 2": {
               "name": "Gehweiher",
-              "status": ""
+              "status": "Lebendig"
             },
             "Mamoria City": {
               "name": "",
