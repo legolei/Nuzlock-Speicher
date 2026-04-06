@@ -33820,7 +33820,7 @@
           "color": "pink",
           "team": [
             "Tanhel",
-            "Marill",
+            null,
             "Flegmon",
             "Ledyba",
             null,
@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 8,
+          "deaths": 9,
           "mainStream": "https://vdo.ninja/?view=grRmfyj&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=grRmfyj&fps=30&bitrate=800",
           "taken": false,
@@ -33847,7 +33847,7 @@
             },
             "Route 1": {
               "name": "Marill",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertania City": {
               "name": "",
@@ -34419,6 +34419,11 @@
         },
         {
           "name": "Pudox",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Marill",
           "player": 6,
           "color": "pink"
         }
