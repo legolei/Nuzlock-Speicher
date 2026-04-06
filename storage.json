@@ -34082,7 +34082,7 @@
             "Hoothoot",
             "Taubsi",
             "Gehweiher",
-            "Sonnkern",
+            null,
             "Nidoran♀"
           ],
           "badges": [
@@ -34114,7 +34114,7 @@
             },
             "Vertaniawald": {
               "name": "Sonnkern",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 2": {
               "name": "Gehweiher",
