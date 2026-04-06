@@ -33821,7 +33821,7 @@
           "team": [
             "Tanhel",
             "Marill",
-            null,
+            "Flegmon",
             null,
             null,
             null
@@ -34038,8 +34038,8 @@
               "status": ""
             },
             "Route 22": {
-              "name": "",
-              "status": ""
+              "name": "Flegmon",
+              "status": "Lebendig"
             },
             "Route 24": {
               "name": "",
@@ -34079,7 +34079,7 @@
           "color": "yellow",
           "team": [
             "Pichu",
-            null,
+            "Taubsi",
             null,
             null,
             null,
@@ -34105,8 +34105,8 @@
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "",
-              "status": ""
+              "name": "Taubsi",
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
