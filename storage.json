@@ -33823,7 +33823,7 @@
             "Hoppspross",
             "Magnayen",
             "Zigzachs",
-            null,
+            "Nincada",
             null
           ],
           "badges": [
@@ -33874,8 +33874,8 @@
               "status": "Lebendig"
             },
             "Route 4": {
-              "name": "",
-              "status": ""
+              "name": "Nincada",
+              "status": "Lebendig"
             },
             "Route 4 (Kaufbares Pokémon)": {
               "name": "Magnayen",
@@ -34129,8 +34129,8 @@
               "status": "Lebendig"
             },
             "Mondberg": {
-              "name": "",
-              "status": ""
+              "name": "Habitak",
+              "status": "Lebendig"
             },
             "Route 4": {
               "name": "",
