@@ -34081,7 +34081,7 @@
             null,
             "Hoothoot",
             "Taubsi",
-            "Gehweiher",
+            null,
             null,
             "Nidoking"
           ],
@@ -34118,7 +34118,7 @@
             },
             "Route 2": {
               "name": "Gehweiher",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mamoria City": {
               "name": "",
