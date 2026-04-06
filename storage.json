@@ -32789,18 +32789,18 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            "Hubelupf",
-            "Xatu",
-            "Ibitak",
-            "Rattikarl",
-            "Sandamer",
-            "Smettbo"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
           ],
           "badges": [
-            true,
-            true,
-            true,
-            true,
+            false,
+            false,
+            false,
+            false,
             false,
             false,
             false,
@@ -32812,44 +32812,44 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "Bisasam",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 1": {
-              "name": "Ariados",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Vertania City": {
-              "name": "Panekon",
-              "status": "Blockiert"
+              "name": "",
+              "status": ""
             },
             "Vertaniawald": {
-              "name": "Azurill",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 2": {
-              "name": "Digda",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Mamoria City": {
               "name": "",
               "status": ""
             },
             "Route 3": {
-              "name": "Flurmel",
-              "status": "Blockiert"
+              "name": "",
+              "status": ""
             },
             "Mondberg": {
-              "name": "Togepi",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 4": {
-              "name": "Schwalboss",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 4 (Kaufbares Pokémon)": {
-              "name": "Metang",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Azuria City": {
               "name": "",
@@ -32864,8 +32864,8 @@
               "status": ""
             },
             "Route 5": {
-              "name": "Schneppke",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Safronia City": {
               "name": "",
@@ -32880,40 +32880,40 @@
               "status": ""
             },
             "Route 6": {
-              "name": "Ibitak",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Orania City": {
-              "name": "Magnayen",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Digdahöhle": {
-              "name": "Seemops",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 7": {
-              "name": "Xatu",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Prismania City": {
               "name": "",
               "status": ""
             },
             "Prismania City (Geschenk)": {
-              "name": "Donphan",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 8": {
-              "name": "Sandamer",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 9": {
-              "name": "Hubelupf",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Felshöhle": {
-              "name": "Taubsi",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Kraftwerk": {
               "name": "",
@@ -32924,16 +32924,16 @@
               "status": ""
             },
             "Route 10": {
-              "name": "Meditie",
-              "status": "Blockiert"
+              "name": "",
+              "status": ""
             },
             "Route 11": {
-              "name": "Woingenau",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 12": {
-              "name": "Wiesor",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 12 (Statik)": {
               "name": "",
@@ -33008,16 +33008,16 @@
               "status": ""
             },
             "Route 22": {
-              "name": "Dratini",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 24": {
-              "name": "Rattikarl",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 25": {
-              "name": "Smettbo",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Siegesstraße": {
               "name": "",
