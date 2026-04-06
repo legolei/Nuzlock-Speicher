@@ -33821,7 +33821,7 @@
           "team": [
             "Tanhel",
             "Hoppspross",
-            null,
+            "Magnayen",
             null,
             null,
             null
@@ -33878,8 +33878,8 @@
               "status": ""
             },
             "Route 4 (Kaufbares Pokémon)": {
-              "name": "",
-              "status": ""
+              "name": "Magnayen",
+              "status": "Lebendig"
             },
             "Azuria City": {
               "name": "",
