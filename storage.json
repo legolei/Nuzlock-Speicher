@@ -33822,7 +33822,7 @@
             "Tanhel",
             "Marill",
             "Flegmon",
-            null,
+            "Ledyba",
             null,
             null
           ],
@@ -33858,8 +33858,8 @@
               "status": ""
             },
             "Route 2": {
-              "name": "",
-              "status": ""
+              "name": "Ledyba",
+              "status": "Lebendig"
             },
             "Mamoria City": {
               "name": "",
