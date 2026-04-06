@@ -34078,7 +34078,7 @@
           "name": "Fabian",
           "color": "yellow",
           "team": [
-            "Samurzel",
+            null,
             "Hoothoot",
             "Taubsi",
             "Gehweiher",
@@ -34102,7 +34102,7 @@
           "catches": {
             "Alabastia": {
               "name": "Samurzel",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 1": {
               "name": "Hoothoot",
