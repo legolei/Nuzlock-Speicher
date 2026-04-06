@@ -33819,7 +33819,7 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
-            "Kirlia",
+            null,
             null,
             null,
             null,
@@ -33837,49 +33837,49 @@
             false
           ],
           "deaths": 8,
-          "mainStream": "https://vdo.ninja/?view=HU7TNZp&fps=30&bitrate=800",
-          "touchStream": "https://vdo.ninja/?view=HU7TNZp&fps=30&bitrate=800",
+          "mainStream": "https://vdo.ninja/?view=grRmfyj&fps=30&bitrate=800",
+          "touchStream": "https://vdo.ninja/?view=grRmfyj&fps=30&bitrate=800",
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "Krakeelo",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 1": {
-              "name": "Hoothoot",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Vertania City": {
               "name": "",
               "status": ""
             },
             "Vertaniawald": {
-              "name": "Pudox",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 2": {
-              "name": "Webarak",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Mamoria City": {
               "name": "",
               "status": ""
             },
             "Route 3": {
-              "name": "Kirlia",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Mondberg": {
-              "name": "Schneckmag",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 4": {
-              "name": "Eneco",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 4 (Kaufbares Pokémon)": {
-              "name": "Krebscorps",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Azuria City": {
               "name": "",
