@@ -32888,8 +32888,8 @@
               "status": "Lebendig"
             },
             "Digdahöhle": {
-              "name": "",
-              "status": ""
+              "name": "Zigzachs",
+              "status": "Lebendig"
             },
             "Route 7": {
               "name": "",
@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 12,
+          "deaths": 4,
           "mainStream": "https://vdo.ninja/?view=grRmfyj&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=grRmfyj&fps=30&bitrate=800",
           "taken": false,
@@ -34378,49 +34378,9 @@
           "color": "blue"
         },
         {
-          "name": "Webarak",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Schneppke",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Hoothoot",
-          "player": 6,
-          "color": "pink"
-        },
-        {
           "name": "Arbok",
           "player": 0,
           "color": "red"
-        },
-        {
-          "name": "Krakeelo",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Schneckmag",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Eneco",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Krebscorps",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Pudox",
-          "player": 6,
-          "color": "pink"
         },
         {
           "name": "Marill",
