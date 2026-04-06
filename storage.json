@@ -34080,7 +34080,7 @@
           "team": [
             null,
             "Hoothoot",
-            "Taubsi",
+            null,
             null,
             null,
             "Nidoking"
@@ -34298,7 +34298,7 @@
             },
             "Route 22": {
               "name": "Taubsi",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 24": {
               "name": "",
