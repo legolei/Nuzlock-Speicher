@@ -33820,7 +33820,7 @@
           "color": "pink",
           "team": [
             "Tanhel",
-            null,
+            "Hoppspross",
             null,
             null,
             null,
@@ -33866,8 +33866,8 @@
               "status": ""
             },
             "Route 3": {
-              "name": "",
-              "status": ""
+              "name": "Hoppspross",
+              "status": "Lebendig"
             },
             "Mondberg": {
               "name": "",
