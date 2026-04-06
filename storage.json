@@ -32932,11 +32932,11 @@
               "status": "Lebendig"
             },
             "Route 12": {
-              "name": "Karpador",
+              "name": "Garados",
               "status": "Lebendig"
             },
             "Route 12 (Statik)": {
-              "name": "Schwalbini",
+              "name": "Schwalboss",
               "status": "Lebendig"
             },
             "Route 13": {
@@ -32948,7 +32948,7 @@
               "status": ""
             },
             "Route 15": {
-              "name": "Sandan",
+              "name": "Sandamer",
               "status": "Lebendig"
             },
             "Fuchsania City": {
@@ -32956,7 +32956,7 @@
               "status": ""
             },
             "Safari-Zone": {
-              "name": "Phanpy",
+              "name": "Donphan",
               "status": "Lebendig"
             },
             "Route 16": {
@@ -32965,7 +32965,7 @@
             },
             "Route 16 (Statik)": {
               "name": "Tanhel",
-              "status": "Lebendig"
+              "status": ""
             },
             "Route 17": {
               "name": "Dragonir",
