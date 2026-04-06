@@ -33821,8 +33821,8 @@
           "team": [
             "Tanhel",
             null,
-            "Flegmon",
-            "Ledyba",
+            null,
+            null,
             null,
             null
           ],
@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 9,
+          "deaths": 11,
           "mainStream": "https://vdo.ninja/?view=grRmfyj&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=grRmfyj&fps=30&bitrate=800",
           "taken": false,
@@ -33859,7 +33859,7 @@
             },
             "Route 2": {
               "name": "Ledyba",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mamoria City": {
               "name": "",
@@ -34039,7 +34039,7 @@
             },
             "Route 22": {
               "name": "Flegmon",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 24": {
               "name": "",
@@ -34424,6 +34424,16 @@
         },
         {
           "name": "Marill",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Flegmon",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Ledyba",
           "player": 6,
           "color": "pink"
         }
