@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 2,
+          "deaths": 0,
           "mainStream": "https://vdo.ninja/?view=38rWpJZ",
           "touchStream": "https://vdo.ninja/?view=38rWpJZ",
           "taken": false,
@@ -34063,7 +34063,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 2.5999999999999988,
+            "userScale": 2.6499999999999986,
             "offX": -207,
             "offY": -126
           },
@@ -34401,16 +34401,6 @@
           "name": "Krakeelo",
           "player": 6,
           "color": "pink"
-        },
-        {
-          "name": "Knofensa",
-          "player": 2,
-          "color": "green"
-        },
-        {
-          "name": "Marill",
-          "player": 2,
-          "color": "green"
         },
         {
           "name": "Schneckmag",
