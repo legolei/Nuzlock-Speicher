@@ -32793,7 +32793,7 @@
             "Eneco",
             "Blitza",
             "Digda",
-            "Rabauz",
+            "Kicklee",
             "Schneckmag"
           ],
           "badges": [
@@ -32824,7 +32824,7 @@
               "status": ""
             },
             "Vertaniawald": {
-              "name": "Rabauz",
+              "name": "Kicklee",
               "status": "Lebendig"
             },
             "Route 2": {
@@ -34079,7 +34079,7 @@
           "color": "yellow",
           "team": [
             "Samurzel",
-            null,
+            "Hoothoot",
             null,
             null,
             null,
@@ -34105,8 +34105,8 @@
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "",
-              "status": ""
+              "name": "Hoothoot",
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
