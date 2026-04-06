@@ -32790,7 +32790,7 @@
           "color": "green",
           "team": [
             null,
-            "Marill",
+            null,
             "Papinella",
             null,
             null,
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 1,
+          "deaths": 2,
           "mainStream": "https://vdo.ninja/?view=38rWpJZ",
           "touchStream": "https://vdo.ninja/?view=38rWpJZ",
           "taken": false,
@@ -32829,7 +32829,7 @@
             },
             "Route 2": {
               "name": "Marill",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mamoria City": {
               "name": "",
@@ -34404,6 +34404,11 @@
         },
         {
           "name": "Knofensa",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Marill",
           "player": 2,
           "color": "green"
         }
