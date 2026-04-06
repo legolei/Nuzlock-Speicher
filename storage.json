@@ -33820,7 +33820,7 @@
           "color": "pink",
           "team": [
             "Tanhel",
-            null,
+            "Fiffyen",
             null,
             null,
             null,
@@ -33854,8 +33854,8 @@
               "status": ""
             },
             "Vertaniawald": {
-              "name": "",
-              "status": ""
+              "name": "Fiffyen",
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "Ledyba",
@@ -34078,9 +34078,9 @@
           "name": "Fabian",
           "color": "yellow",
           "team": [
-            "Pichu",
-            "Taubsi",
-            "Digda",
+            null,
+            null,
+            null,
             null,
             null,
             null
@@ -34101,12 +34101,12 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "Pichu",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 1": {
-              "name": "Taubsi",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Vertania City": {
               "name": "",
@@ -34297,8 +34297,8 @@
               "status": ""
             },
             "Route 22": {
-              "name": "Digda",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 24": {
               "name": "",
