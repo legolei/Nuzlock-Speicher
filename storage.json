@@ -32789,7 +32789,7 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            "Knofensa",
+            null,
             "Marill",
             "Papinella",
             null,
@@ -32806,14 +32806,14 @@
             false,
             false
           ],
-          "deaths": 0,
+          "deaths": 1,
           "mainStream": "https://vdo.ninja/?view=38rWpJZ",
           "touchStream": "https://vdo.ninja/?view=38rWpJZ",
           "taken": false,
           "catches": {
             "Alabastia": {
               "name": "Knofensa",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 1": {
               "name": "Taubsi",
@@ -34401,6 +34401,11 @@
           "name": "Krakeelo",
           "player": 6,
           "color": "pink"
+        },
+        {
+          "name": "Knofensa",
+          "player": 2,
+          "color": "green"
         }
       ]
     }
