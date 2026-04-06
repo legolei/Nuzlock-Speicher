@@ -33823,7 +33823,7 @@
             "Pudox",
             "Krebscorps",
             "Eneco",
-            "Schneckmag",
+            null,
             null
           ],
           "badges": [
@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 4,
+          "deaths": 5,
           "mainStream": "https://vdo.ninja/?view=HU7TNZp&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=HU7TNZp&fps=30&bitrate=800",
           "taken": false,
@@ -33871,7 +33871,7 @@
             },
             "Mondberg": {
               "name": "Schneckmag",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 4": {
               "name": "Eneco",
@@ -34411,6 +34411,11 @@
           "name": "Marill",
           "player": 2,
           "color": "green"
+        },
+        {
+          "name": "Schneckmag",
+          "player": 6,
+          "color": "pink"
         }
       ]
     }
