@@ -32791,7 +32791,7 @@
           "team": [
             "Loturzel",
             "Eneco",
-            null,
+            "Quiekel",
             null,
             null,
             null
@@ -33008,8 +33008,8 @@
               "status": ""
             },
             "Route 22": {
-              "name": "",
-              "status": ""
+              "name": "Quiekel",
+              "status": "Lebendig"
             },
             "Route 24": {
               "name": "",
