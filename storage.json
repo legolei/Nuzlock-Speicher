@@ -32912,8 +32912,8 @@
               "status": "Blockiert"
             },
             "Felshöhle": {
-              "name": "",
-              "status": ""
+              "name": "Tannza",
+              "status": "Lebendig"
             },
             "Kraftwerk": {
               "name": "",
@@ -34083,7 +34083,7 @@
             "Taubsi",
             "Gehweiher",
             "Sonnkern",
-            null
+            "Nidoran♀"
           ],
           "badges": [
             true,
@@ -34137,8 +34137,8 @@
               "status": ""
             },
             "Route 4 (Kaufbares Pokémon)": {
-              "name": "",
-              "status": ""
+              "name": "Nidoran♀",
+              "status": "Lebendig"
             },
             "Azuria City": {
               "name": "",
