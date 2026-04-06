@@ -34078,7 +34078,7 @@
           "name": "Fabian",
           "color": "yellow",
           "team": [
-            null,
+            "Pichu",
             null,
             null,
             null,
@@ -34101,8 +34101,8 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "",
-              "status": ""
+              "name": "Pichu",
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "",
