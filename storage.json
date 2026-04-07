@@ -33823,7 +33823,7 @@
             "Duflor",
             "Rettan",
             "Gehweiher",
-            null,
+            "Nidoran♂",
             null
           ],
           "badges": [
@@ -33910,8 +33910,8 @@
               "status": ""
             },
             "Route 6": {
-              "name": "",
-              "status": ""
+              "name": "Nidoran♂",
+              "status": "Lebendig"
             },
             "Orania City": {
               "name": "",
