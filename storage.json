@@ -34081,7 +34081,7 @@
             "Smettbo",
             "Moorabbel",
             "Glumanda",
-            null,
+            "Larvitar",
             null,
             null
           ],
@@ -34154,7 +34154,7 @@
             },
             "Route 5": {
               "name": "Larvitar",
-              "status": ""
+              "status": "Lebendig"
             },
             "Safronia City": {
               "name": "",
