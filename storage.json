@@ -32844,7 +32844,7 @@
               "status": "Lebendig"
             },
             "Route 4": {
-              "name": "Seejong",
+              "name": "Walraisa",
               "status": "Lebendig"
             },
             "Route 4 (Kaufbares Pokémon)": {
@@ -33821,7 +33821,7 @@
           "team": [
             "Magnayen",
             "Myrapla",
-            null,
+            "Rettan",
             null,
             null,
             null
@@ -34046,8 +34046,8 @@
               "status": "Lebendig"
             },
             "Route 25": {
-              "name": "",
-              "status": ""
+              "name": "Rettan",
+              "status": "Lebendig"
             },
             "Siegesstraße": {
               "name": "",
@@ -34321,7 +34321,10 @@
             "left": 0,
             "top": 0,
             "w": 100,
-            "h": 100
+            "h": 100,
+            "userScale": 1.8000000000000007,
+            "offX": -19,
+            "offY": -28
           },
           "touchAdj": {
             "left": 0,
