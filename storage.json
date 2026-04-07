@@ -34078,7 +34078,7 @@
           "name": "Fabian",
           "color": "yellow",
           "team": [
-            null,
+            "Endivie",
             null,
             null,
             null,
@@ -34101,44 +34101,44 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "Samurzel",
-              "status": "Tot"
+              "name": "Endivie",
+              "status": "Lebendig"
             },
             "Route 1": {
-              "name": "Hoothoot",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Vertania City": {
               "name": "",
               "status": ""
             },
             "Vertaniawald": {
-              "name": "Sonnkern",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 2": {
-              "name": "Gehweiher",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Mamoria City": {
               "name": "",
               "status": ""
             },
             "Route 3": {
-              "name": "Marill",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Mondberg": {
-              "name": "Habitak",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 4": {
-              "name": "Rettan",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 4 (Kaufbares Pokémon)": {
-              "name": "Nidoking",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Azuria City": {
               "name": "",
@@ -34297,8 +34297,8 @@
               "status": ""
             },
             "Route 22": {
-              "name": "Taubsi",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 24": {
               "name": "",
