@@ -34080,7 +34080,7 @@
           "team": [
             "Fluffeluff",
             "Moorabbel",
-            "Papinella",
+            null,
             null,
             "Zigzachs",
             null
@@ -34114,7 +34114,7 @@
             },
             "Vertaniawald": {
               "name": "Papinella",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 2": {
               "name": "Fluffeluff",
