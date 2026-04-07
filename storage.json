@@ -32789,7 +32789,7 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            "Dragoran",
+            null,
             "Metagross",
             "Despotar",
             "Walraisa",
@@ -32806,7 +32806,7 @@
             true,
             true
           ],
-          "deaths": 6,
+          "deaths": 7,
           "mainStream": "https://vdo.ninja/?view=psXqjrf",
           "touchStream": "https://vdo.ninja/?view=psXqjrf",
           "taken": false,
@@ -32969,7 +32969,7 @@
             },
             "Route 17": {
               "name": "Dragoran",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 18": {
               "name": "Pummeluff",
@@ -34484,6 +34484,11 @@
           "name": "Glutexo",
           "player": 7,
           "color": "yellow"
+        },
+        {
+          "name": "Dragoran",
+          "player": 2,
+          "color": "green"
         }
       ]
     }
