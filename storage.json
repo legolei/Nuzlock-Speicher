@@ -34081,7 +34081,7 @@
             "Fluffeluff",
             "Hydropi",
             "Papinella",
-            "Pixi",
+            null,
             "Zigzachs",
             null
           ],
@@ -34138,7 +34138,7 @@
             },
             "Route 4 (Kaufbares Pokémon)": {
               "name": "Pixi",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Azuria City": {
               "name": "",
