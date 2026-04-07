@@ -32791,7 +32791,7 @@
           "team": [
             "Libelldra",
             "Guardevoir",
-            "Blitza",
+            null,
             "Kappalores",
             "Kicklee",
             "Digdri"
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 1,
+          "deaths": 2,
           "mainStream": "https://vdo.ninja/?view=psXqjrf&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=psXqjrf&fps=30&bitrate=800",
           "taken": false,
@@ -32849,7 +32849,7 @@
             },
             "Route 4 (Kaufbares Pokémon)": {
               "name": "Blitza",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Azuria City": {
               "name": "",
@@ -34431,6 +34431,11 @@
           "name": "Metang",
           "player": 6,
           "color": "pink"
+        },
+        {
+          "name": "Blitza",
+          "player": 2,
+          "color": "green"
         }
       ]
     }
