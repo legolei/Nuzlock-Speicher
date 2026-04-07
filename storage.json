@@ -34078,7 +34078,7 @@
           "name": "Fabian",
           "color": "yellow",
           "team": [
-            "Smettbo",
+            null,
             "Moorabbel",
             "Kleinstein",
             "Larvitar",
@@ -34302,7 +34302,7 @@
             },
             "Route 24": {
               "name": "Smettbo",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 25": {
               "name": "Remoraid",
