@@ -34079,7 +34079,7 @@
           "color": "yellow",
           "team": [
             "Endivie",
-            null,
+            "Hydropi",
             null,
             null,
             null,
@@ -34298,7 +34298,7 @@
             },
             "Route 22": {
               "name": "Hydropi",
-              "status": ""
+              "status": "Lebendig"
             },
             "Route 24": {
               "name": "",
