@@ -33819,7 +33819,7 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
-            "Geradaks",
+            null,
             "Magnayen",
             null,
             null,
@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 3,
+          "deaths": 4,
           "mainStream": "https://vdo.ninja/?view=eM5Brwu&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=eM5Brwu&fps=30&bitrate=800",
           "taken": false,
@@ -33871,7 +33871,7 @@
             },
             "Mondberg": {
               "name": "Geradaks",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 4": {
               "name": "Nincada",
@@ -34404,6 +34404,11 @@
         },
         {
           "name": "Nincada",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Geradaks",
           "player": 6,
           "color": "pink"
         }
