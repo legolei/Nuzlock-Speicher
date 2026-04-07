@@ -32275,7 +32275,7 @@
             "Gengar",
             "Kabutops",
             "Lohgock",
-            "Stollrak",
+            null,
             "Tengulist"
           ],
           "badges": [
@@ -32394,7 +32394,7 @@
               "status": "Lebendig"
             },
             "Felshöhle": {
-              "name": "Stollrak",
+              "name": "sto",
               "status": "Lebendig"
             },
             "Kraftwerk": {
@@ -34105,7 +34105,7 @@
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "",
+              "name": "Schneckmag",
               "status": ""
             },
             "Vertania City": {
