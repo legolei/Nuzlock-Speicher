@@ -34080,7 +34080,7 @@
           "team": [
             "Fluffeluff",
             "Hydropi",
-            "Schaloko",
+            "Papinella",
             null,
             null,
             null
@@ -34095,7 +34095,7 @@
             false,
             false
           ],
-          "deaths": 0,
+          "deaths": 2,
           "mainStream": "https://vdo.ninja/?view=v3vjdHd&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=v3vjdHd&fps=30&bitrate=800",
           "taken": false,
@@ -34113,7 +34113,7 @@
               "status": ""
             },
             "Vertaniawald": {
-              "name": "Schaloko",
+              "name": "Papinella",
               "status": "Lebendig"
             },
             "Route 2": {
@@ -34454,6 +34454,16 @@
           "name": "Gengar",
           "player": 0,
           "color": "red"
+        },
+        {
+          "name": "Endivie",
+          "player": 7,
+          "color": "yellow"
+        },
+        {
+          "name": "Schneckmag",
+          "player": 7,
+          "color": "yellow"
         }
       ]
     }
