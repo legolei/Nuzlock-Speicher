@@ -32792,7 +32792,7 @@
             null,
             "Metagross",
             "Despotar",
-            "Walraisa",
+            null,
             null,
             null
           ],
@@ -32806,7 +32806,7 @@
             true,
             true
           ],
-          "deaths": 8,
+          "deaths": 9,
           "mainStream": "https://vdo.ninja/?view=psXqjrf",
           "touchStream": "https://vdo.ninja/?view=psXqjrf",
           "taken": false,
@@ -32845,7 +32845,7 @@
             },
             "Route 4": {
               "name": "Walraisa",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 4 (Kaufbares Pokémon)": {
               "name": "Blitza",
@@ -34492,6 +34492,11 @@
         },
         {
           "name": "Guardevoir",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Walraisa",
           "player": 2,
           "color": "green"
         }
