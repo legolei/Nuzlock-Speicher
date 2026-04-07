@@ -33918,8 +33918,8 @@
               "status": "Lebendig"
             },
             "Digdahöhle": {
-              "name": "",
-              "status": ""
+              "name": "Quiekel",
+              "status": "Lebendig"
             },
             "Route 7": {
               "name": "",
@@ -34082,7 +34082,7 @@
             "Moorabbel",
             "Kleinstein",
             "Larvitar",
-            null,
+            "Eneco",
             null
           ],
           "badges": [
@@ -34178,7 +34178,7 @@
             },
             "Digdahöhle": {
               "name": "Eneco",
-              "status": ""
+              "status": "Lebendig"
             },
             "Route 7": {
               "name": "",
