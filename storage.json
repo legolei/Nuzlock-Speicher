@@ -34081,7 +34081,7 @@
             null,
             "Moorabbel",
             "Smettbo",
-            "Zigzachs",
+            null,
             "Remoraid",
             null
           ],
@@ -34095,7 +34095,7 @@
             false,
             false
           ],
-          "deaths": 2,
+          "deaths": 3,
           "mainStream": "https://vdo.ninja/?view=v3vjdHd&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=v3vjdHd&fps=30&bitrate=800",
           "taken": false,
@@ -34322,7 +34322,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 1.9000000000000008,
+            "userScale": 1.6500000000000006,
             "offX": -146,
             "offY": -82
           },
@@ -34462,6 +34462,11 @@
         },
         {
           "name": "Schneckmag",
+          "player": 7,
+          "color": "yellow"
+        },
+        {
+          "name": "Zigzachs",
           "player": 7,
           "color": "yellow"
         }
