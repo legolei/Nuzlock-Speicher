@@ -33823,7 +33823,7 @@
             "Magnayen",
             null,
             "Zigzachs",
-            "Nincada",
+            null,
             null
           ],
           "badges": [
@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 2,
+          "deaths": 3,
           "mainStream": "https://vdo.ninja/?view=eM5Brwu&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=eM5Brwu&fps=30&bitrate=800",
           "taken": false,
@@ -33875,7 +33875,7 @@
             },
             "Route 4": {
               "name": "Nincada",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 4 (Kaufbares Pokémon)": {
               "name": "Magnayen",
@@ -34399,6 +34399,11 @@
         },
         {
           "name": "Hoppspross",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Nincada",
           "player": 6,
           "color": "pink"
         }
