@@ -33819,7 +33819,7 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
-            "Metang",
+            null,
             "Magnayen",
             "Hoppspross",
             "Zigzachs",
@@ -33836,14 +33836,14 @@
             false,
             false
           ],
-          "deaths": 0,
+          "deaths": 1,
           "mainStream": "https://vdo.ninja/?view=eM5Brwu&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=eM5Brwu&fps=30&bitrate=800",
           "taken": false,
           "catches": {
             "Alabastia": {
               "name": "Metang",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 1": {
               "name": "Marill",
@@ -34391,6 +34391,11 @@
           "name": "Blitza",
           "player": 2,
           "color": "green"
+        },
+        {
+          "name": "Metang",
+          "player": 6,
+          "color": "pink"
         }
       ]
     }
