@@ -34082,7 +34082,7 @@
             "Moorabbel",
             "Smettbo",
             null,
-            "Remoraid",
+            null,
             null
           ],
           "badges": [
@@ -34095,7 +34095,7 @@
             false,
             false
           ],
-          "deaths": 3,
+          "deaths": 4,
           "mainStream": "https://vdo.ninja/?view=v3vjdHd&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=v3vjdHd&fps=30&bitrate=800",
           "taken": false,
@@ -34306,7 +34306,7 @@
             },
             "Route 25": {
               "name": "Remoraid",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Siegesstraße": {
               "name": "",
@@ -34467,6 +34467,11 @@
         },
         {
           "name": "Zigzachs",
+          "player": 7,
+          "color": "yellow"
+        },
+        {
+          "name": "Remoraid",
           "player": 7,
           "color": "yellow"
         }
