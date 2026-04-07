@@ -32984,8 +32984,8 @@
               "status": "Lebendig"
             },
             "Seeschauminsel": {
-              "name": "",
-              "status": ""
+              "name": "Botogel",
+              "status": "Blockiert"
             },
             "Seeschauminsel (Statik)": {
               "name": "",
@@ -33820,7 +33820,7 @@
           "color": "pink",
           "team": [
             "Magnayen",
-            "Myrapla",
+            "Duflor",
             "Rettan",
             null,
             null,
@@ -34042,7 +34042,7 @@
               "status": "Tot"
             },
             "Route 24": {
-              "name": "Myrapla",
+              "name": "Duflor",
               "status": "Lebendig"
             },
             "Route 25": {
@@ -34082,7 +34082,7 @@
             "Hydropi",
             "Papinella",
             "Pixi",
-            "Habitak",
+            null,
             null
           ],
           "badges": [
@@ -34126,7 +34126,7 @@
             },
             "Route 3": {
               "name": "Habitak",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mondberg": {
               "name": "",
