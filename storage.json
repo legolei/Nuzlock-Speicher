@@ -32791,10 +32791,10 @@
           "team": [
             "Dragoran",
             "Metagross",
-            "Guardevoir",
+            "Despotar",
             "Walraisa",
-            "Kokowei",
-            "Digdri"
+            "Guardevoir",
+            "Kokowei"
           ],
           "badges": [
             true,
@@ -34081,7 +34081,7 @@
             null,
             "Moorabbel",
             "Smettbo",
-            "Zigzachs",
+            null,
             "Remoraid",
             null
           ],
@@ -34130,7 +34130,7 @@
             },
             "Mondberg": {
               "name": "Zigzachs",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 4": {
               "name": "Wingull",
