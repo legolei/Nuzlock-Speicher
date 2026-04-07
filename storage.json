@@ -34078,7 +34078,7 @@
           "name": "Fabian",
           "color": "yellow",
           "team": [
-            "Fluffeluff",
+            null,
             "Moorabbel",
             "Smettbo",
             "Zigzachs",
@@ -34118,7 +34118,7 @@
             },
             "Route 2": {
               "name": "Fluffeluff",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mamoria City": {
               "name": "",
