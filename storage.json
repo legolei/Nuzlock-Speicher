@@ -33819,10 +33819,10 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
-            null,
+            "Geradaks",
             "Magnayen",
             null,
-            "Zigzachs",
+            null,
             null,
             null
           ],
@@ -33870,7 +33870,7 @@
               "status": "Tot"
             },
             "Mondberg": {
-              "name": "Zigzachs",
+              "name": "Geradaks",
               "status": "Lebendig"
             },
             "Route 4": {
