@@ -32793,7 +32793,7 @@
             "Metagross",
             "Despotar",
             "Walraisa",
-            "Guardevoir",
+            null,
             null
           ],
           "badges": [
@@ -32806,7 +32806,7 @@
             true,
             true
           ],
-          "deaths": 7,
+          "deaths": 8,
           "mainStream": "https://vdo.ninja/?view=psXqjrf",
           "touchStream": "https://vdo.ninja/?view=psXqjrf",
           "taken": false,
@@ -32885,7 +32885,7 @@
             },
             "Orania City": {
               "name": "Guardevoir",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Digdahöhle": {
               "name": "Geradaks",
@@ -34487,6 +34487,11 @@
         },
         {
           "name": "Dragoran",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Guardevoir",
           "player": 2,
           "color": "green"
         }
