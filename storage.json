@@ -34080,7 +34080,7 @@
           "team": [
             "Smettbo",
             "Moorabbel",
-            "Larvitar",
+            null,
             null,
             null,
             null
@@ -34169,7 +34169,7 @@
               "status": ""
             },
             "Route 6": {
-              "name": "",
+              "name": "Glumanda",
               "status": ""
             },
             "Orania City": {
