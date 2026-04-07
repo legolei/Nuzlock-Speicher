@@ -34078,7 +34078,7 @@
           "name": "Fabian",
           "color": "yellow",
           "team": [
-            "Endivie",
+            null,
             "Hydropi",
             null,
             null,
@@ -34102,7 +34102,7 @@
           "catches": {
             "Alabastia": {
               "name": "Endivie",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 1": {
               "name": "Schneckmag",
