@@ -32272,7 +32272,7 @@
           "color": "red",
           "team": [
             "Altaria",
-            "Gengar",
+            null,
             "Kabutops",
             "Lohgock",
             "Stolloss",
@@ -32288,7 +32288,7 @@
             false,
             false
           ],
-          "deaths": 8,
+          "deaths": 9,
           "mainStream": "https://vdo.ninja/?view=qggUENz&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=qggUENz&fps=30&bitrate=800",
           "taken": false,
@@ -32387,7 +32387,7 @@
             },
             "Route 8": {
               "name": "Gengar",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 9": {
               "name": "Tauboss",
@@ -34449,6 +34449,11 @@
           "name": "Kappalores",
           "player": 2,
           "color": "green"
+        },
+        {
+          "name": "Gengar",
+          "player": 0,
+          "color": "red"
         }
       ]
     }
