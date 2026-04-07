@@ -32789,10 +32789,10 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            null,
+            "Libelldra",
             "Guardevoir",
             "Metagross",
-            null,
+            "Walraisa",
             null,
             "Digdri"
           ],
@@ -32924,8 +32924,8 @@
               "status": ""
             },
             "Route 10": {
-              "name": "Vibrava",
-              "status": ""
+              "name": "Libelldra",
+              "status": "Lebendig"
             },
             "Route 11": {
               "name": "Draschel",
