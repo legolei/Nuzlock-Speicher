@@ -32925,7 +32925,7 @@
             },
             "Route 10": {
               "name": "Vibrava",
-              "status": "Lebendig"
+              "status": ""
             },
             "Route 11": {
               "name": "Draschel",
@@ -34323,8 +34323,8 @@
             "w": 100,
             "h": 100,
             "userScale": 1.8000000000000007,
-            "offX": -19,
-            "offY": -28
+            "offX": -146,
+            "offY": -82
           },
           "touchAdj": {
             "left": 0,
