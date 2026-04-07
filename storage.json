@@ -32533,7 +32533,7 @@
             "Glurak",
             "Sumpex",
             "Vibrava",
-            "Stollrak",
+            null,
             "Letarking",
             "Bisaflor"
           ],
@@ -32709,7 +32709,7 @@
               "status": "Lebendig"
             },
             "Route 17": {
-              "name": "Stollrak",
+              "name": "Stolloss",
               "status": "Lebendig"
             },
             "Route 18": {
@@ -34082,7 +34082,7 @@
             "Hydropi",
             "Papinella",
             "Pixi",
-            null,
+            "Zigzachs",
             null
           ],
           "badges": [
@@ -34130,7 +34130,7 @@
             },
             "Mondberg": {
               "name": "Zigzachs",
-              "status": ""
+              "status": "Lebendig"
             },
             "Route 4": {
               "name": "",
