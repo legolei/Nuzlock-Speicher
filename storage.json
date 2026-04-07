@@ -33822,7 +33822,7 @@
             "Magnayen",
             "Duflor",
             "Rettan",
-            null,
+            "Gehweiher",
             null,
             null
           ],
@@ -33894,8 +33894,8 @@
               "status": ""
             },
             "Route 5": {
-              "name": "",
-              "status": ""
+              "name": "Gehweiher",
+              "status": "Lebendig"
             },
             "Safronia City": {
               "name": "",
