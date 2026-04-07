@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 4,
+          "deaths": 8,
           "mainStream": "https://vdo.ninja/?view=eM5Brwu&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=eM5Brwu&fps=30&bitrate=800",
           "taken": false,
@@ -34409,6 +34409,26 @@
         },
         {
           "name": "Geradaks",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Flegmon",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Marill",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Fiffyen",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Ledyba",
           "player": 6,
           "color": "pink"
         }
