@@ -34081,7 +34081,7 @@
             "Fluffeluff",
             "Moorabbel",
             "Papinella",
-            "Wingull",
+            null,
             "Zigzachs",
             null
           ],
@@ -34134,7 +34134,7 @@
             },
             "Route 4": {
               "name": "Wingull",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 4 (Kaufbares Pokémon)": {
               "name": "Pixi",
