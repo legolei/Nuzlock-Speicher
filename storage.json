@@ -33820,7 +33820,7 @@
           "color": "pink",
           "team": [
             "Metang",
-            "Fiffyen",
+            null,
             "Hoppspross",
             "Zigzachs",
             "Nincada",
@@ -33855,7 +33855,7 @@
             },
             "Vertaniawald": {
               "name": "Fiffyen",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 2": {
               "name": "Ledyba",
@@ -34039,7 +34039,7 @@
             },
             "Route 22": {
               "name": "Flegmon",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 24": {
               "name": "",
