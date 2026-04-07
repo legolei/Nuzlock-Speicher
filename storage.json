@@ -34078,9 +34078,9 @@
           "name": "Fabian",
           "color": "yellow",
           "team": [
-            null,
+            "Fluffeluff",
             "Hydropi",
-            null,
+            "Schaloko",
             null,
             null,
             null
@@ -34114,7 +34114,7 @@
             },
             "Vertaniawald": {
               "name": "Schaloko",
-              "status": ""
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "Fluffeluff",
