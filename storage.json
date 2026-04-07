@@ -33824,7 +33824,7 @@
             "Rettan",
             "Gehweiher",
             "Nidorino",
-            null
+            "Pummeluff"
           ],
           "badges": [
             true,
@@ -33914,8 +33914,8 @@
               "status": "Lebendig"
             },
             "Orania City": {
-              "name": "",
-              "status": ""
+              "name": "Pummeluff",
+              "status": "Lebendig"
             },
             "Digdahöhle": {
               "name": "",
@@ -34080,7 +34080,7 @@
           "team": [
             "Smettbo",
             "Moorabbel",
-            null,
+            "Larvitar",
             null,
             null,
             null
