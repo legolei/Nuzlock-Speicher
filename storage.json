@@ -32794,7 +32794,7 @@
             "Despotar",
             "Walraisa",
             "Guardevoir",
-            "Kokowei"
+            null
           ],
           "badges": [
             true,
@@ -32806,7 +32806,7 @@
             true,
             true
           ],
-          "deaths": 5,
+          "deaths": 6,
           "mainStream": "https://vdo.ninja/?view=psXqjrf",
           "touchStream": "https://vdo.ninja/?view=psXqjrf",
           "taken": false,
@@ -32941,7 +32941,7 @@
             },
             "Route 13": {
               "name": "Kokowei",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 14": {
               "name": "",
@@ -34474,6 +34474,11 @@
           "name": "Remoraid",
           "player": 7,
           "color": "yellow"
+        },
+        {
+          "name": "Kokowei",
+          "player": 2,
+          "color": "green"
         }
       ]
     }
