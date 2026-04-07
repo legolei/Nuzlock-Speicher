@@ -33819,11 +33819,11 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
-            null,
-            null,
-            null,
-            null,
-            null,
+            "Metang",
+            "Fiffyen",
+            "Hoppspross",
+            "Zigzachs",
+            "Nincada",
             null
           ],
           "badges": [
@@ -33843,7 +33843,7 @@
           "catches": {
             "Alabastia": {
               "name": "Metang",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "Marill",
@@ -33855,7 +33855,7 @@
             },
             "Vertaniawald": {
               "name": "Fiffyen",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "Ledyba",
@@ -33867,15 +33867,15 @@
             },
             "Route 3": {
               "name": "Hoppspross",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Mondberg": {
               "name": "Zigzachs",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 4": {
               "name": "Nincada",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 4 (Kaufbares Pokémon)": {
               "name": "Magnayen",
