@@ -32793,7 +32793,7 @@
             "Guardevoir",
             "Metagross",
             "Kappalores",
-            "Kicklee",
+            null,
             "Digdri"
           ],
           "badges": [
@@ -32806,7 +32806,7 @@
             true,
             false
           ],
-          "deaths": 3,
+          "deaths": 4,
           "mainStream": "https://vdo.ninja/?view=psXqjrf",
           "touchStream": "https://vdo.ninja/?view=psXqjrf",
           "taken": false,
@@ -32825,7 +32825,7 @@
             },
             "Vertaniawald": {
               "name": "Kicklee",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 2": {
               "name": "Digdri",
@@ -34434,6 +34434,11 @@
         },
         {
           "name": "Libelldra",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Kicklee",
           "player": 2,
           "color": "green"
         }
