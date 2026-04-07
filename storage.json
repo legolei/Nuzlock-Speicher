@@ -32792,7 +32792,7 @@
             null,
             "Guardevoir",
             "Metagross",
-            "Kappalores",
+            null,
             null,
             "Digdri"
           ],
@@ -32806,14 +32806,14 @@
             true,
             false
           ],
-          "deaths": 4,
+          "deaths": 5,
           "mainStream": "https://vdo.ninja/?view=psXqjrf",
           "touchStream": "https://vdo.ninja/?view=psXqjrf",
           "taken": false,
           "catches": {
             "Alabastia": {
               "name": "Kappalores",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 1": {
               "name": "Eneco",
@@ -34439,6 +34439,11 @@
         },
         {
           "name": "Kicklee",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Kappalores",
           "player": 2,
           "color": "green"
         }
