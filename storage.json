@@ -34080,7 +34080,7 @@
           "team": [
             "Smettbo",
             "Moorabbel",
-            null,
+            "Kleinstein",
             "Larvitar",
             null,
             null
@@ -34217,8 +34217,8 @@
               "status": ""
             },
             "Route 11": {
-              "name": "",
-              "status": ""
+              "name": "Kleinstein",
+              "status": "Lebendig"
             },
             "Route 12": {
               "name": "",
