@@ -34095,7 +34095,7 @@
             false,
             false
           ],
-          "deaths": 4,
+          "deaths": 5,
           "mainStream": "https://vdo.ninja/?view=v3vjdHd&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=v3vjdHd&fps=30&bitrate=800",
           "taken": false,
@@ -34170,7 +34170,7 @@
             },
             "Route 6": {
               "name": "Glutexo",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Orania City": {
               "name": "",
@@ -34479,6 +34479,11 @@
           "name": "Kokowei",
           "player": 2,
           "color": "green"
+        },
+        {
+          "name": "Glutexo",
+          "player": 7,
+          "color": "yellow"
         }
       ]
     }
