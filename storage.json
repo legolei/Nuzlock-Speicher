@@ -32789,7 +32789,7 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            "Libelldra",
+            null,
             "Guardevoir",
             "Metagross",
             "Kappalores",
@@ -32806,7 +32806,7 @@
             true,
             false
           ],
-          "deaths": 2,
+          "deaths": 3,
           "mainStream": "https://vdo.ninja/?view=psXqjrf",
           "touchStream": "https://vdo.ninja/?view=psXqjrf",
           "taken": false,
@@ -32901,7 +32901,7 @@
             },
             "Prismania City (Geschenk)": {
               "name": "Libelldra",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 8": {
               "name": "Meganie",
@@ -34431,6 +34431,11 @@
           "name": "Ledyba",
           "player": 6,
           "color": "pink"
+        },
+        {
+          "name": "Libelldra",
+          "player": 2,
+          "color": "green"
         }
       ]
     }
