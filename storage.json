@@ -34080,7 +34080,7 @@
           "team": [
             "Smettbo",
             "Moorabbel",
-            "Glutexo",
+            null,
             "Larvitar",
             null,
             null
@@ -34322,7 +34322,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 1.7000000000000006,
+            "userScale": 1.7500000000000007,
             "offX": -146,
             "offY": -82
           },
