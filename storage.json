@@ -32531,7 +32531,7 @@
           "color": "blue",
           "team": [
             "Glurak",
-            "Sumpex",
+            null,
             null,
             "Lugia",
             "Letarking",
@@ -32547,14 +32547,14 @@
             true,
             true
           ],
-          "deaths": 4,
+          "deaths": 5,
           "mainStream": "https://vdo.ninja/?view=bYWzmYg&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=bYWzmYg&fps=30&bitrate=800",
           "taken": false,
           "catches": {
             "Alabastia": {
               "name": "Sumpex",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 1": {
               "name": "Rattikarl",
@@ -33882,8 +33882,8 @@
               "status": "Lebendig"
             },
             "Azuria City": {
-              "name": "",
-              "status": ""
+              "name": "Azurill",
+              "status": "Lebendig"
             },
             "Azuriahöhle": {
               "name": "",
@@ -34417,6 +34417,11 @@
         },
         {
           "name": "Bisaflor",
+          "player": 1,
+          "color": "blue"
+        },
+        {
+          "name": "Sumpex",
           "player": 1,
           "color": "blue"
         }
