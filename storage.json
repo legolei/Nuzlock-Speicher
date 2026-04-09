@@ -33304,10 +33304,10 @@
           "name": "Richard",
           "color": "orange",
           "team": [
-            "Samurzel",
-            "Ledyba",
+            "Blanas",
+            "Marill",
             "Meditie",
-            "Farbeagle",
+            "Pichu",
             "Bisaknosp",
             "Flamara"
           ],
@@ -33327,7 +33327,7 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "Samurzel",
+              "name": "Blanas",
               "status": "Lebendig"
             },
             "Route 1": {
