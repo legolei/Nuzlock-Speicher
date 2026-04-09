@@ -32275,7 +32275,7 @@
             null,
             "Simsala",
             null,
-            "Arktos",
+            null,
             "Tengulist"
           ],
           "badges": [
@@ -32288,7 +32288,7 @@
             true,
             true
           ],
-          "deaths": 12,
+          "deaths": 13,
           "mainStream": "https://vdo.ninja/?view=qggUENz&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=qggUENz&fps=30&bitrate=800",
           "taken": false,
@@ -32403,7 +32403,7 @@
             },
             "Kraftwerk (Statik)": {
               "name": "Arktos",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 10": {
               "name": "Lepumentas",
@@ -34512,6 +34512,11 @@
         },
         {
           "name": "Stolloss",
+          "player": 0,
+          "color": "red"
+        },
+        {
+          "name": "Arktos",
           "player": 0,
           "color": "red"
         }
