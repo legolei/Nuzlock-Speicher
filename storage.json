@@ -32806,29 +32806,29 @@
             true,
             true
           ],
-          "deaths": 9,
+          "deaths": 0,
           "mainStream": "https://vdo.ninja/?view=y3522GK&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=y3522GK&fps=30&bitrate=800",
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "Kappalores",
-              "status": "Tot"
+              "name": "",
+              "status": "Lebendig"
             },
             "Route 1": {
-              "name": "Eneco",
-              "status": "Tot"
+              "name": "",
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
               "status": ""
             },
             "Vertaniawald": {
-              "name": "Kicklee",
-              "status": "Tot"
+              "name": "",
+              "status": "Lebendig"
             },
             "Route 2": {
-              "name": "Digdri",
+              "name": "",
               "status": "Lebendig"
             },
             "Mamoria City": {
@@ -32836,20 +32836,20 @@
               "status": ""
             },
             "Route 3": {
-              "name": "Magcargo",
+              "name": "",
               "status": "Lebendig"
             },
             "Mondberg": {
-              "name": "Papungha",
+              "name": "",
               "status": "Lebendig"
             },
             "Route 4": {
-              "name": "Walraisa",
-              "status": "Tot"
+              "name": "",
+              "status": "Lebendig"
             },
             "Route 4 (Kaufbares Pokémon)": {
               "name": "Blitza",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Azuria City": {
               "name": "",
@@ -32885,7 +32885,7 @@
             },
             "Orania City": {
               "name": "Guardevoir",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Digdahöhle": {
               "name": "Geradaks",
@@ -32901,7 +32901,7 @@
             },
             "Prismania City (Geschenk)": {
               "name": "Libelldra",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 8": {
               "name": "Meganie",
@@ -32941,7 +32941,7 @@
             },
             "Route 13": {
               "name": "Kokowei",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 14": {
               "name": "",
@@ -32969,7 +32969,7 @@
             },
             "Route 17": {
               "name": "Dragoran",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 18": {
               "name": "Pummeluff",
@@ -34346,16 +34346,6 @@
           "color": "blue"
         },
         {
-          "name": "Eneco",
-          "player": 2,
-          "color": "green"
-        },
-        {
-          "name": "Blitza",
-          "player": 2,
-          "color": "green"
-        },
-        {
           "name": "Metang",
           "player": 6,
           "color": "pink"
@@ -34396,21 +34386,6 @@
           "color": "pink"
         },
         {
-          "name": "Libelldra",
-          "player": 2,
-          "color": "green"
-        },
-        {
-          "name": "Kicklee",
-          "player": 2,
-          "color": "green"
-        },
-        {
-          "name": "Kappalores",
-          "player": 2,
-          "color": "green"
-        },
-        {
           "name": "Endivie",
           "player": 7,
           "color": "yellow"
@@ -34431,29 +34406,9 @@
           "color": "yellow"
         },
         {
-          "name": "Kokowei",
-          "player": 2,
-          "color": "green"
-        },
-        {
           "name": "Glutexo",
           "player": 7,
           "color": "yellow"
-        },
-        {
-          "name": "Dragoran",
-          "player": 2,
-          "color": "green"
-        },
-        {
-          "name": "Guardevoir",
-          "player": 2,
-          "color": "green"
-        },
-        {
-          "name": "Walraisa",
-          "player": 2,
-          "color": "green"
         },
         {
           "name": "Libelldra",
