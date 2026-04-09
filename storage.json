@@ -32790,21 +32790,21 @@
           "color": "green",
           "team": [
             null,
-            "Metagross",
-            "Despotar",
+            null,
+            null,
             null,
             null,
             null
           ],
           "badges": [
-            true,
-            true,
-            true,
-            true,
-            true,
-            true,
-            true,
-            true
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
           ],
           "deaths": 0,
           "mainStream": "https://vdo.ninja/?view=y3522GK&fps=30&bitrate=800",
@@ -32813,11 +32813,11 @@
           "catches": {
             "Alabastia": {
               "name": "",
-              "status": "Lebendig"
+              "status": ""
             },
             "Route 1": {
               "name": "",
-              "status": "Lebendig"
+              "status": ""
             },
             "Vertania City": {
               "name": "",
@@ -32825,11 +32825,11 @@
             },
             "Vertaniawald": {
               "name": "",
-              "status": "Lebendig"
+              "status": ""
             },
             "Route 2": {
               "name": "",
-              "status": "Lebendig"
+              "status": ""
             },
             "Mamoria City": {
               "name": "",
@@ -32837,19 +32837,19 @@
             },
             "Route 3": {
               "name": "",
-              "status": "Lebendig"
+              "status": ""
             },
             "Mondberg": {
               "name": "",
-              "status": "Lebendig"
+              "status": ""
             },
             "Route 4": {
               "name": "",
-              "status": "Lebendig"
+              "status": ""
             },
             "Route 4 (Kaufbares Pokémon)": {
-              "name": "Blitza",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Azuria City": {
               "name": "",
@@ -32864,160 +32864,160 @@
               "status": ""
             },
             "Route 5": {
-              "name": "Parasek",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Safronia City": {
-              "name": "Piepi",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Safronia City (Geschenk)": {
-              "name": "Sumpex",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Silph Co. (Geschenk)": {
-              "name": "Despotar",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 6": {
-              "name": "Geowaz",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Orania City": {
-              "name": "Guardevoir",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Digdahöhle": {
-              "name": "Geradaks",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 7": {
-              "name": "Jugong",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Prismania City": {
-              "name": "Wiesenior",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Prismania City (Geschenk)": {
-              "name": "Libelldra",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 8": {
-              "name": "Meganie",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 9": {
-              "name": "Togepi",
-              "status": "Blockiert"
+              "name": "",
+              "status": ""
             },
             "Felshöhle": {
-              "name": "Nidoran♀",
-              "status": "Blockiert"
+              "name": "",
+              "status": ""
             },
             "Kraftwerk": {
-              "name": "Laschoking",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Kraftwerk (Statik)": {
-              "name": "Regice",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 10": {
-              "name": "Libelldra",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 11": {
-              "name": "Brutalanda",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 12": {
-              "name": "Garados",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 12 (Statik)": {
-              "name": "Schwalboss",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 13": {
-              "name": "Kokowei",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 14": {
               "name": "",
               "status": ""
             },
             "Route 15": {
-              "name": "Sandamer",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Fuchsania City": {
               "name": "",
               "status": ""
             },
             "Safari-Zone": {
-              "name": "Donphan",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 16": {
-              "name": "Woingenau",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 16 (Statik)": {
-              "name": "Metagross",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 17": {
-              "name": "Dragoran",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 18": {
-              "name": "Pummeluff",
-              "status": "Blockiert"
+              "name": "",
+              "status": ""
             },
             "Route 19": {
-              "name": "Muschas",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 20": {
-              "name": "Pudox",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Seeschauminsel": {
-              "name": "Botogel",
-              "status": "Blockiert"
+              "name": "",
+              "status": ""
             },
             "Seeschauminsel (Statik)": {
-              "name": "Lavados",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Zinoberinsel": {
-              "name": "Wablu",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Zinoberinsel (Fossil)": {
-              "name": "Camerupt",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Zinober-Labor": {
-              "name": "Quapsel",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 21": {
-              "name": "Seemon",
-              "status": "Blockiert"
+              "name": "",
+              "status": ""
             },
             "Route 22": {
-              "name": "Keifel",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 24": {
-              "name": "Knogga",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 25": {
-              "name": "Safcon",
-              "status": "Blockiert"
+              "name": "",
+              "status": ""
             },
             "Siegesstraße": {
               "name": "",
