@@ -32530,7 +32530,7 @@
           "name": "Jasmin",
           "color": "blue",
           "team": [
-            "Glurak",
+            null,
             null,
             null,
             "Lugia",
@@ -32547,7 +32547,7 @@
             true,
             true
           ],
-          "deaths": 5,
+          "deaths": 6,
           "mainStream": "https://vdo.ninja/?view=bYWzmYg&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=bYWzmYg&fps=30&bitrate=800",
           "taken": false,
@@ -32694,7 +32694,7 @@
             },
             "Fuchsania City": {
               "name": "Glurak",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Safari-Zone": {
               "name": "Smogon",
@@ -34422,6 +34422,11 @@
         },
         {
           "name": "Sumpex",
+          "player": 1,
+          "color": "blue"
+        },
+        {
+          "name": "Glurak",
           "player": 1,
           "color": "blue"
         }
