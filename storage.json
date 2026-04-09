@@ -32272,7 +32272,7 @@
           "color": "red",
           "team": [
             null,
-            "Stolloss",
+            null,
             "Simsala",
             null,
             "Arktos",
@@ -32288,7 +32288,7 @@
             true,
             true
           ],
-          "deaths": 11,
+          "deaths": 12,
           "mainStream": "https://vdo.ninja/?view=qggUENz&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=qggUENz&fps=30&bitrate=800",
           "taken": false,
@@ -32395,7 +32395,7 @@
             },
             "Felshöhle": {
               "name": "Stolloss",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Kraftwerk": {
               "name": "Vulpix",
@@ -34507,6 +34507,11 @@
         },
         {
           "name": "Lohgock",
+          "player": 0,
+          "color": "red"
+        },
+        {
+          "name": "Stolloss",
           "player": 0,
           "color": "red"
         }
