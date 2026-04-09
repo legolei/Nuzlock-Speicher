@@ -32271,7 +32271,7 @@
           "name": "Legolei",
           "color": "red",
           "team": [
-            null,
+            "Glumanda",
             null,
             null,
             null,
@@ -32294,8 +32294,8 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "",
-              "status": ""
+              "name": "Glumanda",
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "",
@@ -32530,7 +32530,7 @@
           "name": "Jasmin",
           "color": "blue",
           "team": [
-            null,
+            "Geckarbor",
             null,
             null,
             null,
@@ -32553,8 +32553,8 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "",
-              "status": ""
+              "name": "Geckarbor",
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "",
