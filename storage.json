@@ -32807,8 +32807,8 @@
             true
           ],
           "deaths": 9,
-          "mainStream": "",
-          "touchStream": "",
+          "mainStream": "https://vdo.ninja/?view=y3522GK&fps=30&bitrate=800",
+          "touchStream": "https://vdo.ninja/?view=y3522GK&fps=30&bitrate=800",
           "taken": false,
           "catches": {
             "Alabastia": {
@@ -33851,7 +33851,7 @@
             },
             "Vertania City": {
               "name": "Schaloko",
-              "status": "Lebendig"
+              "status": ""
             },
             "Vertaniawald": {
               "name": "Fiffyen",
