@@ -32789,7 +32789,7 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            "Froxy",
+            "Froakie",
             null,
             null,
             null,
@@ -32812,7 +32812,7 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "Froxy",
+              "name": "Froakie",
               "status": "Lebendig"
             },
             "Route 1": {
@@ -33962,8 +33962,8 @@
               "status": "Lebendig"
             },
             "Route 12": {
-              "name": "",
-              "status": ""
+              "name": "Trasla",
+              "status": "Lebendig"
             },
             "Route 12 (Statik)": {
               "name": "",
