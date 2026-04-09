@@ -32534,63 +32534,63 @@
             null,
             null,
             null,
-            "Letarking",
+            null,
             null
           ],
           "badges": [
-            true,
-            true,
-            true,
-            true,
-            true,
-            true,
-            true,
-            true
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
           ],
-          "deaths": 7,
+          "deaths": 0,
           "mainStream": "https://vdo.ninja/?view=bYWzmYg&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=bYWzmYg&fps=30&bitrate=800",
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "Sumpex",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 1": {
-              "name": "Rattikarl",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Vertania City": {
               "name": "",
               "status": ""
             },
             "Vertaniawald": {
-              "name": "Nockchan",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 2": {
-              "name": "Pichu",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Mamoria City": {
               "name": "",
               "status": ""
             },
             "Route 3": {
-              "name": "Kindwurm",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Mondberg": {
-              "name": "Letarking",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 4": {
-              "name": "Voltilamm",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 4 (Kaufbares Pokémon)": {
-              "name": "Skorgla",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Azuria City": {
               "name": "",
@@ -32605,8 +32605,8 @@
               "status": ""
             },
             "Route 5": {
-              "name": "Sandan",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Safronia City": {
               "name": "",
@@ -32617,20 +32617,20 @@
               "status": ""
             },
             "Silph Co. (Geschenk)": {
-              "name": "Chaneira",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 6": {
-              "name": "Botogel",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Orania City": {
-              "name": "Fluffeluff",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Digdahöhle": {
-              "name": "Kirlia",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 7": {
               "name": "",
@@ -32641,96 +32641,96 @@
               "status": ""
             },
             "Prismania City (Geschenk)": {
-              "name": "Krabby",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 8": {
-              "name": "Bisaflor",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 9": {
-              "name": "Larvitar",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Felshöhle": {
-              "name": "Pummeluff",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Kraftwerk": {
-              "name": "Mogelbaum",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Kraftwerk (Statik)": {
-              "name": "Lugia",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 10": {
-              "name": "Jurob",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 11": {
-              "name": "Flegmon",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 12": {
-              "name": "Samurzel",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 12 (Statik)": {
-              "name": "Wailmer",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 13": {
               "name": "",
               "status": ""
             },
             "Route 14": {
-              "name": "Libelldra",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 15": {
-              "name": "Lombrero",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Fuchsania City": {
-              "name": "Glurak",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Safari-Zone": {
-              "name": "Smogon",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 16": {
-              "name": "Schneckmag",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 16 (Statik)": {
-              "name": "Schlukwech",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 17": {
-              "name": "Stolloss",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 18": {
-              "name": "Pelipper",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 19": {
-              "name": "Krebscorps",
-              "status": "Blockiert"
+              "name": "",
+              "status": ""
             },
             "Route 20": {
-              "name": "ne",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Seeschauminsel": {
-              "name": "Rihorn",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Seeschauminsel (Statik)": {
-              "name": "Registeel",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Zinoberinsel": {
               "name": "",
@@ -32741,16 +32741,16 @@
               "status": ""
             },
             "Zinober-Labor": {
-              "name": "Corasonn",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 21": {
               "name": "",
               "status": ""
             },
             "Route 22": {
-              "name": "Nidorino",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 24": {
               "name": "",
@@ -33313,7 +33313,7 @@
           ],
           "badges": [
             true,
-            false,
+            true,
             false,
             false,
             false,
@@ -34336,16 +34336,6 @@
       ],
       "graveyard": [
         {
-          "name": "Pichu",
-          "player": 1,
-          "color": "blue"
-        },
-        {
-          "name": "Kindwurm",
-          "player": 1,
-          "color": "blue"
-        },
-        {
           "name": "Metang",
           "player": 6,
           "color": "pink"
@@ -34409,31 +34399,6 @@
           "name": "Glutexo",
           "player": 7,
           "color": "yellow"
-        },
-        {
-          "name": "Libelldra",
-          "player": 1,
-          "color": "blue"
-        },
-        {
-          "name": "Bisaflor",
-          "player": 1,
-          "color": "blue"
-        },
-        {
-          "name": "Sumpex",
-          "player": 1,
-          "color": "blue"
-        },
-        {
-          "name": "Glurak",
-          "player": 1,
-          "color": "blue"
-        },
-        {
-          "name": "Lugia",
-          "player": 1,
-          "color": "blue"
         }
       ]
     }
