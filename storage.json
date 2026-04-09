@@ -32533,7 +32533,7 @@
             null,
             null,
             null,
-            "Lugia",
+            null,
             "Letarking",
             null
           ],
@@ -32547,7 +32547,7 @@
             true,
             true
           ],
-          "deaths": 6,
+          "deaths": 7,
           "mainStream": "https://vdo.ninja/?view=bYWzmYg&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=bYWzmYg&fps=30&bitrate=800",
           "taken": false,
@@ -32662,7 +32662,7 @@
             },
             "Kraftwerk (Statik)": {
               "name": "Lugia",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 10": {
               "name": "Jurob",
@@ -34427,6 +34427,11 @@
         },
         {
           "name": "Glurak",
+          "player": 1,
+          "color": "blue"
+        },
+        {
+          "name": "Lugia",
           "player": 1,
           "color": "blue"
         }
