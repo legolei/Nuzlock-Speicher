@@ -32532,7 +32532,7 @@
           "team": [
             "Glurak",
             "Sumpex",
-            "Libelldra",
+            null,
             "Lugia",
             "Letarking",
             "Bisaflor"
@@ -32547,7 +32547,7 @@
             true,
             true
           ],
-          "deaths": 2,
+          "deaths": 3,
           "mainStream": "https://vdo.ninja/?view=bYWzmYg&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=bYWzmYg&fps=30&bitrate=800",
           "taken": false,
@@ -32686,7 +32686,7 @@
             },
             "Route 14": {
               "name": "Libelldra",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 15": {
               "name": "Lombrero",
@@ -34454,6 +34454,11 @@
           "name": "Walraisa",
           "player": 2,
           "color": "green"
+        },
+        {
+          "name": "Libelldra",
+          "player": 1,
+          "color": "blue"
         }
       ]
     }
