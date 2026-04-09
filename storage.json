@@ -32273,41 +32273,41 @@
           "team": [
             null,
             null,
-            "Simsala",
             null,
             null,
-            "Tengulist"
+            null,
+            null
           ],
           "badges": [
-            true,
-            true,
-            true,
-            true,
-            true,
-            true,
-            true,
-            true
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
           ],
-          "deaths": 13,
+          "deaths": 0,
           "mainStream": "https://vdo.ninja/?view=qggUENz&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=qggUENz&fps=30&bitrate=800",
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "Schillok",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 1": {
-              "name": "Habitak",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Vertania City": {
               "name": "",
               "status": ""
             },
             "Vertaniawald": {
-              "name": "Papinella",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 2": {
               "name": "",
@@ -32318,20 +32318,20 @@
               "status": ""
             },
             "Route 3": {
-              "name": "Ledyba",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Mondberg": {
-              "name": "Nincada",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 4": {
-              "name": "Nidorino",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 4 (Kaufbares Pokémon)": {
-              "name": "Kabutops",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Azuria City": {
               "name": "",
@@ -32346,132 +32346,132 @@
               "status": ""
             },
             "Route 5": {
-              "name": "Kanivanha",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Safronia City": {
-              "name": "Forstellka",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Safronia City (Geschenk)": {
-              "name": "Girafarig",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Silph Co. (Geschenk)": {
-              "name": "Machomei",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 6": {
-              "name": "Sarzenia",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Orania City": {
-              "name": "Tengulist",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Digdahöhle": {
-              "name": "Nidorina",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 7": {
-              "name": "Arbok",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Prismania City": {
-              "name": "Azumarill",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Prismania City (Geschenk)": {
-              "name": "Pichu",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 8": {
-              "name": "Gengar",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 9": {
-              "name": "Tauboss",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Felshöhle": {
-              "name": "Stolloss",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Kraftwerk": {
-              "name": "Vulpix",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Kraftwerk (Statik)": {
-              "name": "Arktos",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 10": {
-              "name": "Lepumentas",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 11": {
-              "name": "Altaria",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 12": {
-              "name": "Nockchan",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 12 (Statik)": {
-              "name": "Ledian",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 13": {
               "name": "",
               "status": ""
             },
             "Route 14": {
-              "name": "Zwirrklop",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 15": {
-              "name": "Bisaflor",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Fuchsania City": {
-              "name": "Dummisel",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Safari-Zone": {
-              "name": "Rihorn",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 16": {
-              "name": "Maskeregen",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 16 (Statik)": {
-              "name": "Yanma",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 17": {
-              "name": "Sandamer",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 18": {
               "name": "",
               "status": ""
             },
             "Route 19": {
-              "name": "Impergator",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 20": {
               "name": "",
               "status": ""
             },
             "Seeschauminsel": {
-              "name": "Feurigel",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Seeschauminsel (Statik)": {
-              "name": "Regirock",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Zinoberinsel": {
               "name": "",
@@ -32482,28 +32482,28 @@
               "status": ""
             },
             "Zinober-Labor": {
-              "name": "Enton",
-              "status": "Blockiert"
+              "name": "",
+              "status": ""
             },
             "Route 21": {
-              "name": "Pelipper",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 22": {
-              "name": "Schneppke",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 24": {
-              "name": "Piepi",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 25": {
-              "name": "Lohgock",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Siegesstraße": {
-              "name": "Simsala",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Siegesstraße (Statik)": {
               "name": "",
@@ -34026,8 +34026,8 @@
               "status": ""
             },
             "Zinoberinsel (Fossil)": {
-              "name": "",
-              "status": ""
+              "name": "Karpador",
+              "status": "Lebendig"
             },
             "Zinober-Labor": {
               "name": "",
@@ -34341,49 +34341,9 @@
           "color": "blue"
         },
         {
-          "name": "Schillok",
-          "player": 0,
-          "color": "red"
-        },
-        {
-          "name": "Habitak",
-          "player": 0,
-          "color": "red"
-        },
-        {
-          "name": "Papinella",
-          "player": 0,
-          "color": "red"
-        },
-        {
-          "name": "Ledyba",
-          "player": 0,
-          "color": "red"
-        },
-        {
-          "name": "Nincada",
-          "player": 0,
-          "color": "red"
-        },
-        {
-          "name": "Schneppke",
-          "player": 0,
-          "color": "red"
-        },
-        {
-          "name": "Kanivanha",
-          "player": 0,
-          "color": "red"
-        },
-        {
           "name": "Kindwurm",
           "player": 1,
           "color": "blue"
-        },
-        {
-          "name": "Arbok",
-          "player": 0,
-          "color": "red"
         },
         {
           "name": "Eneco",
@@ -34451,11 +34411,6 @@
           "color": "green"
         },
         {
-          "name": "Gengar",
-          "player": 0,
-          "color": "red"
-        },
-        {
           "name": "Endivie",
           "player": 7,
           "color": "yellow"
@@ -34499,26 +34454,6 @@
           "name": "Walraisa",
           "player": 2,
           "color": "green"
-        },
-        {
-          "name": "Altaria",
-          "player": 0,
-          "color": "red"
-        },
-        {
-          "name": "Lohgock",
-          "player": 0,
-          "color": "red"
-        },
-        {
-          "name": "Stolloss",
-          "player": 0,
-          "color": "red"
-        },
-        {
-          "name": "Arktos",
-          "player": 0,
-          "color": "red"
         }
       ]
     }
