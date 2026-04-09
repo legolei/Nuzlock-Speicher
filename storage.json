@@ -32275,8 +32275,8 @@
             "Hoothoot",
             "Sandan",
             "Zubat",
-            null,
-            null
+            "Lichtel",
+            "Kiesling"
           ],
           "badges": [
             false,
@@ -32310,12 +32310,12 @@
               "status": "Lebendig"
             },
             "Route 2": {
-              "name": "",
-              "status": ""
+              "name": "Kiesling",
+              "status": "Lebendig"
             },
             "Mamoria City": {
-              "name": "",
-              "status": ""
+              "name": "Lichtel",
+              "status": "Lebendig"
             },
             "Route 3": {
               "name": "",
