@@ -32274,7 +32274,7 @@
             null,
             "Stolloss",
             "Simsala",
-            "Lohgock",
+            null,
             "Arktos",
             "Tengulist"
           ],
@@ -32288,7 +32288,7 @@
             true,
             true
           ],
-          "deaths": 10,
+          "deaths": 11,
           "mainStream": "https://vdo.ninja/?view=qggUENz&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=qggUENz&fps=30&bitrate=800",
           "taken": false,
@@ -32499,7 +32499,7 @@
             },
             "Route 25": {
               "name": "Lohgock",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Siegesstraße": {
               "name": "Simsala",
@@ -34502,6 +34502,11 @@
         },
         {
           "name": "Altaria",
+          "player": 0,
+          "color": "red"
+        },
+        {
+          "name": "Lohgock",
           "player": 0,
           "color": "red"
         }
