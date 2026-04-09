@@ -32274,7 +32274,7 @@
             "Glumanda",
             "Hoothoot",
             "Sandan",
-            null,
+            "Zubat",
             null,
             null
           ],
@@ -32306,8 +32306,8 @@
               "status": "Lebendig"
             },
             "Vertaniawald": {
-              "name": "",
-              "status": ""
+              "name": "Zubat",
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "",
