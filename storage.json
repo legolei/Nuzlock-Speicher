@@ -32535,7 +32535,7 @@
             null,
             "Lugia",
             "Letarking",
-            "Bisaflor"
+            null
           ],
           "badges": [
             true,
@@ -32547,7 +32547,7 @@
             true,
             true
           ],
-          "deaths": 3,
+          "deaths": 4,
           "mainStream": "https://vdo.ninja/?view=bYWzmYg&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=bYWzmYg&fps=30&bitrate=800",
           "taken": false,
@@ -32646,7 +32646,7 @@
             },
             "Route 8": {
               "name": "Bisaflor",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 9": {
               "name": "Larvitar",
@@ -34412,6 +34412,11 @@
         },
         {
           "name": "Libelldra",
+          "player": 1,
+          "color": "blue"
+        },
+        {
+          "name": "Bisaflor",
           "player": 1,
           "color": "blue"
         }
