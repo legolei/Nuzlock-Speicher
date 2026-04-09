@@ -32790,7 +32790,7 @@
           "color": "green",
           "team": [
             "Froakie",
-            null,
+            "Staralili",
             null,
             null,
             null,
@@ -32816,8 +32816,8 @@
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "",
-              "status": ""
+              "name": "Staralili",
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
