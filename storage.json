@@ -32272,7 +32272,7 @@
           "color": "red",
           "team": [
             "Glumanda",
-            null,
+            "Dartiri",
             "Geronimatz",
             "Zubat",
             "Lichtel",
@@ -32298,7 +32298,7 @@
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "Dat",
+              "name": "Dartiri",
               "status": "Lebendig"
             },
             "Vertania City": {
@@ -32789,12 +32789,12 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            null,
+            "Froxy",
             "Staralili",
             "Sandan",
             "Digda",
             "Skallyk",
-            null
+            "Psiau"
           ],
           "badges": [
             false,
