@@ -32272,8 +32272,8 @@
           "color": "red",
           "team": [
             "Glumanda",
-            "Hoothoot",
-            "Sandan",
+            null,
+            "Geronimatz",
             "Zubat",
             "Lichtel",
             "Kleinstein"
@@ -32298,11 +32298,11 @@
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "Hoothoot",
+              "name": "",
               "status": "Lebendig"
             },
             "Vertania City": {
-              "name": "Sandan",
+              "name": "Geronimatz",
               "status": "Lebendig"
             },
             "Vertaniawald": {
