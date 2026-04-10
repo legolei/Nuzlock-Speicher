@@ -32789,7 +32789,7 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            "Froakie",
+            null,
             "Staralili",
             "Sandan",
             "Digda",
@@ -32812,7 +32812,7 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "Froakie",
+              "name": "",
               "status": "Lebendig"
             },
             "Route 1": {
