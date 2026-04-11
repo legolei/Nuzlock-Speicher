@@ -33823,7 +33823,7 @@
             "Giflor",
             null,
             null,
-            "Nidorino",
+            null,
             null
           ],
           "badges": [
@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 12,
+          "deaths": 13,
           "mainStream": "https://vdo.ninja/?view=rwPKvTN&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=rwPKvTN&fps=30&bitrate=800",
           "taken": false,
@@ -33911,7 +33911,7 @@
             },
             "Route 6": {
               "name": "Nidorino",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Orania City": {
               "name": "Pummeluff",
@@ -34417,6 +34417,11 @@
         },
         {
           "name": "Garados",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Nidorino",
           "player": 6,
           "color": "pink"
         }
