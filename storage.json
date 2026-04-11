@@ -33820,7 +33820,7 @@
           "color": "pink",
           "team": [
             "Giflor",
-            null,
+            "Letarking",
             "Dodu",
             "Quiekel",
             "Kirlia",
@@ -33966,8 +33966,8 @@
               "status": "Lebendig"
             },
             "Route 12 (Statik)": {
-              "name": "",
-              "status": ""
+              "name": "Letarking",
+              "status": "Lebendig"
             },
             "Route 13": {
               "name": "",
