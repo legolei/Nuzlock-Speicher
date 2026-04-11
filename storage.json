@@ -33820,7 +33820,7 @@
           "color": "pink",
           "team": [
             "Giflor",
-            "Muntier",
+            null,
             "Dodu",
             "Quiekel",
             "Kirlia",
@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 14,
+          "deaths": 15,
           "mainStream": "https://vdo.ninja/?view=rwPKvTN&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=rwPKvTN&fps=30&bitrate=800",
           "taken": false,
@@ -33935,7 +33935,7 @@
             },
             "Route 8": {
               "name": "Muntier",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 9": {
               "name": "Nidorina",
@@ -34427,6 +34427,11 @@
         },
         {
           "name": "Raichu",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Muntier",
           "player": 6,
           "color": "pink"
         }
