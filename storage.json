@@ -33820,11 +33820,11 @@
           "color": "pink",
           "team": [
             "Giflor",
-            "Letarking",
-            "Keifel",
-            "Guardevoir",
-            "Dodri",
-            "Arbok"
+            "Sleimok",
+            "Glurak",
+            "Hundemon",
+            "Krakeelo",
+            "Sarzenia"
           ],
           "badges": [
             true,
@@ -33974,11 +33974,11 @@
               "status": "Lebendig"
             },
             "Route 14": {
-              "name": "Hunduster",
+              "name": "Hundemon",
               "status": "Lebendig"
             },
             "Route 15": {
-              "name": "Flurmel",
+              "name": "Krakeelo",
               "status": "Lebendig"
             },
             "Fuchsania City": {
