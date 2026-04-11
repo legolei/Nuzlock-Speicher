@@ -33824,7 +33824,7 @@
             "Arbok",
             "Maskeregen",
             "Nidorino",
-            "Pummeluff"
+            null
           ],
           "badges": [
             true,
@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 8,
+          "deaths": 9,
           "mainStream": "https://vdo.ninja/?view=rwPKvTN&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=rwPKvTN&fps=30&bitrate=800",
           "taken": false,
@@ -33915,7 +33915,7 @@
             },
             "Orania City": {
               "name": "Pummeluff",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Digdahöhle": {
               "name": "Quiekel",
@@ -34399,6 +34399,11 @@
           "name": "Glutexo",
           "player": 7,
           "color": "yellow"
+        },
+        {
+          "name": "Pummeluff",
+          "player": 6,
+          "color": "pink"
         }
       ]
     }
