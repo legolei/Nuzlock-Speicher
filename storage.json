@@ -32271,8 +32271,8 @@
           "name": "Legolei",
           "color": "red",
           "team": [
+            "Glutexo",
             null,
-            "Dartiri",
             "Geronimatz",
             "Zubat",
             "Lichtel",
@@ -32294,11 +32294,11 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "",
+              "name": "Glutexo",
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "Dartiri",
+              "name": "Dartignis",
               "status": "Lebendig"
             },
             "Vertania City": {
