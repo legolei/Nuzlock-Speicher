@@ -33821,7 +33821,7 @@
           "team": [
             null,
             "Giflor",
-            "Garados",
+            null,
             null,
             "Nidorino",
             null
@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 11,
+          "deaths": 12,
           "mainStream": "https://vdo.ninja/?view=rwPKvTN&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=rwPKvTN&fps=30&bitrate=800",
           "taken": false,
@@ -34027,7 +34027,7 @@
             },
             "Zinoberinsel (Fossil)": {
               "name": "Garados",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Zinober-Labor": {
               "name": "",
@@ -34412,6 +34412,11 @@
         },
         {
           "name": "Maskeregen",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Garados",
           "player": 6,
           "color": "pink"
         }
