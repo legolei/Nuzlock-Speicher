@@ -33821,9 +33821,9 @@
           "team": [
             "Giflor",
             "Letarking",
-            "Dodu",
-            "Quiekel",
-            "Kirlia",
+            "Keifel",
+            "Guardevoir",
+            "Dodri",
             "Arbok"
           ],
           "badges": [
@@ -33918,11 +33918,11 @@
               "status": "Tot"
             },
             "Digdahöhle": {
-              "name": "Quiekel",
+              "name": "Keifel",
               "status": "Lebendig"
             },
             "Route 7": {
-              "name": "Dodu",
+              "name": "Dodri",
               "status": "Lebendig"
             },
             "Prismania City": {
@@ -33962,7 +33962,7 @@
               "status": "Lebendig"
             },
             "Route 12": {
-              "name": "Kirlia",
+              "name": "Guardevoir",
               "status": "Lebendig"
             },
             "Route 12 (Statik)": {
