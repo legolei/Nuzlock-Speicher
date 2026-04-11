@@ -33822,7 +33822,7 @@
             null,
             "Giflor",
             "Garados",
-            "Maskeregen",
+            null,
             "Nidorino",
             null
           ],
@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 10,
+          "deaths": 11,
           "mainStream": "https://vdo.ninja/?view=rwPKvTN&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=rwPKvTN&fps=30&bitrate=800",
           "taken": false,
@@ -33895,7 +33895,7 @@
             },
             "Route 5": {
               "name": "Maskeregen",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Safronia City": {
               "name": "",
@@ -34407,6 +34407,11 @@
         },
         {
           "name": "Magnayen",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Maskeregen",
           "player": 6,
           "color": "pink"
         }
