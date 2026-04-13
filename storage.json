@@ -33821,10 +33821,10 @@
           "team": [
             "Giflor",
             "Letarking",
-            "Arbok",
+            null,
             "Keifel",
             "Dodri",
-            "Guardevoir"
+            null
           ],
           "badges": [
             true,
@@ -33836,7 +33836,7 @@
             false,
             false
           ],
-          "deaths": 15,
+          "deaths": 17,
           "mainStream": "https://vdo.ninja/?view=7xvrwfm&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=7xvrwfm&fps=30&bitrate=800",
           "taken": false,
@@ -33963,7 +33963,7 @@
             },
             "Route 12": {
               "name": "Guardevoir",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 12 (Statik)": {
               "name": "Letarking",
@@ -34047,7 +34047,7 @@
             },
             "Route 25": {
               "name": "Arbok",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Siegesstraße": {
               "name": "",
@@ -34432,6 +34432,16 @@
         },
         {
           "name": "Muntier",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Arbok",
+          "player": 6,
+          "color": "pink"
+        },
+        {
+          "name": "Guardevoir",
           "player": 6,
           "color": "pink"
         }
