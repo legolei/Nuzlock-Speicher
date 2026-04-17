@@ -34474,7 +34474,268 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Zweiblattdorf": {
+              "name": "",
+              "status": ""
+            },
+            "Route 201": {
+              "name": "",
+              "status": ""
+            },
+            "Wahrheitsufer": {
+              "name": "",
+              "status": ""
+            },
+            "Sandgemme": {
+              "name": "",
+              "status": ""
+            },
+            "Route 202": {
+              "name": "",
+              "status": ""
+            },
+            "Route 203": {
+              "name": "",
+              "status": ""
+            },
+            "Erzelingen (Fossil)": {
+              "name": "",
+              "status": ""
+            },
+            "Erzelingen-Mine": {
+              "name": "",
+              "status": ""
+            },
+            "Route 204": {
+              "name": "",
+              "status": ""
+            },
+            "Verwüsteter Pfad": {
+              "name": "",
+              "status": ""
+            },
+            "Flori": {
+              "name": "",
+              "status": ""
+            },
+            "Route 205": {
+              "name": "",
+              "status": ""
+            },
+            "Windkraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Feuriohütte": {
+              "name": "",
+              "status": ""
+            },
+            "Ewigwald": {
+              "name": "",
+              "status": ""
+            },
+            "Verlassene Villa": {
+              "name": "",
+              "status": ""
+            },
+            "Ewigenau": {
+              "name": "",
+              "status": ""
+            },
+            "Route 206": {
+              "name": "",
+              "status": ""
+            },
+            "Bizzare Höhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 207": {
+              "name": "",
+              "status": ""
+            },
+            "Kraterberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 208": {
+              "name": "",
+              "status": ""
+            },
+            "Herzhofen (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 209": {
+              "name": "",
+              "status": ""
+            },
+            "Trosttu-Ruinen": {
+              "name": "",
+              "status": ""
+            },
+            "Route 210": {
+              "name": "",
+              "status": ""
+            },
+            "Route 211": {
+              "name": "",
+              "status": ""
+            },
+            "Route 215": {
+              "name": "",
+              "status": ""
+            },
+            "Route 214": {
+              "name": "",
+              "status": ""
+            },
+            "Kühnheitsufer": {
+              "name": "",
+              "status": ""
+            },
+            "Kühnheitsufer (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 213": {
+              "name": "",
+              "status": ""
+            },
+            "Weideburg": {
+              "name": "",
+              "status": ""
+            },
+            "Safarizone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 212": {
+              "name": "",
+              "status": ""
+            },
+            "Trophähengarten": {
+              "name": "",
+              "status": ""
+            },
+            "Elyses": {
+              "name": "",
+              "status": ""
+            },
+            "Route 218": {
+              "name": "",
+              "status": ""
+            },
+            "Route 219": {
+              "name": "",
+              "status": ""
+            },
+            "Route 220": {
+              "name": "",
+              "status": ""
+            },
+            "Route 221": {
+              "name": "",
+              "status": ""
+            },
+            "Eiseninsel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 216": {
+              "name": "",
+              "status": ""
+            },
+            "Route 217": {
+              "name": "",
+              "status": ""
+            },
+            "Stärkeufer": {
+              "name": "",
+              "status": ""
+            },
+            "Blizzach-Tempel": {
+              "name": "",
+              "status": ""
+            },
+            "Sperrsäule (Statik 1)": {
+              "name": "",
+              "status": ""
+            },
+            "Sperrsäule (Statik 2)": {
+              "name": "",
+              "status": ""
+            },
+            "Zerrwelt": {
+              "name": "",
+              "status": ""
+            },
+            "Frühlingspfad": {
+              "name": "",
+              "status": ""
+            },
+            "Route 222": {
+              "name": "",
+              "status": ""
+            },
+            "Sonnewik": {
+              "name": "",
+              "status": ""
+            },
+            "Route 223": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Route 224": {
+              "name": "",
+              "status": ""
+            },
+            "Kampfareaö": {
+              "name": "",
+              "status": ""
+            },
+            "Route 225": {
+              "name": "",
+              "status": ""
+            },
+            "Route 226": {
+              "name": "",
+              "status": ""
+            },
+            "Route 227": {
+              "name": "",
+              "status": ""
+            },
+            "Route 228": {
+              "name": "",
+              "status": ""
+            },
+            "Route 229": {
+              "name": "",
+              "status": ""
+            },
+            "Route 230": {
+              "name": "",
+              "status": ""
+            },
+            "Erhohlungsgebiet": {
+              "name": "",
+              "status": ""
+            },
+            "Kahlberg": {
+              "name": "",
+              "status": ""
+            },
+            "Kahlberg (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -34513,7 +34774,268 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Zweiblattdorf": {
+              "name": "",
+              "status": ""
+            },
+            "Route 201": {
+              "name": "",
+              "status": ""
+            },
+            "Wahrheitsufer": {
+              "name": "",
+              "status": ""
+            },
+            "Sandgemme": {
+              "name": "",
+              "status": ""
+            },
+            "Route 202": {
+              "name": "",
+              "status": ""
+            },
+            "Route 203": {
+              "name": "",
+              "status": ""
+            },
+            "Erzelingen (Fossil)": {
+              "name": "",
+              "status": ""
+            },
+            "Erzelingen-Mine": {
+              "name": "",
+              "status": ""
+            },
+            "Route 204": {
+              "name": "",
+              "status": ""
+            },
+            "Verwüsteter Pfad": {
+              "name": "",
+              "status": ""
+            },
+            "Flori": {
+              "name": "",
+              "status": ""
+            },
+            "Route 205": {
+              "name": "",
+              "status": ""
+            },
+            "Windkraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Feuriohütte": {
+              "name": "",
+              "status": ""
+            },
+            "Ewigwald": {
+              "name": "",
+              "status": ""
+            },
+            "Verlassene Villa": {
+              "name": "",
+              "status": ""
+            },
+            "Ewigenau": {
+              "name": "",
+              "status": ""
+            },
+            "Route 206": {
+              "name": "",
+              "status": ""
+            },
+            "Bizzare Höhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 207": {
+              "name": "",
+              "status": ""
+            },
+            "Kraterberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 208": {
+              "name": "",
+              "status": ""
+            },
+            "Herzhofen (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 209": {
+              "name": "",
+              "status": ""
+            },
+            "Trosttu-Ruinen": {
+              "name": "",
+              "status": ""
+            },
+            "Route 210": {
+              "name": "",
+              "status": ""
+            },
+            "Route 211": {
+              "name": "",
+              "status": ""
+            },
+            "Route 215": {
+              "name": "",
+              "status": ""
+            },
+            "Route 214": {
+              "name": "",
+              "status": ""
+            },
+            "Kühnheitsufer": {
+              "name": "",
+              "status": ""
+            },
+            "Kühnheitsufer (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 213": {
+              "name": "",
+              "status": ""
+            },
+            "Weideburg": {
+              "name": "",
+              "status": ""
+            },
+            "Safarizone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 212": {
+              "name": "",
+              "status": ""
+            },
+            "Trophähengarten": {
+              "name": "",
+              "status": ""
+            },
+            "Elyses": {
+              "name": "",
+              "status": ""
+            },
+            "Route 218": {
+              "name": "",
+              "status": ""
+            },
+            "Route 219": {
+              "name": "",
+              "status": ""
+            },
+            "Route 220": {
+              "name": "",
+              "status": ""
+            },
+            "Route 221": {
+              "name": "",
+              "status": ""
+            },
+            "Eiseninsel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 216": {
+              "name": "",
+              "status": ""
+            },
+            "Route 217": {
+              "name": "",
+              "status": ""
+            },
+            "Stärkeufer": {
+              "name": "",
+              "status": ""
+            },
+            "Blizzach-Tempel": {
+              "name": "",
+              "status": ""
+            },
+            "Sperrsäule (Statik 1)": {
+              "name": "",
+              "status": ""
+            },
+            "Sperrsäule (Statik 2)": {
+              "name": "",
+              "status": ""
+            },
+            "Zerrwelt": {
+              "name": "",
+              "status": ""
+            },
+            "Frühlingspfad": {
+              "name": "",
+              "status": ""
+            },
+            "Route 222": {
+              "name": "",
+              "status": ""
+            },
+            "Sonnewik": {
+              "name": "",
+              "status": ""
+            },
+            "Route 223": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Route 224": {
+              "name": "",
+              "status": ""
+            },
+            "Kampfareaö": {
+              "name": "",
+              "status": ""
+            },
+            "Route 225": {
+              "name": "",
+              "status": ""
+            },
+            "Route 226": {
+              "name": "",
+              "status": ""
+            },
+            "Route 227": {
+              "name": "",
+              "status": ""
+            },
+            "Route 228": {
+              "name": "",
+              "status": ""
+            },
+            "Route 229": {
+              "name": "",
+              "status": ""
+            },
+            "Route 230": {
+              "name": "",
+              "status": ""
+            },
+            "Erhohlungsgebiet": {
+              "name": "",
+              "status": ""
+            },
+            "Kahlberg": {
+              "name": "",
+              "status": ""
+            },
+            "Kahlberg (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -34552,7 +35074,268 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Zweiblattdorf": {
+              "name": "",
+              "status": ""
+            },
+            "Route 201": {
+              "name": "",
+              "status": ""
+            },
+            "Wahrheitsufer": {
+              "name": "",
+              "status": ""
+            },
+            "Sandgemme": {
+              "name": "",
+              "status": ""
+            },
+            "Route 202": {
+              "name": "",
+              "status": ""
+            },
+            "Route 203": {
+              "name": "",
+              "status": ""
+            },
+            "Erzelingen (Fossil)": {
+              "name": "",
+              "status": ""
+            },
+            "Erzelingen-Mine": {
+              "name": "",
+              "status": ""
+            },
+            "Route 204": {
+              "name": "",
+              "status": ""
+            },
+            "Verwüsteter Pfad": {
+              "name": "",
+              "status": ""
+            },
+            "Flori": {
+              "name": "",
+              "status": ""
+            },
+            "Route 205": {
+              "name": "",
+              "status": ""
+            },
+            "Windkraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Feuriohütte": {
+              "name": "",
+              "status": ""
+            },
+            "Ewigwald": {
+              "name": "",
+              "status": ""
+            },
+            "Verlassene Villa": {
+              "name": "",
+              "status": ""
+            },
+            "Ewigenau": {
+              "name": "",
+              "status": ""
+            },
+            "Route 206": {
+              "name": "",
+              "status": ""
+            },
+            "Bizzare Höhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 207": {
+              "name": "",
+              "status": ""
+            },
+            "Kraterberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 208": {
+              "name": "",
+              "status": ""
+            },
+            "Herzhofen (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 209": {
+              "name": "",
+              "status": ""
+            },
+            "Trosttu-Ruinen": {
+              "name": "",
+              "status": ""
+            },
+            "Route 210": {
+              "name": "",
+              "status": ""
+            },
+            "Route 211": {
+              "name": "",
+              "status": ""
+            },
+            "Route 215": {
+              "name": "",
+              "status": ""
+            },
+            "Route 214": {
+              "name": "",
+              "status": ""
+            },
+            "Kühnheitsufer": {
+              "name": "",
+              "status": ""
+            },
+            "Kühnheitsufer (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 213": {
+              "name": "",
+              "status": ""
+            },
+            "Weideburg": {
+              "name": "",
+              "status": ""
+            },
+            "Safarizone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 212": {
+              "name": "",
+              "status": ""
+            },
+            "Trophähengarten": {
+              "name": "",
+              "status": ""
+            },
+            "Elyses": {
+              "name": "",
+              "status": ""
+            },
+            "Route 218": {
+              "name": "",
+              "status": ""
+            },
+            "Route 219": {
+              "name": "",
+              "status": ""
+            },
+            "Route 220": {
+              "name": "",
+              "status": ""
+            },
+            "Route 221": {
+              "name": "",
+              "status": ""
+            },
+            "Eiseninsel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 216": {
+              "name": "",
+              "status": ""
+            },
+            "Route 217": {
+              "name": "",
+              "status": ""
+            },
+            "Stärkeufer": {
+              "name": "",
+              "status": ""
+            },
+            "Blizzach-Tempel": {
+              "name": "",
+              "status": ""
+            },
+            "Sperrsäule (Statik 1)": {
+              "name": "",
+              "status": ""
+            },
+            "Sperrsäule (Statik 2)": {
+              "name": "",
+              "status": ""
+            },
+            "Zerrwelt": {
+              "name": "",
+              "status": ""
+            },
+            "Frühlingspfad": {
+              "name": "",
+              "status": ""
+            },
+            "Route 222": {
+              "name": "",
+              "status": ""
+            },
+            "Sonnewik": {
+              "name": "",
+              "status": ""
+            },
+            "Route 223": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Route 224": {
+              "name": "",
+              "status": ""
+            },
+            "Kampfareaö": {
+              "name": "",
+              "status": ""
+            },
+            "Route 225": {
+              "name": "",
+              "status": ""
+            },
+            "Route 226": {
+              "name": "",
+              "status": ""
+            },
+            "Route 227": {
+              "name": "",
+              "status": ""
+            },
+            "Route 228": {
+              "name": "",
+              "status": ""
+            },
+            "Route 229": {
+              "name": "",
+              "status": ""
+            },
+            "Route 230": {
+              "name": "",
+              "status": ""
+            },
+            "Erhohlungsgebiet": {
+              "name": "",
+              "status": ""
+            },
+            "Kahlberg": {
+              "name": "",
+              "status": ""
+            },
+            "Kahlberg (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -34591,7 +35374,268 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Zweiblattdorf": {
+              "name": "",
+              "status": ""
+            },
+            "Route 201": {
+              "name": "",
+              "status": ""
+            },
+            "Wahrheitsufer": {
+              "name": "",
+              "status": ""
+            },
+            "Sandgemme": {
+              "name": "",
+              "status": ""
+            },
+            "Route 202": {
+              "name": "",
+              "status": ""
+            },
+            "Route 203": {
+              "name": "",
+              "status": ""
+            },
+            "Erzelingen (Fossil)": {
+              "name": "",
+              "status": ""
+            },
+            "Erzelingen-Mine": {
+              "name": "",
+              "status": ""
+            },
+            "Route 204": {
+              "name": "",
+              "status": ""
+            },
+            "Verwüsteter Pfad": {
+              "name": "",
+              "status": ""
+            },
+            "Flori": {
+              "name": "",
+              "status": ""
+            },
+            "Route 205": {
+              "name": "",
+              "status": ""
+            },
+            "Windkraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Feuriohütte": {
+              "name": "",
+              "status": ""
+            },
+            "Ewigwald": {
+              "name": "",
+              "status": ""
+            },
+            "Verlassene Villa": {
+              "name": "",
+              "status": ""
+            },
+            "Ewigenau": {
+              "name": "",
+              "status": ""
+            },
+            "Route 206": {
+              "name": "",
+              "status": ""
+            },
+            "Bizzare Höhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 207": {
+              "name": "",
+              "status": ""
+            },
+            "Kraterberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 208": {
+              "name": "",
+              "status": ""
+            },
+            "Herzhofen (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 209": {
+              "name": "",
+              "status": ""
+            },
+            "Trosttu-Ruinen": {
+              "name": "",
+              "status": ""
+            },
+            "Route 210": {
+              "name": "",
+              "status": ""
+            },
+            "Route 211": {
+              "name": "",
+              "status": ""
+            },
+            "Route 215": {
+              "name": "",
+              "status": ""
+            },
+            "Route 214": {
+              "name": "",
+              "status": ""
+            },
+            "Kühnheitsufer": {
+              "name": "",
+              "status": ""
+            },
+            "Kühnheitsufer (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 213": {
+              "name": "",
+              "status": ""
+            },
+            "Weideburg": {
+              "name": "",
+              "status": ""
+            },
+            "Safarizone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 212": {
+              "name": "",
+              "status": ""
+            },
+            "Trophähengarten": {
+              "name": "",
+              "status": ""
+            },
+            "Elyses": {
+              "name": "",
+              "status": ""
+            },
+            "Route 218": {
+              "name": "",
+              "status": ""
+            },
+            "Route 219": {
+              "name": "",
+              "status": ""
+            },
+            "Route 220": {
+              "name": "",
+              "status": ""
+            },
+            "Route 221": {
+              "name": "",
+              "status": ""
+            },
+            "Eiseninsel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 216": {
+              "name": "",
+              "status": ""
+            },
+            "Route 217": {
+              "name": "",
+              "status": ""
+            },
+            "Stärkeufer": {
+              "name": "",
+              "status": ""
+            },
+            "Blizzach-Tempel": {
+              "name": "",
+              "status": ""
+            },
+            "Sperrsäule (Statik 1)": {
+              "name": "",
+              "status": ""
+            },
+            "Sperrsäule (Statik 2)": {
+              "name": "",
+              "status": ""
+            },
+            "Zerrwelt": {
+              "name": "",
+              "status": ""
+            },
+            "Frühlingspfad": {
+              "name": "",
+              "status": ""
+            },
+            "Route 222": {
+              "name": "",
+              "status": ""
+            },
+            "Sonnewik": {
+              "name": "",
+              "status": ""
+            },
+            "Route 223": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Route 224": {
+              "name": "",
+              "status": ""
+            },
+            "Kampfareaö": {
+              "name": "",
+              "status": ""
+            },
+            "Route 225": {
+              "name": "",
+              "status": ""
+            },
+            "Route 226": {
+              "name": "",
+              "status": ""
+            },
+            "Route 227": {
+              "name": "",
+              "status": ""
+            },
+            "Route 228": {
+              "name": "",
+              "status": ""
+            },
+            "Route 229": {
+              "name": "",
+              "status": ""
+            },
+            "Route 230": {
+              "name": "",
+              "status": ""
+            },
+            "Erhohlungsgebiet": {
+              "name": "",
+              "status": ""
+            },
+            "Kahlberg": {
+              "name": "",
+              "status": ""
+            },
+            "Kahlberg (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -34630,7 +35674,268 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Zweiblattdorf": {
+              "name": "",
+              "status": ""
+            },
+            "Route 201": {
+              "name": "",
+              "status": ""
+            },
+            "Wahrheitsufer": {
+              "name": "",
+              "status": ""
+            },
+            "Sandgemme": {
+              "name": "",
+              "status": ""
+            },
+            "Route 202": {
+              "name": "",
+              "status": ""
+            },
+            "Route 203": {
+              "name": "",
+              "status": ""
+            },
+            "Erzelingen (Fossil)": {
+              "name": "",
+              "status": ""
+            },
+            "Erzelingen-Mine": {
+              "name": "",
+              "status": ""
+            },
+            "Route 204": {
+              "name": "",
+              "status": ""
+            },
+            "Verwüsteter Pfad": {
+              "name": "",
+              "status": ""
+            },
+            "Flori": {
+              "name": "",
+              "status": ""
+            },
+            "Route 205": {
+              "name": "",
+              "status": ""
+            },
+            "Windkraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Feuriohütte": {
+              "name": "",
+              "status": ""
+            },
+            "Ewigwald": {
+              "name": "",
+              "status": ""
+            },
+            "Verlassene Villa": {
+              "name": "",
+              "status": ""
+            },
+            "Ewigenau": {
+              "name": "",
+              "status": ""
+            },
+            "Route 206": {
+              "name": "",
+              "status": ""
+            },
+            "Bizzare Höhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 207": {
+              "name": "",
+              "status": ""
+            },
+            "Kraterberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 208": {
+              "name": "",
+              "status": ""
+            },
+            "Herzhofen (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 209": {
+              "name": "",
+              "status": ""
+            },
+            "Trosttu-Ruinen": {
+              "name": "",
+              "status": ""
+            },
+            "Route 210": {
+              "name": "",
+              "status": ""
+            },
+            "Route 211": {
+              "name": "",
+              "status": ""
+            },
+            "Route 215": {
+              "name": "",
+              "status": ""
+            },
+            "Route 214": {
+              "name": "",
+              "status": ""
+            },
+            "Kühnheitsufer": {
+              "name": "",
+              "status": ""
+            },
+            "Kühnheitsufer (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 213": {
+              "name": "",
+              "status": ""
+            },
+            "Weideburg": {
+              "name": "",
+              "status": ""
+            },
+            "Safarizone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 212": {
+              "name": "",
+              "status": ""
+            },
+            "Trophähengarten": {
+              "name": "",
+              "status": ""
+            },
+            "Elyses": {
+              "name": "",
+              "status": ""
+            },
+            "Route 218": {
+              "name": "",
+              "status": ""
+            },
+            "Route 219": {
+              "name": "",
+              "status": ""
+            },
+            "Route 220": {
+              "name": "",
+              "status": ""
+            },
+            "Route 221": {
+              "name": "",
+              "status": ""
+            },
+            "Eiseninsel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 216": {
+              "name": "",
+              "status": ""
+            },
+            "Route 217": {
+              "name": "",
+              "status": ""
+            },
+            "Stärkeufer": {
+              "name": "",
+              "status": ""
+            },
+            "Blizzach-Tempel": {
+              "name": "",
+              "status": ""
+            },
+            "Sperrsäule (Statik 1)": {
+              "name": "",
+              "status": ""
+            },
+            "Sperrsäule (Statik 2)": {
+              "name": "",
+              "status": ""
+            },
+            "Zerrwelt": {
+              "name": "",
+              "status": ""
+            },
+            "Frühlingspfad": {
+              "name": "",
+              "status": ""
+            },
+            "Route 222": {
+              "name": "",
+              "status": ""
+            },
+            "Sonnewik": {
+              "name": "",
+              "status": ""
+            },
+            "Route 223": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Route 224": {
+              "name": "",
+              "status": ""
+            },
+            "Kampfareaö": {
+              "name": "",
+              "status": ""
+            },
+            "Route 225": {
+              "name": "",
+              "status": ""
+            },
+            "Route 226": {
+              "name": "",
+              "status": ""
+            },
+            "Route 227": {
+              "name": "",
+              "status": ""
+            },
+            "Route 228": {
+              "name": "",
+              "status": ""
+            },
+            "Route 229": {
+              "name": "",
+              "status": ""
+            },
+            "Route 230": {
+              "name": "",
+              "status": ""
+            },
+            "Erhohlungsgebiet": {
+              "name": "",
+              "status": ""
+            },
+            "Kahlberg": {
+              "name": "",
+              "status": ""
+            },
+            "Kahlberg (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -34669,7 +35974,268 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Zweiblattdorf": {
+              "name": "",
+              "status": ""
+            },
+            "Route 201": {
+              "name": "",
+              "status": ""
+            },
+            "Wahrheitsufer": {
+              "name": "",
+              "status": ""
+            },
+            "Sandgemme": {
+              "name": "",
+              "status": ""
+            },
+            "Route 202": {
+              "name": "",
+              "status": ""
+            },
+            "Route 203": {
+              "name": "",
+              "status": ""
+            },
+            "Erzelingen (Fossil)": {
+              "name": "",
+              "status": ""
+            },
+            "Erzelingen-Mine": {
+              "name": "",
+              "status": ""
+            },
+            "Route 204": {
+              "name": "",
+              "status": ""
+            },
+            "Verwüsteter Pfad": {
+              "name": "",
+              "status": ""
+            },
+            "Flori": {
+              "name": "",
+              "status": ""
+            },
+            "Route 205": {
+              "name": "",
+              "status": ""
+            },
+            "Windkraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Feuriohütte": {
+              "name": "",
+              "status": ""
+            },
+            "Ewigwald": {
+              "name": "",
+              "status": ""
+            },
+            "Verlassene Villa": {
+              "name": "",
+              "status": ""
+            },
+            "Ewigenau": {
+              "name": "",
+              "status": ""
+            },
+            "Route 206": {
+              "name": "",
+              "status": ""
+            },
+            "Bizzare Höhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 207": {
+              "name": "",
+              "status": ""
+            },
+            "Kraterberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 208": {
+              "name": "",
+              "status": ""
+            },
+            "Herzhofen (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 209": {
+              "name": "",
+              "status": ""
+            },
+            "Trosttu-Ruinen": {
+              "name": "",
+              "status": ""
+            },
+            "Route 210": {
+              "name": "",
+              "status": ""
+            },
+            "Route 211": {
+              "name": "",
+              "status": ""
+            },
+            "Route 215": {
+              "name": "",
+              "status": ""
+            },
+            "Route 214": {
+              "name": "",
+              "status": ""
+            },
+            "Kühnheitsufer": {
+              "name": "",
+              "status": ""
+            },
+            "Kühnheitsufer (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 213": {
+              "name": "",
+              "status": ""
+            },
+            "Weideburg": {
+              "name": "",
+              "status": ""
+            },
+            "Safarizone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 212": {
+              "name": "",
+              "status": ""
+            },
+            "Trophähengarten": {
+              "name": "",
+              "status": ""
+            },
+            "Elyses": {
+              "name": "",
+              "status": ""
+            },
+            "Route 218": {
+              "name": "",
+              "status": ""
+            },
+            "Route 219": {
+              "name": "",
+              "status": ""
+            },
+            "Route 220": {
+              "name": "",
+              "status": ""
+            },
+            "Route 221": {
+              "name": "",
+              "status": ""
+            },
+            "Eiseninsel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 216": {
+              "name": "",
+              "status": ""
+            },
+            "Route 217": {
+              "name": "",
+              "status": ""
+            },
+            "Stärkeufer": {
+              "name": "",
+              "status": ""
+            },
+            "Blizzach-Tempel": {
+              "name": "",
+              "status": ""
+            },
+            "Sperrsäule (Statik 1)": {
+              "name": "",
+              "status": ""
+            },
+            "Sperrsäule (Statik 2)": {
+              "name": "",
+              "status": ""
+            },
+            "Zerrwelt": {
+              "name": "",
+              "status": ""
+            },
+            "Frühlingspfad": {
+              "name": "",
+              "status": ""
+            },
+            "Route 222": {
+              "name": "",
+              "status": ""
+            },
+            "Sonnewik": {
+              "name": "",
+              "status": ""
+            },
+            "Route 223": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Route 224": {
+              "name": "",
+              "status": ""
+            },
+            "Kampfareaö": {
+              "name": "",
+              "status": ""
+            },
+            "Route 225": {
+              "name": "",
+              "status": ""
+            },
+            "Route 226": {
+              "name": "",
+              "status": ""
+            },
+            "Route 227": {
+              "name": "",
+              "status": ""
+            },
+            "Route 228": {
+              "name": "",
+              "status": ""
+            },
+            "Route 229": {
+              "name": "",
+              "status": ""
+            },
+            "Route 230": {
+              "name": "",
+              "status": ""
+            },
+            "Erhohlungsgebiet": {
+              "name": "",
+              "status": ""
+            },
+            "Kahlberg": {
+              "name": "",
+              "status": ""
+            },
+            "Kahlberg (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -34708,7 +36274,268 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Zweiblattdorf": {
+              "name": "",
+              "status": ""
+            },
+            "Route 201": {
+              "name": "",
+              "status": ""
+            },
+            "Wahrheitsufer": {
+              "name": "",
+              "status": ""
+            },
+            "Sandgemme": {
+              "name": "",
+              "status": ""
+            },
+            "Route 202": {
+              "name": "",
+              "status": ""
+            },
+            "Route 203": {
+              "name": "",
+              "status": ""
+            },
+            "Erzelingen (Fossil)": {
+              "name": "",
+              "status": ""
+            },
+            "Erzelingen-Mine": {
+              "name": "",
+              "status": ""
+            },
+            "Route 204": {
+              "name": "",
+              "status": ""
+            },
+            "Verwüsteter Pfad": {
+              "name": "",
+              "status": ""
+            },
+            "Flori": {
+              "name": "",
+              "status": ""
+            },
+            "Route 205": {
+              "name": "",
+              "status": ""
+            },
+            "Windkraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Feuriohütte": {
+              "name": "",
+              "status": ""
+            },
+            "Ewigwald": {
+              "name": "",
+              "status": ""
+            },
+            "Verlassene Villa": {
+              "name": "",
+              "status": ""
+            },
+            "Ewigenau": {
+              "name": "",
+              "status": ""
+            },
+            "Route 206": {
+              "name": "",
+              "status": ""
+            },
+            "Bizzare Höhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 207": {
+              "name": "",
+              "status": ""
+            },
+            "Kraterberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 208": {
+              "name": "",
+              "status": ""
+            },
+            "Herzhofen (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 209": {
+              "name": "",
+              "status": ""
+            },
+            "Trosttu-Ruinen": {
+              "name": "",
+              "status": ""
+            },
+            "Route 210": {
+              "name": "",
+              "status": ""
+            },
+            "Route 211": {
+              "name": "",
+              "status": ""
+            },
+            "Route 215": {
+              "name": "",
+              "status": ""
+            },
+            "Route 214": {
+              "name": "",
+              "status": ""
+            },
+            "Kühnheitsufer": {
+              "name": "",
+              "status": ""
+            },
+            "Kühnheitsufer (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 213": {
+              "name": "",
+              "status": ""
+            },
+            "Weideburg": {
+              "name": "",
+              "status": ""
+            },
+            "Safarizone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 212": {
+              "name": "",
+              "status": ""
+            },
+            "Trophähengarten": {
+              "name": "",
+              "status": ""
+            },
+            "Elyses": {
+              "name": "",
+              "status": ""
+            },
+            "Route 218": {
+              "name": "",
+              "status": ""
+            },
+            "Route 219": {
+              "name": "",
+              "status": ""
+            },
+            "Route 220": {
+              "name": "",
+              "status": ""
+            },
+            "Route 221": {
+              "name": "",
+              "status": ""
+            },
+            "Eiseninsel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 216": {
+              "name": "",
+              "status": ""
+            },
+            "Route 217": {
+              "name": "",
+              "status": ""
+            },
+            "Stärkeufer": {
+              "name": "",
+              "status": ""
+            },
+            "Blizzach-Tempel": {
+              "name": "",
+              "status": ""
+            },
+            "Sperrsäule (Statik 1)": {
+              "name": "",
+              "status": ""
+            },
+            "Sperrsäule (Statik 2)": {
+              "name": "",
+              "status": ""
+            },
+            "Zerrwelt": {
+              "name": "",
+              "status": ""
+            },
+            "Frühlingspfad": {
+              "name": "",
+              "status": ""
+            },
+            "Route 222": {
+              "name": "",
+              "status": ""
+            },
+            "Sonnewik": {
+              "name": "",
+              "status": ""
+            },
+            "Route 223": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Route 224": {
+              "name": "",
+              "status": ""
+            },
+            "Kampfareaö": {
+              "name": "",
+              "status": ""
+            },
+            "Route 225": {
+              "name": "",
+              "status": ""
+            },
+            "Route 226": {
+              "name": "",
+              "status": ""
+            },
+            "Route 227": {
+              "name": "",
+              "status": ""
+            },
+            "Route 228": {
+              "name": "",
+              "status": ""
+            },
+            "Route 229": {
+              "name": "",
+              "status": ""
+            },
+            "Route 230": {
+              "name": "",
+              "status": ""
+            },
+            "Erhohlungsgebiet": {
+              "name": "",
+              "status": ""
+            },
+            "Kahlberg": {
+              "name": "",
+              "status": ""
+            },
+            "Kahlberg (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -34747,7 +36574,268 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Zweiblattdorf": {
+              "name": "",
+              "status": ""
+            },
+            "Route 201": {
+              "name": "",
+              "status": ""
+            },
+            "Wahrheitsufer": {
+              "name": "",
+              "status": ""
+            },
+            "Sandgemme": {
+              "name": "",
+              "status": ""
+            },
+            "Route 202": {
+              "name": "",
+              "status": ""
+            },
+            "Route 203": {
+              "name": "",
+              "status": ""
+            },
+            "Erzelingen (Fossil)": {
+              "name": "",
+              "status": ""
+            },
+            "Erzelingen-Mine": {
+              "name": "",
+              "status": ""
+            },
+            "Route 204": {
+              "name": "",
+              "status": ""
+            },
+            "Verwüsteter Pfad": {
+              "name": "",
+              "status": ""
+            },
+            "Flori": {
+              "name": "",
+              "status": ""
+            },
+            "Route 205": {
+              "name": "",
+              "status": ""
+            },
+            "Windkraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Feuriohütte": {
+              "name": "",
+              "status": ""
+            },
+            "Ewigwald": {
+              "name": "",
+              "status": ""
+            },
+            "Verlassene Villa": {
+              "name": "",
+              "status": ""
+            },
+            "Ewigenau": {
+              "name": "",
+              "status": ""
+            },
+            "Route 206": {
+              "name": "",
+              "status": ""
+            },
+            "Bizzare Höhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 207": {
+              "name": "",
+              "status": ""
+            },
+            "Kraterberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 208": {
+              "name": "",
+              "status": ""
+            },
+            "Herzhofen (Geschenk)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 209": {
+              "name": "",
+              "status": ""
+            },
+            "Trosttu-Ruinen": {
+              "name": "",
+              "status": ""
+            },
+            "Route 210": {
+              "name": "",
+              "status": ""
+            },
+            "Route 211": {
+              "name": "",
+              "status": ""
+            },
+            "Route 215": {
+              "name": "",
+              "status": ""
+            },
+            "Route 214": {
+              "name": "",
+              "status": ""
+            },
+            "Kühnheitsufer": {
+              "name": "",
+              "status": ""
+            },
+            "Kühnheitsufer (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 213": {
+              "name": "",
+              "status": ""
+            },
+            "Weideburg": {
+              "name": "",
+              "status": ""
+            },
+            "Safarizone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 212": {
+              "name": "",
+              "status": ""
+            },
+            "Trophähengarten": {
+              "name": "",
+              "status": ""
+            },
+            "Elyses": {
+              "name": "",
+              "status": ""
+            },
+            "Route 218": {
+              "name": "",
+              "status": ""
+            },
+            "Route 219": {
+              "name": "",
+              "status": ""
+            },
+            "Route 220": {
+              "name": "",
+              "status": ""
+            },
+            "Route 221": {
+              "name": "",
+              "status": ""
+            },
+            "Eiseninsel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 216": {
+              "name": "",
+              "status": ""
+            },
+            "Route 217": {
+              "name": "",
+              "status": ""
+            },
+            "Stärkeufer": {
+              "name": "",
+              "status": ""
+            },
+            "Blizzach-Tempel": {
+              "name": "",
+              "status": ""
+            },
+            "Sperrsäule (Statik 1)": {
+              "name": "",
+              "status": ""
+            },
+            "Sperrsäule (Statik 2)": {
+              "name": "",
+              "status": ""
+            },
+            "Zerrwelt": {
+              "name": "",
+              "status": ""
+            },
+            "Frühlingspfad": {
+              "name": "",
+              "status": ""
+            },
+            "Route 222": {
+              "name": "",
+              "status": ""
+            },
+            "Sonnewik": {
+              "name": "",
+              "status": ""
+            },
+            "Route 223": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Route 224": {
+              "name": "",
+              "status": ""
+            },
+            "Kampfareaö": {
+              "name": "",
+              "status": ""
+            },
+            "Route 225": {
+              "name": "",
+              "status": ""
+            },
+            "Route 226": {
+              "name": "",
+              "status": ""
+            },
+            "Route 227": {
+              "name": "",
+              "status": ""
+            },
+            "Route 228": {
+              "name": "",
+              "status": ""
+            },
+            "Route 229": {
+              "name": "",
+              "status": ""
+            },
+            "Route 230": {
+              "name": "",
+              "status": ""
+            },
+            "Erhohlungsgebiet": {
+              "name": "",
+              "status": ""
+            },
+            "Kahlberg": {
+              "name": "",
+              "status": ""
+            },
+            "Kahlberg (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
