@@ -35067,7 +35067,7 @@
           "team": [
             "Chelast",
             "Zigzachs",
-            null,
+            "Staralili",
             null,
             null,
             null
@@ -35104,8 +35104,8 @@
               "status": ""
             },
             "Route 202": {
-              "name": "",
-              "status": ""
+              "name": "Staralili",
+              "status": "Lebendig"
             },
             "Route 203": {
               "name": "",
@@ -36585,7 +36585,7 @@
           "team": [
             "Chelast",
             "Bidiza",
-            null,
+            "Plinfa",
             null,
             null,
             null
@@ -36614,8 +36614,8 @@
               "status": "Lebendig"
             },
             "Wahrheitsufer": {
-              "name": "",
-              "status": ""
+              "name": "Plinfa",
+              "status": "Lebendig"
             },
             "Sandgemme": {
               "name": "",
