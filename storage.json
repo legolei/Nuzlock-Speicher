@@ -36277,8 +36277,8 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
-            "Chelterrar",
-            null,
+            "Chelast",
+            "Fiffyen",
             null,
             null,
             null,
@@ -36300,12 +36300,12 @@
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
-              "name": "Chelterrar",
+              "name": "Chelast",
               "status": "Lebendig"
             },
             "Route 201": {
-              "name": "",
-              "status": ""
+              "name": "Fiffyen",
+              "status": "Lebendig"
             },
             "Wahrheitsufer": {
               "name": "",
