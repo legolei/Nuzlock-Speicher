@@ -35065,7 +35065,7 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            null,
+            "Chelast",
             null,
             null,
             null,
@@ -35089,7 +35089,7 @@
           "catches": {
             "Zweiblattdorf": {
               "name": "Chelast",
-              "status": ""
+              "status": "Lebendig"
             },
             "Route 201": {
               "name": "",
