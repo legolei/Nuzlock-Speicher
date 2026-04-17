@@ -35066,7 +35066,7 @@
           "color": "green",
           "team": [
             "Chelast",
-            null,
+            "Zigzachs",
             null,
             null,
             null,
@@ -35092,8 +35092,8 @@
               "status": "Lebendig"
             },
             "Route 201": {
-              "name": "",
-              "status": ""
+              "name": "Zigzachs",
+              "status": "Lebendig"
             },
             "Wahrheitsufer": {
               "name": "",
