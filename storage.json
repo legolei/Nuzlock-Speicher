@@ -35066,7 +35066,7 @@
           "color": "green",
           "team": [
             "Chelast",
-            "Zigzachs",
+            "Kleinstein",
             "Staravia",
             "Rattfratz",
             "Flemmli",
@@ -36583,7 +36583,7 @@
           "name": "Fabian",
           "color": "yellow",
           "team": [
-            "Chelast",
+            "Chelcarain",
             "Zobiris",
             "Pliprin",
             "Hoothoot",
@@ -36606,7 +36606,7 @@
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
-              "name": "Chelast",
+              "name": "Chelcarain",
               "status": "Lebendig"
             },
             "Route 201": {
