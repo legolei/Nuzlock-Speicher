@@ -34500,8 +34500,8 @@
               "status": "Lebendig"
             },
             "Erzelingen (Fossil)": {
-              "name": "",
-              "status": ""
+              "name": "Tragosso",
+              "status": "Lebendig"
             },
             "Erzelingen-Mine": {
               "name": "Georok",
@@ -34512,8 +34512,8 @@
               "status": "Lebendig"
             },
             "Verwüsteter Pfad": {
-              "name": "Tragosso",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Flori": {
               "name": "",
@@ -35067,7 +35067,7 @@
           "team": [
             "Chelast",
             "Zigzachs",
-            "Staralili",
+            null,
             "Rattfratz",
             "Flemmli",
             "Smettbo"
@@ -35104,7 +35104,7 @@
               "status": "Lebendig"
             },
             "Route 202": {
-              "name": "Staralili",
+              "name": "Staravia",
               "status": "Lebendig"
             },
             "Route 203": {
@@ -36634,8 +36634,8 @@
               "status": "Tot"
             },
             "Erzelingen-Mine": {
-              "name": "",
-              "status": ""
+              "name": "Zobiris",
+              "status": "Lebendig"
             },
             "Route 204": {
               "name": "Webarak",
