@@ -36584,7 +36584,7 @@
           "color": "yellow",
           "team": [
             "Chelast",
-            null,
+            "Bidiza",
             null,
             null,
             null,
@@ -36611,7 +36611,7 @@
             },
             "Route 201": {
               "name": "Bidiza",
-              "status": ""
+              "status": "Lebendig"
             },
             "Wahrheitsufer": {
               "name": "",
