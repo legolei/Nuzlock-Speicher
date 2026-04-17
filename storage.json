@@ -36583,7 +36583,7 @@
           "name": "Fabian",
           "color": "yellow",
           "team": [
-            null,
+            "Chelast",
             null,
             null,
             null,
@@ -36606,8 +36606,8 @@
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
-              "name": "",
-              "status": ""
+              "name": "Chelast",
+              "status": "Lebendig"
             },
             "Route 201": {
               "name": "",
