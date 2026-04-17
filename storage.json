@@ -36279,7 +36279,7 @@
           "team": [
             "Chelast",
             "Fiffyen",
-            null,
+            "Skunkapuh",
             null,
             null,
             null
@@ -36316,8 +36316,8 @@
               "status": ""
             },
             "Route 202": {
-              "name": "",
-              "status": ""
+              "name": "Skunkapuh",
+              "status": "Lebendig"
             },
             "Route 203": {
               "name": "",
