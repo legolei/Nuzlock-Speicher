@@ -35068,7 +35068,7 @@
             "Chelcarain",
             "Kleinstein",
             "Staravia",
-            "Rattfratz",
+            null,
             "Jungglut",
             "Golbat"
           ],
@@ -35100,7 +35100,7 @@
               "status": "Lebendig"
             },
             "Sandgemme": {
-              "name": "Rattfratz",
+              "name": "Rattikarl",
               "status": "Lebendig"
             },
             "Route 202": {
