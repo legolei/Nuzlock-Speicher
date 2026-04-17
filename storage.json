@@ -36674,12 +36674,12 @@
               "status": "Lebendig"
             },
             "Route 206": {
-              "name": "",
-              "status": ""
-            },
-            "Bizzare Höhle": {
               "name": "Rattikarl",
               "status": "Lebendig"
+            },
+            "Bizzare Höhle": {
+              "name": "",
+              "status": ""
             },
             "Route 207": {
               "name": "Isso",
