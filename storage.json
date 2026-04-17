@@ -34762,7 +34762,7 @@
             "Plinfa",
             "Hunduster",
             "Schwalbini",
-            null,
+            "Feurigel",
             null,
             null
           ],
@@ -34794,8 +34794,8 @@
               "status": "Lebendig"
             },
             "Sandgemme": {
-              "name": "",
-              "status": ""
+              "name": "Feurigel",
+              "status": "Lebendig"
             },
             "Route 202": {
               "name": "",
