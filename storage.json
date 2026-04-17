@@ -34764,7 +34764,7 @@
             "Schwalbini",
             "Feurigel",
             "Knofensa",
-            "Enton"
+            "Trasla"
           ],
           "badges": [
             false,
@@ -34794,16 +34794,16 @@
               "status": "Lebendig"
             },
             "Sandgemme": {
+              "name": "",
+              "status": ""
+            },
+            "Route 202": {
               "name": "Schwalbini",
               "status": "Lebendig"
             },
-            "Route 202": {
-              "name": "",
-              "status": ""
-            },
             "Route 203": {
-              "name": "",
-              "status": ""
+              "name": "Trasla",
+              "status": "Lebendig"
             },
             "Erzelingen (Fossil)": {
               "name": "",
@@ -36308,8 +36308,8 @@
               "status": "Lebendig"
             },
             "Wahrheitsufer": {
-              "name": "",
-              "status": ""
+              "name": "Karnimani",
+              "status": "Blockiert"
             },
             "Sandgemme": {
               "name": "",
