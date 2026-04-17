@@ -35671,9 +35671,9 @@
           "name": "Richard",
           "color": "orange",
           "team": [
-            null,
-            null,
-            null,
+            "Panflam",
+            "Taubsi",
+            "Zigzachs",
             null,
             null,
             null
@@ -35698,8 +35698,8 @@
               "status": "Lebendig"
             },
             "Route 201": {
-              "name": "",
-              "status": ""
+              "name": "Zigzachs",
+              "status": "Lebendig"
             },
             "Wahrheitsufer": {
               "name": "",
@@ -35710,8 +35710,8 @@
               "status": ""
             },
             "Route 202": {
-              "name": "",
-              "status": ""
+              "name": "Taubsi",
+              "status": "Lebendig"
             },
             "Route 203": {
               "name": "",
@@ -36627,7 +36627,7 @@
             },
             "Route 203": {
               "name": "Sandan",
-              "status": ""
+              "status": "Lebendig"
             },
             "Erzelingen (Fossil)": {
               "name": "",
