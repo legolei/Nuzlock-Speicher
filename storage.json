@@ -36277,7 +36277,7 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
-            "Panferno",
+            "Chelterrar",
             null,
             null,
             null,
@@ -36300,7 +36300,7 @@
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
-              "name": "Panferno",
+              "name": "Chelterrar",
               "status": "Lebendig"
             },
             "Route 201": {
