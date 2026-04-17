@@ -36586,7 +36586,7 @@
             "Chelast",
             "Bidiza",
             "Plinfa",
-            null,
+            "Hoothoot",
             null,
             null
           ],
@@ -36623,7 +36623,7 @@
             },
             "Route 202": {
               "name": "Hoothoot",
-              "status": ""
+              "status": "Lebendig"
             },
             "Route 203": {
               "name": "",
