@@ -36630,12 +36630,12 @@
               "status": "Lebendig"
             },
             "Erzelingen (Fossil)": {
-              "name": "",
-              "status": ""
-            },
-            "Erzelingen-Mine": {
               "name": "Digda",
               "status": "Tot"
+            },
+            "Erzelingen-Mine": {
+              "name": "",
+              "status": ""
             },
             "Route 204": {
               "name": "Webarak",
