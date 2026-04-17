@@ -34458,7 +34458,7 @@
             "Evoli",
             "Karnimani",
             "Knofensa",
-            null
+            "Krabby"
           ],
           "badges": [
             false,
@@ -34624,8 +34624,8 @@
               "status": ""
             },
             "Route 218": {
-              "name": "",
-              "status": ""
+              "name": "Krabby",
+              "status": "Lebendig"
             },
             "Route 219": {
               "name": "",
@@ -36639,7 +36639,7 @@
             },
             "Route 204": {
               "name": "Webarak",
-              "status": ""
+              "status": "Lebendig"
             },
             "Verwüsteter Pfad": {
               "name": "",
