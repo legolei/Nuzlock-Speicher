@@ -39016,7 +39016,7 @@
             "Golbat",
             "Pliprin",
             "Bronzel",
-            "Wingull",
+            "Sichlor",
             "Ibitak"
           ],
           "badges": [
@@ -39029,7 +39029,7 @@
             false,
             false
           ],
-          "deaths": 2,
+          "deaths": 3,
           "mainStream": "https://vdo.ninja/?view=ThwkPAs&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=ThwkPAs&fps=30&bitrate=800",
           "taken": false,
@@ -39080,7 +39080,7 @@
             },
             "Route 205": {
               "name": "Wingull",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Windkraftwerk": {
               "name": "",
@@ -39323,6 +39323,11 @@
         },
         {
           "name": "Zobiris",
+          "player": 7,
+          "color": "yellow"
+        },
+        {
+          "name": "Wingull",
           "player": 7,
           "color": "yellow"
         }
