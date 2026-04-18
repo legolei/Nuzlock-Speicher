@@ -1,5 +1,5 @@
 {
-  "game": "Bloody Platin",
+  "game": "Platin",
   "players": [
     {
       "name": "Legolei",
@@ -37517,12 +37517,12 @@
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
-              "name": "",
-              "status": ""
+              "name": "Chelterrar",
+              "status": "Lebendig"
             },
             "Route 201": {
-              "name": "",
-              "status": ""
+              "name": "Zigzachs",
+              "status": "Lebendig"
             },
             "Wahrheitsufer": {
               "name": "",
