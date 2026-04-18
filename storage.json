@@ -36902,7 +36902,7 @@
             "Knofensa"
           ],
           "badges": [
-            false,
+            true,
             false,
             false,
             false,
@@ -37495,7 +37495,7 @@
           "color": "green",
           "team": [
             "Chelterrar",
-            "Georock",
+            "Georok",
             "Staraptor",
             "Rattikarl",
             "Lohgock",
@@ -37503,8 +37503,8 @@
           ],
           "badges": [
             false,
-            false,
-            false,
+            true,
+            true,
             false,
             false,
             false,
@@ -37541,7 +37541,7 @@
               "status": "Lebendig"
             },
             "Erzelingen (Fossil)": {
-              "name": "Georock",
+              "name": "Georok",
               "status": "Lebendig"
             },
             "Erzelingen-Mine": {
