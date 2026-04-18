@@ -36897,7 +36897,7 @@
             "Panpyro",
             "Sichlor",
             "Tyracroc",
-            "Elevoltek",
+            "Elektek",
             "Georok",
             "Ultrigaria"
           ],
@@ -36965,7 +36965,7 @@
               "status": "Lebendig"
             },
             "Windkraftwerk": {
-              "name": "Elevoltek",
+              "name": "Elektek",
               "status": "Lebendig"
             },
             "Feuriohütte": {
@@ -38429,8 +38429,8 @@
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
-              "name": "",
-              "status": ""
+              "name": "panf",
+              "status": "Lebendig"
             },
             "Route 201": {
               "name": "",
@@ -39012,12 +39012,12 @@
           "name": "Fabian",
           "color": "yellow",
           "team": [
-            null,
-            "Zobiris",
-            "Habitak",
+            "Panpyro",
+            "Tentacha",
             "Plinfa",
+            "Sandan",
             "Myrapla",
-            "Isso"
+            "Habitak"
           ],
           "badges": [
             false,
@@ -39029,7 +39029,7 @@
             false,
             false
           ],
-          "deaths": 1,
+          "deaths": 2,
           "mainStream": "https://vdo.ninja/?view=ThwkPAs&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=ThwkPAs&fps=30&bitrate=800",
           "taken": false,
@@ -39064,7 +39064,7 @@
             },
             "Erzelingen-Mine": {
               "name": "Zobiris",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 204": {
               "name": "Myrapla",
@@ -39318,6 +39318,11 @@
       "graveyard": [
         {
           "name": "Fiffyen",
+          "player": 7,
+          "color": "yellow"
+        },
+        {
+          "name": "Zobiris",
           "player": 7,
           "color": "yellow"
         }
