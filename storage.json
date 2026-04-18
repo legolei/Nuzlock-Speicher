@@ -36894,12 +36894,12 @@
           "name": "Legolei",
           "color": "red",
           "team": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "Panpyro",
+            "Evoli",
+            "Karnimani",
+            "Teddiursa",
+            "Georok",
+            "Knofensa"
           ],
           "badges": [
             false,
@@ -36941,16 +36941,16 @@
               "status": "Lebendig"
             },
             "Erzelingen (Fossil)": {
-              "name": "Georok",
+              "name": "Tragosso",
               "status": "Lebendig"
             },
             "Erzelingen-Mine": {
-              "name": "Knofensa",
+              "name": "Georok",
               "status": "Lebendig"
             },
             "Route 204": {
-              "name": "",
-              "status": ""
+              "name": "Knofensa",
+              "status": "Lebendig"
             },
             "Verwüsteter Pfad": {
               "name": "",
