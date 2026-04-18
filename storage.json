@@ -38407,7 +38407,7 @@
           "color": "cyan",
           "team": [
             "Panflam",
-            null,
+            "Hunduster",
             null,
             null,
             null,
@@ -38433,8 +38433,8 @@
               "status": "Lebendig"
             },
             "Route 201": {
-              "name": "",
-              "status": ""
+              "name": "Hunduster",
+              "status": "Lebendig"
             },
             "Wahrheitsufer": {
               "name": "",
