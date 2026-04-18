@@ -38403,7 +38403,7 @@
           }
         },
         {
-          "name": "Jannik",
+          "name": "Pascal",
           "color": "cyan",
           "team": [
             null,
@@ -38695,7 +38695,7 @@
             "w": 100,
             "h": 100,
             "userScale": 3.049999999999997,
-            "offX": -182,
+            "offX": -191,
             "offY": -29
           },
           "touchAdj": {
