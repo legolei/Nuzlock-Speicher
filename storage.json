@@ -38094,9 +38094,9 @@
           "name": "Richard",
           "color": "orange",
           "team": [
-            null,
-            null,
-            null,
+            "Panflam",
+            "Zigzachs",
+            "Taubsi",
             null,
             null,
             null
@@ -38117,12 +38117,12 @@
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
-              "name": "",
-              "status": ""
+              "name": "Panflam",
+              "status": "Lebendig"
             },
             "Route 201": {
-              "name": "",
-              "status": ""
+              "name": "Zigzachs",
+              "status": "Lebendig"
             },
             "Wahrheitsufer": {
               "name": "",
@@ -38133,8 +38133,8 @@
               "status": ""
             },
             "Route 202": {
-              "name": "",
-              "status": ""
+              "name": "Taubsi",
+              "status": "Lebendig"
             },
             "Route 203": {
               "name": "",
