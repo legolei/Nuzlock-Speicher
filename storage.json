@@ -39009,7 +39009,7 @@
             "Panflam",
             "Fiffyen",
             "Habitak",
-            null,
+            "Plinfa",
             null,
             null
           ],
@@ -39037,8 +39037,8 @@
               "status": "Lebendig"
             },
             "Wahrheitsufer": {
-              "name": "Flemmli",
-              "status": ""
+              "name": "Plinfa",
+              "status": "Lebendig"
             },
             "Sandgemme": {
               "name": "",
