@@ -38407,7 +38407,7 @@
           "color": "cyan",
           "team": [
             "Panflam",
-            "Onix",
+            null,
             "Sheinux",
             "Chelast",
             "Krabby",
@@ -38457,8 +38457,8 @@
               "status": ""
             },
             "Erzelingen-Mine": {
-              "name": "Onix",
-              "status": "Lebendig"
+              "name": "Kleinstein",
+              "status": "Tot"
             },
             "Route 204": {
               "name": "Raupy",
