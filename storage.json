@@ -37218,8 +37218,8 @@
             false
           ],
           "deaths": 0,
-          "mainStream": "https://vdo.ninja/?view=bYWzmYg&fps=30&bitrate=800",
-          "touchStream": "https://vdo.ninja/?view=bYWzmYg&fps=30&bitrate=800",
+          "mainStream": "",
+          "touchStream": "",
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
@@ -39006,7 +39006,7 @@
           "name": "Fabian",
           "color": "yellow",
           "team": [
-            null,
+            "Panflam",
             null,
             null,
             null,
@@ -39029,8 +39029,8 @@
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
-              "name": "",
-              "status": ""
+              "name": "Panflam",
+              "status": "Lebendig"
             },
             "Route 201": {
               "name": "",
