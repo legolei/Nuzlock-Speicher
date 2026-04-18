@@ -39012,7 +39012,7 @@
           "name": "Fabian",
           "color": "yellow",
           "team": [
-            "Panpyro",
+            "Girafarig",
             "Golbat",
             "Pliprin",
             "Bronzel",
@@ -39029,14 +39029,14 @@
             false,
             false
           ],
-          "deaths": 3,
+          "deaths": 4,
           "mainStream": "https://vdo.ninja/?view=ThwkPAs&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=ThwkPAs&fps=30&bitrate=800",
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
               "name": "Panpyro",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 201": {
               "name": "Fiffyen",
@@ -39328,6 +39328,11 @@
         },
         {
           "name": "Wingull",
+          "player": 7,
+          "color": "yellow"
+        },
+        {
+          "name": "Panpyro",
           "player": 7,
           "color": "yellow"
         }
