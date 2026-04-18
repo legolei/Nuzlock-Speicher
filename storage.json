@@ -36896,7 +36896,7 @@
           "team": [
             "Panpyro",
             "Sichlor",
-            "Tyracroc",
+            "Impergator",
             "Elektek",
             "Georok",
             "Ultrigaria"
@@ -36925,7 +36925,7 @@
               "status": "Lebendig"
             },
             "Wahrheitsufer": {
-              "name": "Tyracroc",
+              "name": "Impergator",
               "status": "Lebendig"
             },
             "Sandgemme": {
@@ -39300,7 +39300,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 2.5999999999999988,
+            "userScale": 2.6999999999999984,
             "offX": -143,
             "offY": -19
           },
