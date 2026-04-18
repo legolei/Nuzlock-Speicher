@@ -37194,12 +37194,12 @@
           "name": "Jasmin",
           "color": "blue",
           "team": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "Plinfa",
+            "Hunduster",
+            "Schwalbini",
+            "Kaumalat",
+            "Knofensa",
+            "Trasla"
           ],
           "badges": [
             false,
@@ -37494,12 +37494,12 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
+            "Chelterrar",
+            "Georock",
+            "Staraptor",
+            "Rattikarl",
+            "Lohgock",
+            "Iksbat"
           ],
           "badges": [
             false,
@@ -37621,8 +37621,8 @@
               "status": ""
             },
             "Route 211": {
-              "name": "",
-              "status": ""
+              "name": "Kadabra",
+              "status": "Lebendig"
             },
             "Route 215": {
               "name": "",
