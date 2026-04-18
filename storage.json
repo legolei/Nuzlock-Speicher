@@ -39053,12 +39053,12 @@
               "status": "Lebendig"
             },
             "Erzelingen (Fossil)": {
-              "name": "",
-              "status": ""
-            },
-            "Erzelingen-Mine": {
               "name": "Zubat",
               "status": "Lebendig"
+            },
+            "Erzelingen-Mine": {
+              "name": "",
+              "status": ""
             },
             "Route 204": {
               "name": "Myrapla",
