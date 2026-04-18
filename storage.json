@@ -38409,7 +38409,7 @@
             "Panflam",
             "Hunduster",
             "Staralili",
-            null,
+            "Chelast",
             null,
             null
           ],
@@ -38437,8 +38437,8 @@
               "status": "Lebendig"
             },
             "Wahrheitsufer": {
-              "name": "",
-              "status": ""
+              "name": "Chelast",
+              "status": "Lebendig"
             },
             "Sandgemme": {
               "name": "",
@@ -39309,7 +39309,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 2.6999999999999984,
+            "userScale": 2.9499999999999975,
             "offX": -144,
             "offY": -160
           }
