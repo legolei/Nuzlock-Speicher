@@ -38423,7 +38423,7 @@
             false,
             false
           ],
-          "deaths": 0,
+          "deaths": 1,
           "mainStream": "https://vdo.ninja/?view=TsPdQwn&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=TsPdQwn&fps=30&bitrate=800",
           "taken": false,
@@ -39325,6 +39325,11 @@
           "name": "Zobiris",
           "player": 7,
           "color": "yellow"
+        },
+        {
+          "name": "Staralili",
+          "player": 5,
+          "color": "cyan"
         }
       ]
     }
