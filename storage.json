@@ -38408,7 +38408,7 @@
           "team": [
             "Panflam",
             "Hunduster",
-            "Staralili",
+            null,
             "Chelast",
             "Krabby",
             null
@@ -38446,7 +38446,7 @@
             },
             "Route 202": {
               "name": "Staralili",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 203": {
               "name": "",
