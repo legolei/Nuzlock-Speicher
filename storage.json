@@ -38407,7 +38407,7 @@
           "color": "cyan",
           "team": [
             "Panflam",
-            "Hunduster",
+            "Onix",
             "Sheinux",
             "Chelast",
             "Krabby",
@@ -38457,8 +38457,8 @@
               "status": ""
             },
             "Erzelingen-Mine": {
-              "name": "",
-              "status": ""
+              "name": "Onix",
+              "status": "Lebendig"
             },
             "Route 204": {
               "name": "Raupy",
@@ -39107,8 +39107,8 @@
               "status": "Lebendig"
             },
             "Bizzare Höhle": {
-              "name": "",
-              "status": ""
+              "name": "Vibrava",
+              "status": "Lebendig"
             },
             "Route 207": {
               "name": "Isso",
