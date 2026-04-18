@@ -38406,12 +38406,12 @@
           "name": "Jannik",
           "color": "cyan",
           "team": [
-            "Panflam",
+            "Panpyro",
             "Onix",
             "Sheinux",
             "Chelast",
             "Krabby",
-            "Staralili"
+            "Staravia"
           ],
           "badges": [
             false,
@@ -38429,7 +38429,7 @@
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
-              "name": "Panflam",
+              "name": "Panpyro",
               "status": "Lebendig"
             },
             "Route 201": {
@@ -38445,7 +38445,7 @@
               "status": ""
             },
             "Route 202": {
-              "name": "Staralili",
+              "name": "Staravia",
               "status": "Lebendig"
             },
             "Route 203": {
@@ -38703,7 +38703,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 2.6499999999999986,
+            "userScale": 2.5999999999999988,
             "offX": -136,
             "offY": -156
           }
