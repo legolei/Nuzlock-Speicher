@@ -38406,7 +38406,7 @@
           "name": "Jannik",
           "color": "cyan",
           "team": [
-            null,
+            "Lugia",
             null,
             null,
             null,
@@ -38429,8 +38429,8 @@
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
-              "name": "",
-              "status": ""
+              "name": "Lugia",
+              "status": "Lebendig"
             },
             "Route 201": {
               "name": "",
