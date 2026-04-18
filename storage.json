@@ -38411,7 +38411,7 @@
             "Raupy",
             "Chelast",
             "Krabby",
-            null
+            "Staralili"
           ],
           "badges": [
             false,
@@ -38423,7 +38423,7 @@
             false,
             false
           ],
-          "deaths": 1,
+          "deaths": 0,
           "mainStream": "https://vdo.ninja/?view=TsPdQwn&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=TsPdQwn&fps=30&bitrate=800",
           "taken": false,
@@ -38446,7 +38446,7 @@
             },
             "Route 202": {
               "name": "Staralili",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 203": {
               "name": "",
@@ -39325,11 +39325,6 @@
           "name": "Zobiris",
           "player": 7,
           "color": "yellow"
-        },
-        {
-          "name": "Staralili",
-          "player": 5,
-          "color": "cyan"
         }
       ]
     }
