@@ -39007,7 +39007,7 @@
           "color": "yellow",
           "team": [
             "Panflam",
-            null,
+            "Zubat",
             "Habitak",
             "Plinfa",
             "Myrapla",
@@ -39057,8 +39057,8 @@
               "status": ""
             },
             "Erzelingen-Mine": {
-              "name": "",
-              "status": ""
+              "name": "Zubat",
+              "status": "Lebendig"
             },
             "Route 204": {
               "name": "Myrapla",
