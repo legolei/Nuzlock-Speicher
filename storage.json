@@ -38694,10 +38694,10 @@
           "name": "Antonino",
           "color": "pink",
           "team": [
-            null,
-            null,
-            null,
-            null,
+            "Chelast",
+            "Fiffyen",
+            "Skuntank",
+            "Hornliu",
             null,
             null
           ],
@@ -38726,7 +38726,7 @@
             },
             "Wahrheitsufer": {
               "name": "Karnimani",
-              "status": "Lebendig"
+              "status": "Blockiert"
             },
             "Sandgemme": {
               "name": "",
@@ -38749,8 +38749,8 @@
               "status": ""
             },
             "Route 204": {
-              "name": "",
-              "status": ""
+              "name": "Hornliu",
+              "status": "Lebendig"
             },
             "Verwüsteter Pfad": {
               "name": "",
