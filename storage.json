@@ -38407,7 +38407,7 @@
           "color": "cyan",
           "team": [
             "Panflam",
-            null,
+            "Onix",
             "Sheinux",
             "Chelast",
             "Krabby",
@@ -38453,8 +38453,8 @@
               "status": "Lebendig"
             },
             "Erzelingen (Fossil)": {
-              "name": "",
-              "status": ""
+              "name": "Onix",
+              "status": "Lebendig"
             },
             "Erzelingen-Mine": {
               "name": "Kleinstein",
