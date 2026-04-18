@@ -36912,8 +36912,8 @@
             false
           ],
           "deaths": 0,
-          "mainStream": "https://vdo.ninja/?view=qggUENz&fps=30&bitrate=800",
-          "touchStream": "https://vdo.ninja/?view=qggUENz&fps=30&bitrate=800",
+          "mainStream": "",
+          "touchStream": "",
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
@@ -39030,8 +39030,8 @@
             false
           ],
           "deaths": 4,
-          "mainStream": "https://vdo.ninja/?view=ThwkPAs&fps=30&bitrate=800",
-          "touchStream": "https://vdo.ninja/?view=ThwkPAs&fps=30&bitrate=800",
+          "mainStream": "",
+          "touchStream": "",
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
