@@ -38406,7 +38406,7 @@
           "name": "Jannik",
           "color": "cyan",
           "team": [
-            null,
+            "Panflam",
             null,
             null,
             null,
@@ -38429,7 +38429,7 @@
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
-              "name": "panf",
+              "name": "Panflam",
               "status": "Lebendig"
             },
             "Route 201": {
