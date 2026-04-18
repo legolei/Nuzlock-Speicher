@@ -36912,8 +36912,8 @@
             false
           ],
           "deaths": 0,
-          "mainStream": "",
-          "touchStream": "",
+          "mainStream": "https://vdo.ninja/?view=qggUENz&fps=30&bitrate=800",
+          "touchStream": "https://vdo.ninja/?view=qggUENz&fps=30&bitrate=800",
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
@@ -37187,7 +37187,9 @@
             "left": 0,
             "top": 0,
             "w": 100,
-            "h": 100
+            "h": 100,
+            "offX": 8,
+            "offY": -87
           }
         },
         {
