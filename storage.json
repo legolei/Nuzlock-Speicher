@@ -38413,10 +38413,10 @@
           "color": "cyan",
           "team": [
             "Hunduster",
-            "Chelast",
+            "Chelcarain",
             "Enton",
-            "Raupy",
-            "Rabauz",
+            "Smettbo",
+            "Kicklee",
             null
           ],
           "badges": [
@@ -38443,7 +38443,7 @@
               "status": "Lebendig"
             },
             "Wahrheitsufer": {
-              "name": "Chelast",
+              "name": "Chelcarain",
               "status": "Lebendig"
             },
             "Sandgemme": {
@@ -38467,7 +38467,7 @@
               "status": "Tot"
             },
             "Route 204": {
-              "name": "Raupy",
+              "name": "Smettbo",
               "status": "Lebendig"
             },
             "Verwüsteter Pfad": {
@@ -38511,7 +38511,7 @@
               "status": ""
             },
             "Route 207": {
-              "name": "Rabauz",
+              "name": "Kicklee",
               "status": "Lebendig"
             },
             "Kraterberg": {
