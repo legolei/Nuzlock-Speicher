@@ -38115,7 +38115,7 @@
             "Panflam",
             "Zigzachs",
             "Taubsi",
-            null,
+            "Knofensa",
             null,
             null
           ],
@@ -38167,8 +38167,8 @@
               "status": ""
             },
             "Route 204": {
-              "name": "",
-              "status": ""
+              "name": "Knofensa",
+              "status": "Lebendig"
             },
             "Verwüsteter Pfad": {
               "name": "",
