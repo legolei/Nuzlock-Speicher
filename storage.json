@@ -37497,9 +37497,9 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 0.05,
-            "offX": 24,
-            "offY": 18
+            "userScale": 0.4999999999999996,
+            "offX": -2,
+            "offY": 5
           }
         },
         {
@@ -37597,7 +37597,7 @@
               "status": "Lebendig"
             },
             "Route 206": {
-              "name": "a",
+              "name": "Arkani",
               "status": "Lebendig"
             },
             "Bizzare Höhle": {
