@@ -38423,7 +38423,7 @@
             "Enton",
             "Smettbo",
             "Kicklee",
-            null
+            "Maskeregen"
           ],
           "badges": [
             true,
@@ -38485,8 +38485,8 @@
               "status": ""
             },
             "Route 205": {
-              "name": "",
-              "status": ""
+              "name": "Maskeregen",
+              "status": "Lebendig"
             },
             "Windkraftwerk": {
               "name": "Elektek",
