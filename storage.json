@@ -36897,7 +36897,7 @@
             "Nachtara",
             "Scherox",
             "Brutalanda",
-            "Elektek",
+            null,
             "Geowaz",
             "Gengar"
           ],
@@ -36965,7 +36965,7 @@
               "status": "Lebendig"
             },
             "Windkraftwerk": {
-              "name": "Elektek",
+              "name": "Elevoltek",
               "status": "Lebendig"
             },
             "Feuriohütte": {
@@ -37803,7 +37803,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 2.1500000000000004,
+            "userScale": 2.2,
             "offX": -191,
             "offY": -236
           }
@@ -38419,8 +38419,8 @@
           "color": "cyan",
           "team": [
             "Hundemon",
-            "Chelcarain",
-            "Enton",
+            "Chelterrar",
+            "Entoron",
             "Smettbo",
             "Kicklee",
             "Maskeregen"
@@ -38449,7 +38449,7 @@
               "status": "Lebendig"
             },
             "Wahrheitsufer": {
-              "name": "Chelcarain",
+              "name": "Chelterrar",
               "status": "Lebendig"
             },
             "Sandgemme": {
@@ -38477,7 +38477,7 @@
               "status": "Lebendig"
             },
             "Verwüsteter Pfad": {
-              "name": "Enton",
+              "name": "Entoron",
               "status": "Lebendig"
             },
             "Flori": {
