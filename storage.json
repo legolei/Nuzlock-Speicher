@@ -37803,7 +37803,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 1.9500000000000008,
+            "userScale": 1.6500000000000006,
             "offX": -191,
             "offY": -236
           }
@@ -38412,12 +38412,12 @@
           "name": "Jannik",
           "color": "cyan",
           "team": [
-            "Panpyro",
-            "Onix",
-            "Luxio",
+            null,
+            null,
+            null,
             "Chelast",
-            "Krabby",
-            "Staravia"
+            null,
+            null
           ],
           "badges": [
             true,
@@ -38436,7 +38436,7 @@
           "catches": {
             "Zweiblattdorf": {
               "name": "Panpyro",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 201": {
               "name": "Hunduster",
@@ -38452,15 +38452,15 @@
             },
             "Route 202": {
               "name": "Staravia",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 203": {
               "name": "Luxio",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Erzelingen (Fossil)": {
               "name": "Onix",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Erzelingen-Mine": {
               "name": "Kleinstein",
@@ -38584,7 +38584,7 @@
             },
             "Route 218": {
               "name": "Krabby",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 219": {
               "name": "",
