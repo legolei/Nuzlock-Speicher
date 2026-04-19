@@ -37803,7 +37803,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 1.9500000000000008,
+            "userScale": 1.8500000000000008,
             "offX": -191,
             "offY": -236
           }
@@ -38436,7 +38436,7 @@
           "catches": {
             "Zweiblattdorf": {
               "name": "Panpyro",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 201": {
               "name": "Hunduster",
@@ -38452,15 +38452,15 @@
             },
             "Route 202": {
               "name": "Staravia",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 203": {
               "name": "Luxio",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Erzelingen (Fossil)": {
               "name": "Onix",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Erzelingen-Mine": {
               "name": "Kleinstein",
@@ -38584,7 +38584,7 @@
             },
             "Route 218": {
               "name": "Krabby",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 219": {
               "name": "",
