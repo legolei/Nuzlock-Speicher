@@ -38117,7 +38117,7 @@
             "Taubsi",
             "Knofensa",
             "Teddiursa",
-            null
+            "Hippopotas"
           ],
           "badges": [
             false,
@@ -38211,8 +38211,8 @@
               "status": ""
             },
             "Route 207": {
-              "name": "",
-              "status": ""
+              "name": "Hippopotas",
+              "status": "Lebendig"
             },
             "Kraterberg": {
               "name": "",
