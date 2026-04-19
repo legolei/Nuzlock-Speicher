@@ -37497,7 +37497,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 2.4499999999999993,
+            "userScale": 2.1500000000000004,
             "offX": -197,
             "offY": -234
           }
@@ -38412,10 +38412,10 @@
           "name": "Jannik",
           "color": "cyan",
           "team": [
-            "Panpyro",
-            "Staravia",
-            "Onix",
-            "Krabby",
+            null,
+            null,
+            null,
+            null,
             "Rabauz",
             null
           ],
@@ -38429,14 +38429,14 @@
             false,
             false
           ],
-          "deaths": 0,
+          "deaths": 5,
           "mainStream": "https://vdo.ninja/?view=TsPdQwn&fps=30&bitrate=800",
           "touchStream": "https://vdo.ninja/?view=TsPdQwn&fps=30&bitrate=800",
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
               "name": "Panpyro",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 201": {
               "name": "Hunduster",
@@ -38452,15 +38452,15 @@
             },
             "Route 202": {
               "name": "Staravia",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 203": {
               "name": "Luxio",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Erzelingen (Fossil)": {
               "name": "Onix",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Erzelingen-Mine": {
               "name": "Kleinstein",
@@ -38584,7 +38584,7 @@
             },
             "Route 218": {
               "name": "Krabby",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 219": {
               "name": "",
@@ -39341,6 +39341,31 @@
           "name": "Panpyro",
           "player": 7,
           "color": "yellow"
+        },
+        {
+          "name": "Krabby",
+          "player": 5,
+          "color": "cyan"
+        },
+        {
+          "name": "Onix",
+          "player": 5,
+          "color": "cyan"
+        },
+        {
+          "name": "Panpyro",
+          "player": 5,
+          "color": "cyan"
+        },
+        {
+          "name": "Staravia",
+          "player": 5,
+          "color": "cyan"
+        },
+        {
+          "name": "Luxio",
+          "player": 5,
+          "color": "cyan"
         }
       ]
     }
