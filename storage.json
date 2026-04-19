@@ -38412,10 +38412,10 @@
           "name": "Jannik",
           "color": "cyan",
           "team": [
-            "Hunduster",
-            "Chelast",
-            "Raupy",
-            "Enton",
+            "Panpyro",
+            "Staravia",
+            "Onix",
+            "Krabby",
             "Rabauz",
             null
           ],
@@ -38709,7 +38709,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 3.4999999999999956,
+            "userScale": 3.4499999999999957,
             "offX": -204,
             "offY": -242
           }
