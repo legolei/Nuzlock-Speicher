@@ -36895,7 +36895,7 @@
           "color": "red",
           "team": [
             "Nachtara",
-            "Sichlor",
+            null,
             "Ursaring",
             "Elektek",
             "Geowaz",
@@ -36973,7 +36973,7 @@
               "status": ""
             },
             "Ewigwald": {
-              "name": "Sichlor",
+              "name": "Scherox",
               "status": "Lebendig"
             },
             "Verlassene Villa": {
