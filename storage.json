@@ -36897,7 +36897,7 @@
             "Nachtara",
             "Scherox",
             "Brutalanda",
-            null,
+            "Elevoltek",
             "Geowaz",
             "Gengar"
           ],
@@ -37524,8 +37524,8 @@
             false
           ],
           "deaths": 0,
-          "mainStream": "https://vdo.ninja/?view=9FZKv6j&fps=30&bitrate=800",
-          "touchStream": "https://vdo.ninja/?view=9FZKv6j&fps=30&bitrate=800",
+          "mainStream": "",
+          "touchStream": "",
           "taken": false,
           "catches": {
             "Zweiblattdorf": {
