@@ -37498,8 +37498,8 @@
             "w": 100,
             "h": 100,
             "userScale": 0.7999999999999998,
-            "offX": 38,
-            "offY": 3
+            "offX": 24,
+            "offY": 18
           }
         },
         {
@@ -37597,7 +37597,7 @@
               "status": "Lebendig"
             },
             "Route 206": {
-              "name": "Fukano",
+              "name": "a",
               "status": "Lebendig"
             },
             "Bizzare Höhle": {
