@@ -37793,7 +37793,10 @@
             "left": 0,
             "top": 0,
             "w": 100,
-            "h": 100
+            "h": 100,
+            "userScale": 2.3,
+            "offX": -73,
+            "offY": -36
           },
           "touchAdj": {
             "left": 0,
