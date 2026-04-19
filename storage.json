@@ -38163,8 +38163,8 @@
               "status": ""
             },
             "Erzelingen-Mine": {
-              "name": "",
-              "status": ""
+              "name": "Kleinstein",
+              "status": "Lebendig"
             },
             "Route 204": {
               "name": "Knofensa",
@@ -38715,7 +38715,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 4.099999999999993,
+            "userScale": 4.399999999999992,
             "offX": -204,
             "offY": -242
           }
