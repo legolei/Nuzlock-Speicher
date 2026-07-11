@@ -32790,7 +32790,7 @@
           "color": "green",
           "team": [
             null,
-            "Jungglut",
+            null,
             "Moorabbel",
             "Nachtara",
             "Kecleon",
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 1,
+          "deaths": 2,
           "mainStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "taken": false,
@@ -32817,7 +32817,7 @@
             },
             "Route 1": {
               "name": "Jungglut",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertania City": {
               "name": "Moorabbel",
@@ -33564,7 +33564,7 @@
           "color": "cyan",
           "team": [
             null,
-            "Rattfratz",
+            null,
             "Anorith",
             "Georok",
             "Arkani",
@@ -33580,7 +33580,7 @@
             false,
             false
           ],
-          "deaths": 1,
+          "deaths": 2,
           "mainStream": "https://vdo.ninja/?view=UzAPhPQ&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=UzAPhPQ&solo&room=Bob&password=LoL",
           "taken": false,
@@ -33591,7 +33591,7 @@
             },
             "Route 1": {
               "name": "Rattfratz",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertania City": {
               "name": "Anorith",
@@ -34348,6 +34348,16 @@
         },
         {
           "name": "Alpollo",
+          "player": 5,
+          "color": "cyan"
+        },
+        {
+          "name": "Jungglut",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Rattfratz",
           "player": 5,
           "color": "cyan"
         }
