@@ -32790,10 +32790,10 @@
           "color": "green",
           "team": [
             "Ampharos",
-            "Garados",
-            "Meditie",
+            "Schneckmag",
+            null,
             "Aalabyss",
-            "Sarzenia",
+            null,
             "Rasaff"
           ],
           "badges": [
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 2,
+          "deaths": 5,
           "mainStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "taken": false,
@@ -32817,7 +32817,7 @@
             },
             "Route 1": {
               "name": "Garados",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertania City": {
               "name": "Geradaks",
@@ -32829,11 +32829,11 @@
             },
             "Route 2": {
               "name": "Sarzenia",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mamoria City": {
               "name": "Meditie",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 3": {
               "name": "Schneckmag",
@@ -33564,11 +33564,11 @@
           "color": "cyan",
           "team": [
             "Lohgock",
-            "Kanivanha",
+            "Pii",
             "Qurtel",
             "Machollo",
-            "Elekid",
-            "Jungglut"
+            null,
+            null
           ],
           "badges": [
             true,
@@ -33580,7 +33580,7 @@
             false,
             false
           ],
-          "deaths": 1,
+          "deaths": 4,
           "mainStream": "https://vdo.ninja/?view=YA4b9M4&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=YA4b9M4&solo&room=Bob&password=LoL",
           "taken": false,
@@ -33591,7 +33591,7 @@
             },
             "Route 1": {
               "name": "Kanivanha",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertania City": {
               "name": "Dratini",
@@ -33603,11 +33603,11 @@
             },
             "Route 2": {
               "name": "Elekid",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mamoria City": {
               "name": "Jungglut",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 3": {
               "name": "Pii",
@@ -34348,6 +34348,36 @@
         },
         {
           "name": "Dratini",
+          "player": 5,
+          "color": "cyan"
+        },
+        {
+          "name": "Kanivanha",
+          "player": 5,
+          "color": "cyan"
+        },
+        {
+          "name": "Meditie",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Garados",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Elekid",
+          "player": 5,
+          "color": "cyan"
+        },
+        {
+          "name": "Sarzenia",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Jungglut",
           "player": 5,
           "color": "cyan"
         }
