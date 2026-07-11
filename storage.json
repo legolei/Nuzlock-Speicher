@@ -33563,7 +33563,7 @@
           "name": "Jannik",
           "color": "cyan",
           "team": [
-            null,
+            "Lohgock",
             null,
             null,
             null,
@@ -33586,8 +33586,8 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "",
-              "status": ""
+              "name": "Lohgock",
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "",
