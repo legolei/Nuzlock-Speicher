@@ -32790,7 +32790,7 @@
           "color": "green",
           "team": [
             "Mew",
-            null,
+            "Jungglut",
             null,
             null,
             null,
@@ -32816,8 +32816,8 @@
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "",
-              "status": ""
+              "name": "Jungglut",
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
