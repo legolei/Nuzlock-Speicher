@@ -33304,12 +33304,12 @@
           "name": "Richard",
           "color": "orange",
           "team": [
-            "Quapsel",
+            null,
             "Nidoran♀",
-            "Meditie",
+            null,
             "Pichu",
-            "Bisaknosp",
-            "Flamara"
+            null,
+            null
           ],
           "badges": [
             true,
@@ -33321,7 +33321,7 @@
             false,
             false
           ],
-          "deaths": 0,
+          "deaths": 4,
           "mainStream": "https://vdo.ninja/?view=Fy6fQtQ&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=Fy6fQtQ&solo&room=Bob&password=LoL",
           "taken": false,
@@ -33331,7 +33331,7 @@
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "Ledyba",
+              "name": "",
               "status": "Lebendig"
             },
             "Vertania City": {
@@ -33352,19 +33352,19 @@
             },
             "Route 3": {
               "name": "Bisaknosp",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mondberg": {
               "name": "Marill",
               "status": "Lebendig"
             },
             "Route 4": {
-              "name": "Seemops",
+              "name": "",
               "status": "Lebendig"
             },
             "Route 4 (Kaufbares Pokémon)": {
               "name": "Flamara",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Azuria City": {
               "name": "",
@@ -33444,7 +33444,7 @@
             },
             "Route 11": {
               "name": "Quapsel",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 12": {
               "name": "",
@@ -33524,7 +33524,7 @@
             },
             "Route 22": {
               "name": "Meditie",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 24": {
               "name": "Rettan",
@@ -33807,7 +33807,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 1.1
+            "userScale": 1
           },
           "touchAdj": {
             "left": 0,
@@ -34445,6 +34445,26 @@
           "name": "Guardevoir",
           "player": 6,
           "color": "pink"
+        },
+        {
+          "name": "Quapsel",
+          "player": 4,
+          "color": "orange"
+        },
+        {
+          "name": "Meditie",
+          "player": 4,
+          "color": "orange"
+        },
+        {
+          "name": "Bisaknosp",
+          "player": 4,
+          "color": "orange"
+        },
+        {
+          "name": "Flamara",
+          "player": 4,
+          "color": "orange"
         }
       ]
     },
