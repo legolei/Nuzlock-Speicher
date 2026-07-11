@@ -33305,7 +33305,7 @@
           "color": "orange",
           "team": [
             "Milotic",
-            null,
+            "Griffel",
             null,
             null,
             null,
@@ -33331,8 +33331,8 @@
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "",
-              "status": ""
+              "name": "Griffel",
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
