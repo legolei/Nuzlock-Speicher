@@ -32791,7 +32791,7 @@
           "team": [
             "Ampharos",
             "Garados",
-            null,
+            "Aalabyss",
             null,
             null,
             null
@@ -32824,8 +32824,8 @@
               "status": "Lebendig"
             },
             "Vertaniawald": {
-              "name": "",
-              "status": ""
+              "name": "Aalabyss",
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "",
