@@ -32790,7 +32790,7 @@
           "color": "green",
           "team": [
             "Kappalores",
-            null,
+            "Arbok",
             "Moorabbel",
             "Nachtara",
             null,
@@ -32836,8 +32836,8 @@
               "status": "Lebendig"
             },
             "Route 3": {
-              "name": "",
-              "status": ""
+              "name": "Arbok",
+              "status": "Lebendig"
             },
             "Mondberg": {
               "name": "",
