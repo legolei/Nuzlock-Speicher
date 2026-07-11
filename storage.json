@@ -33307,7 +33307,7 @@
             null,
             null,
             null,
-            "Pichu",
+            null,
             null,
             null
           ],
@@ -33321,29 +33321,29 @@
             false,
             false
           ],
-          "deaths": 5,
+          "deaths": 0,
           "mainStream": "https://vdo.ninja/?view=Fy6fQtQ&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=Fy6fQtQ&solo&room=Bob&password=LoL",
           "taken": false,
           "catches": {
             "Alabastia": {
               "name": "",
-              "status": "Lebendig"
+              "status": ""
             },
             "Route 1": {
               "name": "",
-              "status": "Lebendig"
+              "status": ""
             },
             "Vertania City": {
               "name": "",
               "status": ""
             },
             "Vertaniawald": {
-              "name": "Rabauz",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 2": {
-              "name": "Farbeagle",
+              "name": "",
               "status": "Lebendig"
             },
             "Mamoria City": {
@@ -33351,20 +33351,20 @@
               "status": ""
             },
             "Route 3": {
-              "name": "Bisaknosp",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Mondberg": {
-              "name": "Marill",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 4": {
               "name": "",
-              "status": "Lebendig"
+              "status": ""
             },
             "Route 4 (Kaufbares Pokémon)": {
-              "name": "Flamara",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Azuria City": {
               "name": "",
@@ -33379,8 +33379,8 @@
               "status": ""
             },
             "Route 5": {
-              "name": "Nidoran♀",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Safronia City": {
               "name": "",
@@ -33395,8 +33395,8 @@
               "status": ""
             },
             "Route 6": {
-              "name": "Taubsi",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Orania City": {
               "name": "",
@@ -33427,8 +33427,8 @@
               "status": ""
             },
             "Felshöhle": {
-              "name": "Eneco",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Kraftwerk": {
               "name": "",
@@ -33439,12 +33439,12 @@
               "status": ""
             },
             "Route 10": {
-              "name": "Elekid",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 11": {
-              "name": "Quapsel",
-              "status": "Tot"
+              "name": "",
+              "status": ""
             },
             "Route 12": {
               "name": "",
@@ -33524,7 +33524,7 @@
             },
             "Route 22": {
               "name": "Meditie",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 24": {
               "name": "Rettan",
@@ -33837,18 +33837,18 @@
             false,
             false
           ],
-          "deaths": 17,
+          "deaths": 0,
           "mainStream": "",
           "touchStream": "",
           "taken": false,
           "catches": {
             "Alabastia": {
               "name": "Metang",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "Marill",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "Papinella",
@@ -33856,11 +33856,11 @@
             },
             "Vertaniawald": {
               "name": "Fiffyen",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "Ledyba",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Mamoria City": {
               "name": "",
@@ -33868,19 +33868,19 @@
             },
             "Route 3": {
               "name": "Hoppspross",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Mondberg": {
               "name": "Geradaks",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 4": {
               "name": "Nincada",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 4 (Kaufbares Pokémon)": {
               "name": "Magnayen",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Azuria City": {
               "name": "",
@@ -33896,7 +33896,7 @@
             },
             "Route 5": {
               "name": "Maskeregen",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Safronia City": {
               "name": "Glurak",
@@ -33912,11 +33912,11 @@
             },
             "Route 6": {
               "name": "Nidorino",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Orania City": {
               "name": "Pummeluff",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Digdahöhle": {
               "name": "Keifel",
@@ -33936,7 +33936,7 @@
             },
             "Route 8": {
               "name": "Muntier",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 9": {
               "name": "Nidorina",
@@ -33944,7 +33944,7 @@
             },
             "Felshöhle": {
               "name": "Raichu",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Kraftwerk": {
               "name": "",
@@ -33964,7 +33964,7 @@
             },
             "Route 12": {
               "name": "Guardevoir",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 12 (Statik)": {
               "name": "Letarking",
@@ -34028,7 +34028,7 @@
             },
             "Zinoberinsel (Fossil)": {
               "name": "Garados",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Zinober-Labor": {
               "name": "",
@@ -34040,7 +34040,7 @@
             },
             "Route 22": {
               "name": "Flegmon",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 24": {
               "name": "Giflor",
@@ -34048,7 +34048,7 @@
             },
             "Route 25": {
               "name": "Arbok",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Siegesstraße": {
               "name": "",
@@ -34096,18 +34096,18 @@
             false,
             false
           ],
-          "deaths": 5,
+          "deaths": 0,
           "mainStream": "",
           "touchStream": "",
           "taken": false,
           "catches": {
             "Alabastia": {
               "name": "Endivie",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "Schneckmag",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
@@ -34131,7 +34131,7 @@
             },
             "Mondberg": {
               "name": "Zigzachs",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 4": {
               "name": "Wingull",
@@ -34171,7 +34171,7 @@
             },
             "Route 6": {
               "name": "Glutexo",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Orania City": {
               "name": "",
@@ -34307,7 +34307,7 @@
             },
             "Route 25": {
               "name": "Remoraid",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Siegesstraße": {
               "name": "",
@@ -34335,143 +34335,7 @@
           }
         }
       ],
-      "graveyard": [
-        {
-          "name": "Metang",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Hoppspross",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Nincada",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Geradaks",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Flegmon",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Marill",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Fiffyen",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Ledyba",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Endivie",
-          "player": 7,
-          "color": "yellow"
-        },
-        {
-          "name": "Schneckmag",
-          "player": 7,
-          "color": "yellow"
-        },
-        {
-          "name": "Zigzachs",
-          "player": 7,
-          "color": "yellow"
-        },
-        {
-          "name": "Remoraid",
-          "player": 7,
-          "color": "yellow"
-        },
-        {
-          "name": "Glutexo",
-          "player": 7,
-          "color": "yellow"
-        },
-        {
-          "name": "Pummeluff",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Magnayen",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Maskeregen",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Garados",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Nidorino",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Raichu",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Muntier",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Arbok",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Guardevoir",
-          "player": 6,
-          "color": "pink"
-        },
-        {
-          "name": "Quapsel",
-          "player": 4,
-          "color": "orange"
-        },
-        {
-          "name": "Meditie",
-          "player": 4,
-          "color": "orange"
-        },
-        {
-          "name": "Bisaknosp",
-          "player": 4,
-          "color": "orange"
-        },
-        {
-          "name": "Flamara",
-          "player": 4,
-          "color": "orange"
-        },
-        {
-          "name": "Nidoran♀",
-          "player": 4,
-          "color": "orange"
-        }
-      ]
+      "graveyard": []
     },
     "Platin": {
       "players": [
