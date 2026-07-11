@@ -33564,8 +33564,8 @@
           "color": "cyan",
           "team": [
             "Lohgock",
-            "Pii",
-            "Qurtel",
+            null,
+            null,
             null,
             null,
             null
@@ -33580,7 +33580,7 @@
             false,
             false
           ],
-          "deaths": 5,
+          "deaths": 7,
           "mainStream": "https://vdo.ninja/?view=YA4b9M4&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=YA4b9M4&solo&room=Bob&password=LoL",
           "taken": false,
@@ -33611,11 +33611,11 @@
             },
             "Route 3": {
               "name": "Pii",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mondberg": {
               "name": "Qurtel",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 4": {
               "name": "",
@@ -33807,7 +33807,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 1.1
+            "userScale": 0.7999999999999998
           },
           "touchAdj": {
             "left": 0,
@@ -34400,6 +34400,16 @@
           "name": "Rasaff",
           "player": 2,
           "color": "green"
+        },
+        {
+          "name": "Qurtel",
+          "player": 5,
+          "color": "cyan"
+        },
+        {
+          "name": "Pii",
+          "player": 5,
+          "color": "cyan"
         }
       ]
     },
