@@ -32791,7 +32791,7 @@
           "team": [
             "Ampharos",
             "Garados",
-            "Geradaks",
+            null,
             "Aalabyss",
             "Sarzenia",
             "Rasaff"
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 1,
+          "deaths": 2,
           "mainStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "taken": false,
@@ -32821,7 +32821,7 @@
             },
             "Vertania City": {
               "name": "Geradaks",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertaniawald": {
               "name": "Aalabyss",
@@ -34338,6 +34338,11 @@
       "graveyard": [
         {
           "name": "Arbok",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Geradaks",
           "player": 2,
           "color": "green"
         }
