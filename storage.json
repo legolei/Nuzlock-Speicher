@@ -32790,11 +32790,11 @@
           "color": "green",
           "team": [
             "Ampharos",
-            "Schneckmag",
             null,
             null,
             null,
-            "Rasaff"
+            null,
+            null
           ],
           "badges": [
             true,
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 6,
+          "deaths": 8,
           "mainStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "taken": false,
@@ -32837,11 +32837,11 @@
             },
             "Route 3": {
               "name": "Schneckmag",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mondberg": {
               "name": "Rasaff",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 4": {
               "name": "",
@@ -34388,6 +34388,16 @@
         },
         {
           "name": "Aalabyss",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Schneckmag",
+          "player": 2,
+          "color": "green"
+        },
+        {
+          "name": "Rasaff",
           "player": 2,
           "color": "green"
         }
