@@ -33568,7 +33568,7 @@
             "Dratini",
             "Machollo",
             "Elekid",
-            null
+            "Jungglut"
           ],
           "badges": [
             true,
@@ -33606,8 +33606,8 @@
               "status": "Lebendig"
             },
             "Mamoria City": {
-              "name": "",
-              "status": ""
+              "name": "Jungglut",
+              "status": "Lebendig"
             },
             "Route 3": {
               "name": "",
