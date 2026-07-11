@@ -33566,7 +33566,7 @@
             "Lohgock",
             "Kanivanha",
             "Dratini",
-            null,
+            "Machollo",
             null,
             null
           ],
@@ -33598,8 +33598,8 @@
               "status": "Lebendig"
             },
             "Vertaniawald": {
-              "name": "",
-              "status": ""
+              "name": "Machollo",
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "",
