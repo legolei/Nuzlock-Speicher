@@ -33565,8 +33565,8 @@
           "team": [
             "Anorith",
             "Georok",
-            "Enekoro",
             "Altaria",
+            null,
             null,
             null
           ],
@@ -33580,7 +33580,7 @@
             false,
             false
           ],
-          "deaths": 3,
+          "deaths": 4,
           "mainStream": "https://vdo.ninja/?view=UzAPhPQ&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=UzAPhPQ&solo&room=Bob&password=LoL",
           "taken": false,
@@ -33607,7 +33607,7 @@
             },
             "Mamoria City": {
               "name": "Enekoro",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 3": {
               "name": "Altaria",
@@ -34385,6 +34385,11 @@
           "name": "Kappalores",
           "player": 2,
           "color": "green"
+        },
+        {
+          "name": "Enekoro",
+          "player": 5,
+          "color": "cyan"
         }
       ]
     },
