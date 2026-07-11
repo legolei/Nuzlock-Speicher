@@ -33308,7 +33308,7 @@
             "Muntier",
             "Sarzenia",
             "Nachtara",
-            null,
+            "Qurtel",
             null
           ],
           "badges": [
@@ -33343,8 +33343,8 @@
               "status": "Lebendig"
             },
             "Route 2": {
-              "name": "",
-              "status": ""
+              "name": "Qurtel",
+              "status": "Lebendig"
             },
             "Mamoria City": {
               "name": "",
