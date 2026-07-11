@@ -32820,8 +32820,8 @@
               "status": "Lebendig"
             },
             "Vertania City": {
-              "name": "",
-              "status": ""
+              "name": "Geradaks",
+              "status": "Lebendig"
             },
             "Vertaniawald": {
               "name": "",
@@ -33306,7 +33306,7 @@
           "team": [
             "Impergator",
             "Muntier",
-            null,
+            "Sarzenia",
             null,
             null,
             null
@@ -33335,8 +33335,8 @@
               "status": "Lebendig"
             },
             "Vertania City": {
-              "name": "",
-              "status": ""
+              "name": "Sarzenia",
+              "status": "Lebendig"
             },
             "Vertaniawald": {
               "name": "",
@@ -33565,7 +33565,7 @@
           "team": [
             "Lohgock",
             "Kanivanha",
-            null,
+            "Dratini",
             null,
             null,
             null
@@ -33594,8 +33594,8 @@
               "status": "Lebendig"
             },
             "Vertania City": {
-              "name": "",
-              "status": ""
+              "name": "Dratini",
+              "status": "Lebendig"
             },
             "Vertaniawald": {
               "name": "",
