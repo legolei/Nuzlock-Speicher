@@ -32791,7 +32791,7 @@
           "team": [
             "Mew",
             "Jungglut",
-            null,
+            "Moorabbel",
             null,
             null,
             null
@@ -32820,8 +32820,8 @@
               "status": "Lebendig"
             },
             "Vertania City": {
-              "name": "",
-              "status": ""
+              "name": "Moorabbel",
+              "status": "Lebendig"
             },
             "Vertaniawald": {
               "name": "",
