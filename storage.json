@@ -32790,7 +32790,7 @@
           "color": "green",
           "team": [
             "Ampharos",
-            null,
+            "Garados",
             null,
             null,
             null,
@@ -32816,8 +32816,8 @@
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "",
-              "status": ""
+              "name": "Garados",
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
@@ -33305,7 +33305,7 @@
           "color": "orange",
           "team": [
             "Impergator",
-            null,
+            "Muntier",
             null,
             null,
             null,
@@ -33331,8 +33331,8 @@
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "",
-              "status": ""
+              "name": "Muntier",
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
@@ -33564,7 +33564,7 @@
           "color": "cyan",
           "team": [
             "Lohgock",
-            null,
+            "Kanivanha",
             null,
             null,
             null,
@@ -33590,8 +33590,8 @@
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "",
-              "status": ""
+              "name": "Kanivanha",
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
