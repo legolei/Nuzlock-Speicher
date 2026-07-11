@@ -32789,7 +32789,7 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            null,
+            "Igelavar",
             "Arbok",
             null,
             null,
@@ -32840,8 +32840,8 @@
               "status": "Lebendig"
             },
             "Mondberg": {
-              "name": "",
-              "status": ""
+              "name": "Igelavar",
+              "status": "Lebendig"
             },
             "Route 4": {
               "name": "",
