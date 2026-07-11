@@ -33563,8 +33563,8 @@
           "name": "Jannik",
           "color": "cyan",
           "team": [
-            "Georok",
             "Altaria",
+            null,
             null,
             null,
             null,
@@ -33580,7 +33580,7 @@
             false,
             false
           ],
-          "deaths": 5,
+          "deaths": 6,
           "mainStream": "https://vdo.ninja/?view=UzAPhPQ&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=UzAPhPQ&solo&room=Bob&password=LoL",
           "taken": false,
@@ -33599,7 +33599,7 @@
             },
             "Vertaniawald": {
               "name": "Georok",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 2": {
               "name": "Arkani",
@@ -34415,6 +34415,11 @@
           "name": "Nachtara",
           "player": 2,
           "color": "green"
+        },
+        {
+          "name": "Georok",
+          "player": 5,
+          "color": "cyan"
         }
       ]
     },
