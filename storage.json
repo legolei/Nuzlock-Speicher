@@ -33305,9 +33305,9 @@
           "color": "orange",
           "team": [
             "Ibitak",
-            "Griffel",
-            "Paras",
-            "Sonnkern",
+            "Ibitak",
+            null,
+            null,
             null,
             null
           ],
@@ -33321,7 +33321,7 @@
             false,
             false
           ],
-          "deaths": 1,
+          "deaths": 3,
           "mainStream": "https://vdo.ninja/?view=Fy6fQtQ&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=Fy6fQtQ&solo&room=Bob&password=LoL",
           "taken": false,
@@ -33332,7 +33332,7 @@
             },
             "Route 1": {
               "name": "Griffel",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertania City": {
               "name": "Paras",
@@ -33344,7 +33344,7 @@
             },
             "Route 2": {
               "name": "Sonnkern",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mamoria City": {
               "name": "",
@@ -33563,11 +33563,11 @@
           "name": "Jannik",
           "color": "cyan",
           "team": [
-            null,
-            null,
             "Anorith",
             "Georok",
-            "Arkani",
+            null,
+            null,
+            null,
             null
           ],
           "badges": [
@@ -33580,7 +33580,7 @@
             false,
             false
           ],
-          "deaths": 2,
+          "deaths": 3,
           "mainStream": "https://vdo.ninja/?view=UzAPhPQ&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=UzAPhPQ&solo&room=Bob&password=LoL",
           "taken": false,
@@ -33603,7 +33603,7 @@
             },
             "Route 2": {
               "name": "Arkani",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mamoria City": {
               "name": "",
@@ -34365,6 +34365,21 @@
           "name": "Kecleon",
           "player": 2,
           "color": "green"
+        },
+        {
+          "name": "Arkani",
+          "player": 5,
+          "color": "cyan"
+        },
+        {
+          "name": "Griffel",
+          "player": 4,
+          "color": "orange"
+        },
+        {
+          "name": "Sonnkern",
+          "player": 4,
+          "color": "orange"
         }
       ]
     },
