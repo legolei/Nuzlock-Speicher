@@ -33567,7 +33567,7 @@
             "Kanivanha",
             "Dratini",
             "Machollo",
-            null,
+            "Elekid",
             null
           ],
           "badges": [
@@ -33602,8 +33602,8 @@
               "status": "Lebendig"
             },
             "Route 2": {
-              "name": "",
-              "status": ""
+              "name": "Elekid",
+              "status": "Lebendig"
             },
             "Mamoria City": {
               "name": "",
