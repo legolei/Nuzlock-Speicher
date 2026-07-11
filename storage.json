@@ -32791,7 +32791,7 @@
           "team": [
             null,
             "Arbok",
-            "Moorabbel",
+            null,
             "Nachtara",
             null,
             null
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 4,
+          "deaths": 5,
           "mainStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "taken": false,
@@ -32821,7 +32821,7 @@
             },
             "Vertania City": {
               "name": "Moorabbel",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertaniawald": {
               "name": "Nachtara",
@@ -34390,6 +34390,11 @@
           "name": "Enekoro",
           "player": 5,
           "color": "cyan"
+        },
+        {
+          "name": "Moorabbel",
+          "player": 2,
+          "color": "green"
         }
       ]
     },
