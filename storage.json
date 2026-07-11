@@ -33322,8 +33322,8 @@
             false
           ],
           "deaths": 0,
-          "mainStream": "https://vdo.ninja/?room=Bob&hash=7da8&push=Fy6fQtQ",
-          "touchStream": "https://vdo.ninja/?room=Bob&hash=7da8&push=Fy6fQtQ",
+          "mainStream": "",
+          "touchStream": "",
           "taken": false,
           "catches": {
             "Alabastia": {
@@ -33807,7 +33807,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 0.8499999999999999
+            "userScale": 0.8999999999999999
           },
           "touchAdj": {
             "left": 0,
