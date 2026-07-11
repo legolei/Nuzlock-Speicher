@@ -33565,7 +33565,7 @@
           "team": [
             "Lohgock",
             "Kanivanha",
-            null,
+            "Qurtel",
             "Machollo",
             "Elekid",
             "Jungglut"
@@ -33610,12 +33610,12 @@
               "status": "Lebendig"
             },
             "Route 3": {
-              "name": "",
-              "status": ""
+              "name": "Pii",
+              "status": "Lebendig"
             },
             "Mondberg": {
-              "name": "",
-              "status": ""
+              "name": "Qurtel",
+              "status": "Lebendig"
             },
             "Route 4": {
               "name": "",
