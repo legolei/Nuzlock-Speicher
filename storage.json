@@ -32789,7 +32789,7 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            null,
+            "Mew",
             null,
             null,
             null,
@@ -32812,8 +32812,8 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "",
-              "status": ""
+              "name": "Mew",
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "",
@@ -33523,16 +33523,16 @@
               "status": ""
             },
             "Route 22": {
-              "name": "Meditie",
+              "name": "",
               "status": "Lebendig"
             },
             "Route 24": {
-              "name": "Rettan",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 25": {
-              "name": "Pichu",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Siegesstraße": {
               "name": "",
