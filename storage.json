@@ -32794,7 +32794,7 @@
             "Geradaks",
             "Aalabyss",
             "Sarzenia",
-            null
+            "Meditie"
           ],
           "badges": [
             true,
@@ -32832,8 +32832,8 @@
               "status": "Lebendig"
             },
             "Mamoria City": {
-              "name": "",
-              "status": ""
+              "name": "Meditie",
+              "status": "Lebendig"
             },
             "Route 3": {
               "name": "",
