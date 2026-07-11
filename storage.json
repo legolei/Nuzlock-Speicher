@@ -32793,7 +32793,7 @@
             null,
             "Moorabbel",
             "Nachtara",
-            "Kecleon",
+            null,
             null
           ],
           "badges": [
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 2,
+          "deaths": 3,
           "mainStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "taken": false,
@@ -32829,7 +32829,7 @@
             },
             "Route 2": {
               "name": "Kecleon",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Mamoria City": {
               "name": "",
@@ -34360,6 +34360,11 @@
           "name": "Rattfratz",
           "player": 5,
           "color": "cyan"
+        },
+        {
+          "name": "Kecleon",
+          "player": 2,
+          "color": "green"
         }
       ]
     },
