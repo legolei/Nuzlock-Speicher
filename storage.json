@@ -33566,7 +33566,7 @@
             "Lohgock",
             "Pii",
             "Qurtel",
-            "Machollo",
+            null,
             null,
             null
           ],
@@ -33580,7 +33580,7 @@
             false,
             false
           ],
-          "deaths": 4,
+          "deaths": 5,
           "mainStream": "https://vdo.ninja/?view=YA4b9M4&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=YA4b9M4&solo&room=Bob&password=LoL",
           "taken": false,
@@ -33599,7 +33599,7 @@
             },
             "Vertaniawald": {
               "name": "Machollo",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 2": {
               "name": "Elekid",
@@ -34378,6 +34378,11 @@
         },
         {
           "name": "Jungglut",
+          "player": 5,
+          "color": "cyan"
+        },
+        {
+          "name": "Machollo",
           "player": 5,
           "color": "cyan"
         }
