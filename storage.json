@@ -32793,7 +32793,7 @@
             "Garados",
             "Geradaks",
             "Aalabyss",
-            null,
+            "Sarzenia",
             null
           ],
           "badges": [
@@ -32828,8 +32828,8 @@
               "status": "Lebendig"
             },
             "Route 2": {
-              "name": "",
-              "status": ""
+              "name": "Sarzenia",
+              "status": "Lebendig"
             },
             "Mamoria City": {
               "name": "",
