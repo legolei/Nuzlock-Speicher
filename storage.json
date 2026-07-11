@@ -32789,7 +32789,7 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            "Igelavar",
+            null,
             "Arbok",
             null,
             null,
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 6,
+          "deaths": 7,
           "mainStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "taken": false,
@@ -32841,7 +32841,7 @@
             },
             "Mondberg": {
               "name": "Igelavar",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 4": {
               "name": "",
@@ -34420,6 +34420,11 @@
           "name": "Georok",
           "player": 5,
           "color": "cyan"
+        },
+        {
+          "name": "Igelavar",
+          "player": 2,
+          "color": "green"
         }
       ]
     },
