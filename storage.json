@@ -32790,15 +32790,15 @@
           "color": "green",
           "team": [
             null,
-            "Arbok",
+            null,
             null,
             null,
             null,
             null
           ],
           "badges": [
-            true,
-            true,
+            false,
+            false,
             false,
             false,
             false,
@@ -32806,42 +32806,42 @@
             false,
             false
           ],
-          "deaths": 0,
+          "deaths": 1,
           "mainStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "Mew",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 1": {
-              "name": "Jungglut",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Vertania City": {
-              "name": "Moorabbel",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Vertaniawald": {
-              "name": "Nachtara",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 2": {
-              "name": "Kecleon",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Mamoria City": {
-              "name": "Kappalores",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 3": {
-              "name": "Arbok",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Mondberg": {
-              "name": "Igelavar",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 4": {
               "name": "",
@@ -34335,7 +34335,13 @@
           }
         }
       ],
-      "graveyard": []
+      "graveyard": [
+        {
+          "name": "Arbok",
+          "player": 2,
+          "color": "green"
+        }
+      ]
     },
     "Platin": {
       "players": [
