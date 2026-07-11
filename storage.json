@@ -33304,11 +33304,11 @@
           "name": "Richard",
           "color": "orange",
           "team": [
-            null,
+            "Ibitak",
             "Griffel",
             "Paras",
-            "Ibitak",
             "Sonnkern",
+            null,
             null
           ],
           "badges": [
