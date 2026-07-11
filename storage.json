@@ -32806,14 +32806,14 @@
             false,
             false
           ],
-          "deaths": 6,
+          "deaths": 0,
           "mainStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "taken": false,
           "catches": {
             "Alabastia": {
               "name": "Mew",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "Jungglut",
@@ -32821,19 +32821,19 @@
             },
             "Vertania City": {
               "name": "Moorabbel",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Vertaniawald": {
               "name": "Nachtara",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "Kecleon",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Mamoria City": {
               "name": "Kappalores",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 3": {
               "name": "Arbok",
@@ -32841,7 +32841,7 @@
             },
             "Mondberg": {
               "name": "Igelavar",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 4": {
               "name": "",
@@ -33033,7 +33033,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 1.7500000000000007,
+            "userScale": 2.000000000000001,
             "offX": -298,
             "offY": -170
           },
@@ -33321,22 +33321,22 @@
             false,
             false
           ],
-          "deaths": 5,
+          "deaths": 0,
           "mainStream": "https://vdo.ninja/?view=Fy6fQtQ&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=Fy6fQtQ&solo&room=Bob&password=LoL",
           "taken": false,
           "catches": {
             "Alabastia": {
               "name": "Milotic",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "Griffel",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "Paras",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Vertaniawald": {
               "name": "Ibitak",
@@ -33344,7 +33344,7 @@
             },
             "Route 2": {
               "name": "Sonnkern",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Mamoria City": {
               "name": "Pudox",
@@ -34335,63 +34335,7 @@
           }
         }
       ],
-      "graveyard": [
-        {
-          "name": "Mew",
-          "player": 2,
-          "color": "green"
-        },
-        {
-          "name": "Milotic",
-          "player": 4,
-          "color": "orange"
-        },
-        {
-          "name": "Kecleon",
-          "player": 2,
-          "color": "green"
-        },
-        {
-          "name": "Griffel",
-          "player": 4,
-          "color": "orange"
-        },
-        {
-          "name": "Sonnkern",
-          "player": 4,
-          "color": "orange"
-        },
-        {
-          "name": "Kappalores",
-          "player": 2,
-          "color": "green"
-        },
-        {
-          "name": "Moorabbel",
-          "player": 2,
-          "color": "green"
-        },
-        {
-          "name": "Pud",
-          "player": 4,
-          "color": "orange"
-        },
-        {
-          "name": "Paras",
-          "player": 4,
-          "color": "orange"
-        },
-        {
-          "name": "Nachtara",
-          "player": 2,
-          "color": "green"
-        },
-        {
-          "name": "Igelavar",
-          "player": 2,
-          "color": "green"
-        }
-      ]
+      "graveyard": []
     },
     "Platin": {
       "players": [
