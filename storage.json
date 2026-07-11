@@ -33573,12 +33573,12 @@
           "badges": [
             true,
             true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
           ],
           "deaths": 7,
           "mainStream": "https://vdo.ninja/?view=YA4b9M4&solo&room=Bob&password=LoL",
