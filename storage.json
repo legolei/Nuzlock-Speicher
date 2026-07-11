@@ -33564,7 +33564,7 @@
           "color": "cyan",
           "team": [
             "Alpollo",
-            null,
+            "Rattfratz",
             null,
             null,
             null,
@@ -33590,8 +33590,8 @@
               "status": "Lebendig"
             },
             "Route 1": {
-              "name": "",
-              "status": ""
+              "name": "Rattfratz",
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "",
