@@ -32789,7 +32789,7 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            "Kappalores",
+            null,
             "Arbok",
             "Moorabbel",
             "Nachtara",
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 3,
+          "deaths": 4,
           "mainStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "taken": false,
@@ -32833,7 +32833,7 @@
             },
             "Mamoria City": {
               "name": "Kappalores",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 3": {
               "name": "Arbok",
@@ -34380,6 +34380,11 @@
           "name": "Sonnkern",
           "player": 4,
           "color": "orange"
+        },
+        {
+          "name": "Kappalores",
+          "player": 2,
+          "color": "green"
         }
       ]
     },
