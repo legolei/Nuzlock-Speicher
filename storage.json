@@ -33305,8 +33305,8 @@
           "color": "orange",
           "team": [
             "Ibitak",
-            "Paras",
-            "Pud",
+            "zwi",
+            null,
             null,
             null,
             null
@@ -33321,7 +33321,7 @@
             false,
             false
           ],
-          "deaths": 3,
+          "deaths": 5,
           "mainStream": "https://vdo.ninja/?view=Fy6fQtQ&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=Fy6fQtQ&solo&room=Bob&password=LoL",
           "taken": false,
@@ -33336,7 +33336,7 @@
             },
             "Vertania City": {
               "name": "Paras",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertaniawald": {
               "name": "Ibitak",
@@ -33348,11 +33348,11 @@
             },
             "Mamoria City": {
               "name": "Pud",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 3": {
-              "name": "",
-              "status": ""
+              "name": "zwi",
+              "status": "Lebendig"
             },
             "Mondberg": {
               "name": "",
@@ -33563,9 +33563,9 @@
           "name": "Jannik",
           "color": "cyan",
           "team": [
-            "Anorith",
             "Georok",
             "Altaria",
+            null,
             null,
             null,
             null
@@ -33580,7 +33580,7 @@
             false,
             false
           ],
-          "deaths": 4,
+          "deaths": 5,
           "mainStream": "https://vdo.ninja/?view=UzAPhPQ&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=UzAPhPQ&solo&room=Bob&password=LoL",
           "taken": false,
@@ -33595,7 +33595,7 @@
             },
             "Vertania City": {
               "name": "Anorith",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertaniawald": {
               "name": "Georok",
@@ -34395,6 +34395,21 @@
           "name": "Moorabbel",
           "player": 2,
           "color": "green"
+        },
+        {
+          "name": "Pud",
+          "player": 4,
+          "color": "orange"
+        },
+        {
+          "name": "Paras",
+          "player": 4,
+          "color": "orange"
+        },
+        {
+          "name": "Anorith",
+          "player": 5,
+          "color": "cyan"
         }
       ]
     },
