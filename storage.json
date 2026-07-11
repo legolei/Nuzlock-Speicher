@@ -32789,7 +32789,7 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            null,
+            "Ampharos",
             null,
             null,
             null,
@@ -32812,8 +32812,8 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "",
-              "status": ""
+              "name": "Ampharos",
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "",
@@ -33304,7 +33304,7 @@
           "name": "Richard",
           "color": "orange",
           "team": [
-            null,
+            "Impergator",
             null,
             null,
             null,
@@ -33327,8 +33327,8 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "",
-              "status": ""
+              "name": "Impergator",
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "",
