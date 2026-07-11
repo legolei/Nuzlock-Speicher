@@ -32789,7 +32789,7 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            null,
+            "Kappalores",
             null,
             "Moorabbel",
             "Nachtara",
@@ -33306,7 +33306,7 @@
           "team": [
             "Ibitak",
             "Paras",
-            null,
+            "Pud",
             null,
             null,
             null
@@ -33348,7 +33348,7 @@
             },
             "Mamoria City": {
               "name": "Pud",
-              "status": ""
+              "status": "Lebendig"
             },
             "Route 3": {
               "name": "",
