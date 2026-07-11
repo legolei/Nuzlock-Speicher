@@ -32792,7 +32792,7 @@
             null,
             "Arbok",
             null,
-            "Nachtara",
+            null,
             null,
             null
           ],
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 5,
+          "deaths": 6,
           "mainStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "taken": false,
@@ -32825,7 +32825,7 @@
             },
             "Vertaniawald": {
               "name": "Nachtara",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 2": {
               "name": "Kecleon",
@@ -34410,6 +34410,11 @@
           "name": "Anorith",
           "player": 5,
           "color": "cyan"
+        },
+        {
+          "name": "Nachtara",
+          "player": 2,
+          "color": "green"
         }
       ]
     },
