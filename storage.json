@@ -32791,7 +32791,7 @@
           "team": [
             "Ampharos",
             "Garados",
-            null,
+            "Meditie",
             "Aalabyss",
             "Sarzenia",
             "Rasaff"
@@ -33565,7 +33565,7 @@
           "team": [
             "Lohgock",
             "Kanivanha",
-            "Dratini",
+            null,
             "Machollo",
             "Elekid",
             "Jungglut"
@@ -33580,7 +33580,7 @@
             false,
             false
           ],
-          "deaths": 0,
+          "deaths": 1,
           "mainStream": "https://vdo.ninja/?view=YA4b9M4&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=YA4b9M4&solo&room=Bob&password=LoL",
           "taken": false,
@@ -33595,7 +33595,7 @@
             },
             "Vertania City": {
               "name": "Dratini",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Vertaniawald": {
               "name": "Machollo",
@@ -34345,6 +34345,11 @@
           "name": "Geradaks",
           "player": 2,
           "color": "green"
+        },
+        {
+          "name": "Dratini",
+          "player": 5,
+          "color": "cyan"
         }
       ]
     },
