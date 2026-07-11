@@ -33307,7 +33307,7 @@
             "Milotic",
             "Griffel",
             "Paras",
-            null,
+            "Ibitak",
             null,
             null
           ],
@@ -33339,8 +33339,8 @@
               "status": "Lebendig"
             },
             "Vertaniawald": {
-              "name": "",
-              "status": ""
+              "name": "Ibitak",
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "",
@@ -33566,7 +33566,7 @@
             "Alpollo",
             "Rattfratz",
             "Anorith",
-            null,
+            "Georok",
             null,
             null
           ],
@@ -33598,8 +33598,8 @@
               "status": "Lebendig"
             },
             "Vertaniawald": {
-              "name": "",
-              "status": ""
+              "name": "Georok",
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "",
