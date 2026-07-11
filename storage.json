@@ -33563,7 +33563,7 @@
           "name": "Jannik",
           "color": "cyan",
           "team": [
-            "Alpollo",
+            null,
             "Rattfratz",
             "Anorith",
             "Georok",
@@ -33580,14 +33580,14 @@
             false,
             false
           ],
-          "deaths": 0,
+          "deaths": 1,
           "mainStream": "https://vdo.ninja/?view=UzAPhPQ&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=UzAPhPQ&solo&room=Bob&password=LoL",
           "taken": false,
           "catches": {
             "Alabastia": {
               "name": "Alpollo",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 1": {
               "name": "Rattfratz",
@@ -34345,6 +34345,11 @@
           "name": "Milotic",
           "player": 4,
           "color": "orange"
+        },
+        {
+          "name": "Alpollo",
+          "player": 5,
+          "color": "cyan"
         }
       ]
     },
