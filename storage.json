@@ -33306,7 +33306,7 @@
           "team": [
             "Milotic",
             "Griffel",
-            null,
+            "Paras",
             null,
             null,
             null
@@ -33335,8 +33335,8 @@
               "status": "Lebendig"
             },
             "Vertania City": {
-              "name": "",
-              "status": ""
+              "name": "Paras",
+              "status": "Lebendig"
             },
             "Vertaniawald": {
               "name": "",
