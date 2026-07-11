@@ -33580,34 +33580,34 @@
             false,
             false
           ],
-          "deaths": 6,
+          "deaths": 0,
           "mainStream": "https://vdo.ninja/?view=UzAPhPQ&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=UzAPhPQ&solo&room=Bob&password=LoL",
           "taken": false,
           "catches": {
             "Alabastia": {
               "name": "Alpollo",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 1": {
               "name": "Rattfratz",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "Anorith",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Vertaniawald": {
               "name": "Georok",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "Arkani",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Mamoria City": {
               "name": "Enekoro",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Route 3": {
               "name": "Altaria",
@@ -33807,7 +33807,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 0.5999999999999996
+            "userScale": 0.4999999999999996
           },
           "touchAdj": {
             "left": 0,
@@ -34347,29 +34347,14 @@
           "color": "orange"
         },
         {
-          "name": "Alpollo",
-          "player": 5,
-          "color": "cyan"
-        },
-        {
           "name": "Jungglut",
           "player": 2,
           "color": "green"
         },
         {
-          "name": "Rattfratz",
-          "player": 5,
-          "color": "cyan"
-        },
-        {
           "name": "Kecleon",
           "player": 2,
           "color": "green"
-        },
-        {
-          "name": "Arkani",
-          "player": 5,
-          "color": "cyan"
         },
         {
           "name": "Griffel",
@@ -34387,11 +34372,6 @@
           "color": "green"
         },
         {
-          "name": "Enekoro",
-          "player": 5,
-          "color": "cyan"
-        },
-        {
           "name": "Moorabbel",
           "player": 2,
           "color": "green"
@@ -34407,19 +34387,9 @@
           "color": "orange"
         },
         {
-          "name": "Anorith",
-          "player": 5,
-          "color": "cyan"
-        },
-        {
           "name": "Nachtara",
           "player": 2,
           "color": "green"
-        },
-        {
-          "name": "Georok",
-          "player": 5,
-          "color": "cyan"
         },
         {
           "name": "Igelavar",
