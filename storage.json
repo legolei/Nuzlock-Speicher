@@ -1,5 +1,5 @@
 {
-  "game": "Bloody Platin",
+  "game": "Feuer Rot",
   "players": [
     {
       "name": "Legolei",
@@ -32271,12 +32271,12 @@
           "name": "Legolei",
           "color": "red",
           "team": [
-            "Glutexo",
-            "Dartignis",
-            "Geronimatz",
-            "Zubat",
-            "Lichtel",
-            "Kleinstein"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
           ],
           "badges": [
             false,
@@ -32294,27 +32294,27 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "Glutexo",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 1": {
-              "name": "Dartignis",
+              "name": "",
               "status": "Lebendig"
             },
             "Vertania City": {
-              "name": "Geronimatz",
+              "name": "",
               "status": "Lebendig"
             },
             "Vertaniawald": {
-              "name": "Zubat",
+              "name": "",
               "status": "Lebendig"
             },
             "Route 2": {
-              "name": "Kleinstein",
+              "name": "",
               "status": "Lebendig"
             },
             "Mamoria City": {
-              "name": "Lichtel",
+              "name": "",
               "status": "Lebendig"
             },
             "Route 3": {
