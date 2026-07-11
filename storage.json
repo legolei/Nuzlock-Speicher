@@ -32824,7 +32824,7 @@
               "status": "Lebendig"
             },
             "Vertaniawald": {
-              "name": "",
+              "name": "a",
               "status": ""
             },
             "Route 2": {
@@ -33307,7 +33307,7 @@
             "Impergator",
             "Muntier",
             "Sarzenia",
-            null,
+            "Nachtara",
             null,
             null
           ],
@@ -33339,8 +33339,8 @@
               "status": "Lebendig"
             },
             "Vertaniawald": {
-              "name": "",
-              "status": ""
+              "name": "Nachtara",
+              "status": "Lebendig"
             },
             "Route 2": {
               "name": "",
