@@ -33305,7 +33305,7 @@
           "color": "orange",
           "team": [
             null,
-            "Nidoran♀",
+            null,
             null,
             "Pichu",
             null,
@@ -33321,7 +33321,7 @@
             false,
             false
           ],
-          "deaths": 4,
+          "deaths": 5,
           "mainStream": "https://vdo.ninja/?view=Fy6fQtQ&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=Fy6fQtQ&solo&room=Bob&password=LoL",
           "taken": false,
@@ -33380,7 +33380,7 @@
             },
             "Route 5": {
               "name": "Nidoran♀",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Safronia City": {
               "name": "",
@@ -34463,6 +34463,11 @@
         },
         {
           "name": "Flamara",
+          "player": 4,
+          "color": "orange"
+        },
+        {
+          "name": "Nidoran♀",
           "player": 4,
           "color": "orange"
         }
