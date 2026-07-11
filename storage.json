@@ -33565,7 +33565,7 @@
           "team": [
             "Alpollo",
             "Rattfratz",
-            null,
+            "Anorith",
             null,
             null,
             null
@@ -33594,8 +33594,8 @@
               "status": "Lebendig"
             },
             "Vertania City": {
-              "name": "",
-              "status": ""
+              "name": "Anorith",
+              "status": "Lebendig"
             },
             "Vertaniawald": {
               "name": "",
