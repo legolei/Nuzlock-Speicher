@@ -32299,23 +32299,23 @@
             },
             "Route 1": {
               "name": "",
-              "status": "Lebendig"
+              "status": ""
             },
             "Vertania City": {
               "name": "",
-              "status": "Lebendig"
+              "status": ""
             },
             "Vertaniawald": {
               "name": "",
-              "status": "Lebendig"
+              "status": ""
             },
             "Route 2": {
               "name": "",
-              "status": "Lebendig"
+              "status": ""
             },
             "Mamoria City": {
               "name": "",
-              "status": "Lebendig"
+              "status": ""
             },
             "Route 3": {
               "name": "",
@@ -32530,8 +32530,8 @@
           "name": "Jasmin",
           "color": "blue",
           "team": [
-            "Geckarbor",
-            "Fiffyen",
+            null,
+            null,
             null,
             null,
             null,
@@ -32553,12 +32553,12 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "Geckarbor",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 1": {
-              "name": "Fiffyen",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Vertania City": {
               "name": "",
@@ -32789,12 +32789,12 @@
           "name": "Kevin",
           "color": "green",
           "team": [
-            "Amphizel",
-            "Staravia",
-            "Sandan",
-            "Digda",
-            "Toxiped",
-            "Psiau"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
           ],
           "badges": [
             false,
@@ -32812,36 +32812,36 @@
           "taken": false,
           "catches": {
             "Alabastia": {
-              "name": "Amphizel",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 1": {
-              "name": "Staravia",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Vertania City": {
-              "name": "Sandan",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Vertaniawald": {
-              "name": "Digda",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 2": {
-              "name": "Skallyk",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Mamoria City": {
-              "name": "Psiau",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 3": {
-              "name": "Raupy",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Mondberg": {
-              "name": "Toxiped",
-              "status": "Lebendig"
+              "name": "",
+              "status": ""
             },
             "Route 4": {
               "name": "",
