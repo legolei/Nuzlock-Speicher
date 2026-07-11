@@ -32832,8 +32832,8 @@
               "status": "Tot"
             },
             "Mamoria City": {
-              "name": "",
-              "status": ""
+              "name": "Kappalores",
+              "status": "Lebendig"
             },
             "Route 3": {
               "name": "",
@@ -33347,7 +33347,7 @@
               "status": "Tot"
             },
             "Mamoria City": {
-              "name": "",
+              "name": "Pud",
               "status": ""
             },
             "Route 3": {
@@ -33565,7 +33565,7 @@
           "team": [
             "Anorith",
             "Georok",
-            null,
+            "Enekoro",
             null,
             null,
             null
@@ -33606,8 +33606,8 @@
               "status": "Tot"
             },
             "Mamoria City": {
-              "name": "",
-              "status": ""
+              "name": "Enekoro",
+              "status": "Lebendig"
             },
             "Route 3": {
               "name": "",
