@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 7,
+          "deaths": 6,
           "mainStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "taken": false,
@@ -32817,7 +32817,7 @@
             },
             "Route 1": {
               "name": "Jungglut",
-              "status": "Tot"
+              "status": "Lebendig"
             },
             "Vertania City": {
               "name": "Moorabbel",
@@ -33033,7 +33033,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 1.8000000000000007,
+            "userScale": 1.7500000000000007,
             "offX": -298,
             "offY": -170
           },
@@ -33807,7 +33807,7 @@
             "top": 0,
             "w": 100,
             "h": 100,
-            "userScale": 1.3500000000000003
+            "userScale": 1.05
           },
           "touchAdj": {
             "left": 0,
@@ -34345,11 +34345,6 @@
           "name": "Milotic",
           "player": 4,
           "color": "orange"
-        },
-        {
-          "name": "Jungglut",
-          "player": 2,
-          "color": "green"
         },
         {
           "name": "Kecleon",
