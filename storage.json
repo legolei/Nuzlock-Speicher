@@ -33566,7 +33566,7 @@
             "Anorith",
             "Georok",
             "Enekoro",
-            null,
+            "Altaria",
             null,
             null
           ],
@@ -33610,8 +33610,8 @@
               "status": "Lebendig"
             },
             "Route 3": {
-              "name": "",
-              "status": ""
+              "name": "Altaria",
+              "status": "Lebendig"
             },
             "Mondberg": {
               "name": "",
