@@ -32792,7 +32792,7 @@
             "Ampharos",
             "Schneckmag",
             null,
-            "Aalabyss",
+            null,
             null,
             "Rasaff"
           ],
@@ -32806,7 +32806,7 @@
             false,
             false
           ],
-          "deaths": 5,
+          "deaths": 6,
           "mainStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "touchStream": "https://vdo.ninja/?view=2pyZPbN&solo&room=Bob&password=LoL",
           "taken": false,
@@ -32825,7 +32825,7 @@
             },
             "Vertaniawald": {
               "name": "Aalabyss",
-              "status": "Lebendig"
+              "status": "Tot"
             },
             "Route 2": {
               "name": "Sarzenia",
@@ -34385,6 +34385,11 @@
           "name": "Machollo",
           "player": 5,
           "color": "cyan"
+        },
+        {
+          "name": "Aalabyss",
+          "player": 2,
+          "color": "green"
         }
       ]
     },
