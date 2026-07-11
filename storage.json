@@ -33581,8 +33581,8 @@
             false
           ],
           "deaths": 0,
-          "mainStream": "",
-          "touchStream": "",
+          "mainStream": "https://vdo.ninja/?view=kEvPpdL&solo&room=Bob&password=LoL",
+          "touchStream": "https://vdo.ninja/?view=kEvPpdL&solo&room=Bob&password=LoL",
           "taken": false,
           "catches": {
             "Alabastia": {
@@ -33806,7 +33806,8 @@
             "left": 0,
             "top": 0,
             "w": 100,
-            "h": 100
+            "h": 100,
+            "userScale": 1.1
           },
           "touchAdj": {
             "left": 0,
