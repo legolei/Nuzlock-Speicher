@@ -39347,7 +39347,7 @@
           "name": "Legolei",
           "color": "red",
           "team": [
-            null,
+            "Bisasam",
             null,
             null,
             null,
@@ -39368,7 +39368,412 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Neuborkia": {
+              "name": "Bisasam",
+              "status": "Lebendig"
+            },
+            "Route 29": {
+              "name": "",
+              "status": ""
+            },
+            "Rosalia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 30": {
+              "name": "",
+              "status": ""
+            },
+            "Dunkelhöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 31": {
+              "name": "",
+              "status": ""
+            },
+            "Viola City": {
+              "name": "",
+              "status": ""
+            },
+            "Viola City (Ei)": {
+              "name": "",
+              "status": ""
+            },
+            "Knofensa-Turm": {
+              "name": "",
+              "status": ""
+            },
+            "Alph-Ruinen": {
+              "name": "",
+              "status": ""
+            },
+            "Route 32": {
+              "name": "",
+              "status": ""
+            },
+            "Einheitstunnel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 33": {
+              "name": "",
+              "status": ""
+            },
+            "Azalea City": {
+              "name": "",
+              "status": ""
+            },
+            "Flegmon-Brunnen": {
+              "name": "",
+              "status": ""
+            },
+            "Steineichenwald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 34": {
+              "name": "",
+              "status": ""
+            },
+            "Dukatia City (Geschenk 1)": {
+              "name": "",
+              "status": ""
+            },
+            "Dukatia City (Geschenk 2)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 35": {
+              "name": "",
+              "status": ""
+            },
+            "Nationalpark": {
+              "name": "",
+              "status": ""
+            },
+            "Route 36": {
+              "name": "",
+              "status": ""
+            },
+            "Route 36 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 37": {
+              "name": "",
+              "status": ""
+            },
+            "Teak City": {
+              "name": "",
+              "status": ""
+            },
+            "Turmruine": {
+              "name": "",
+              "status": ""
+            },
+            "Glockenturm": {
+              "name": "",
+              "status": ""
+            },
+            "Glockenturm (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 38": {
+              "name": "",
+              "status": ""
+            },
+            "Route 39": {
+              "name": "",
+              "status": ""
+            },
+            "Oliviana City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 40": {
+              "name": "",
+              "status": ""
+            },
+            "Route 41": {
+              "name": "",
+              "status": ""
+            },
+            "Strudelinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Strudelinsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Anemonia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 42": {
+              "name": "",
+              "status": ""
+            },
+            "Kesselberg": {
+              "name": "",
+              "status": ""
+            },
+            "Mahagonia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 43": {
+              "name": "",
+              "status": ""
+            },
+            "See des Zorns": {
+              "name": "",
+              "status": ""
+            },
+            "See des Zorns (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 44": {
+              "name": "",
+              "status": ""
+            },
+            "Eispfad": {
+              "name": "",
+              "status": ""
+            },
+            "Ebenholz City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 45": {
+              "name": "",
+              "status": ""
+            },
+            "Route 46": {
+              "name": "",
+              "status": ""
+            },
+            "Route 47": {
+              "name": "",
+              "status": ""
+            },
+            "Route 48": {
+              "name": "",
+              "status": ""
+            },
+            "Safarizone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 27": {
+              "name": "",
+              "status": ""
+            },
+            "Tohjo-Fälle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 26": {
+              "name": "",
+              "status": ""
+            },
+            "Route 28": {
+              "name": "",
+              "status": ""
+            },
+            "Silberberg": {
+              "name": "",
+              "status": ""
+            },
+            "Silberberg (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Alabastia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 1": {
+              "name": "",
+              "status": ""
+            },
+            "Vertania City": {
+              "name": "",
+              "status": ""
+            },
+            "Vertaniawald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 2": {
+              "name": "",
+              "status": ""
+            },
+            "Mamoria City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 3": {
+              "name": "",
+              "status": ""
+            },
+            "Mondberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4": {
+              "name": "",
+              "status": ""
+            },
+            "Azuria City": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 5": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 6": {
+              "name": "",
+              "status": ""
+            },
+            "Orania City": {
+              "name": "",
+              "status": ""
+            },
+            "Digdahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 7": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 8": {
+              "name": "",
+              "status": ""
+            },
+            "Route 9": {
+              "name": "",
+              "status": ""
+            },
+            "Felshöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 10": {
+              "name": "",
+              "status": ""
+            },
+            "Route 11": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12": {
+              "name": "",
+              "status": ""
+            },
+            "Route 13": {
+              "name": "",
+              "status": ""
+            },
+            "Route 14": {
+              "name": "",
+              "status": ""
+            },
+            "Route 15": {
+              "name": "",
+              "status": ""
+            },
+            "Fuchsania City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16": {
+              "name": "",
+              "status": ""
+            },
+            "Route 17": {
+              "name": "",
+              "status": ""
+            },
+            "Route 18": {
+              "name": "",
+              "status": ""
+            },
+            "Route 19": {
+              "name": "",
+              "status": ""
+            },
+            "Route 20": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 21": {
+              "name": "",
+              "status": ""
+            },
+            "Route 22": {
+              "name": "",
+              "status": ""
+            },
+            "Route 24": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25 (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -39407,7 +39812,412 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Neuborkia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 29": {
+              "name": "",
+              "status": ""
+            },
+            "Rosalia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 30": {
+              "name": "",
+              "status": ""
+            },
+            "Dunkelhöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 31": {
+              "name": "",
+              "status": ""
+            },
+            "Viola City": {
+              "name": "",
+              "status": ""
+            },
+            "Viola City (Ei)": {
+              "name": "",
+              "status": ""
+            },
+            "Knofensa-Turm": {
+              "name": "",
+              "status": ""
+            },
+            "Alph-Ruinen": {
+              "name": "",
+              "status": ""
+            },
+            "Route 32": {
+              "name": "",
+              "status": ""
+            },
+            "Einheitstunnel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 33": {
+              "name": "",
+              "status": ""
+            },
+            "Azalea City": {
+              "name": "",
+              "status": ""
+            },
+            "Flegmon-Brunnen": {
+              "name": "",
+              "status": ""
+            },
+            "Steineichenwald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 34": {
+              "name": "",
+              "status": ""
+            },
+            "Dukatia City (Geschenk 1)": {
+              "name": "",
+              "status": ""
+            },
+            "Dukatia City (Geschenk 2)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 35": {
+              "name": "",
+              "status": ""
+            },
+            "Nationalpark": {
+              "name": "",
+              "status": ""
+            },
+            "Route 36": {
+              "name": "",
+              "status": ""
+            },
+            "Route 36 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 37": {
+              "name": "",
+              "status": ""
+            },
+            "Teak City": {
+              "name": "",
+              "status": ""
+            },
+            "Turmruine": {
+              "name": "",
+              "status": ""
+            },
+            "Glockenturm": {
+              "name": "",
+              "status": ""
+            },
+            "Glockenturm (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 38": {
+              "name": "",
+              "status": ""
+            },
+            "Route 39": {
+              "name": "",
+              "status": ""
+            },
+            "Oliviana City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 40": {
+              "name": "",
+              "status": ""
+            },
+            "Route 41": {
+              "name": "",
+              "status": ""
+            },
+            "Strudelinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Strudelinsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Anemonia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 42": {
+              "name": "",
+              "status": ""
+            },
+            "Kesselberg": {
+              "name": "",
+              "status": ""
+            },
+            "Mahagonia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 43": {
+              "name": "",
+              "status": ""
+            },
+            "See des Zorns": {
+              "name": "",
+              "status": ""
+            },
+            "See des Zorns (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 44": {
+              "name": "",
+              "status": ""
+            },
+            "Eispfad": {
+              "name": "",
+              "status": ""
+            },
+            "Ebenholz City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 45": {
+              "name": "",
+              "status": ""
+            },
+            "Route 46": {
+              "name": "",
+              "status": ""
+            },
+            "Route 47": {
+              "name": "",
+              "status": ""
+            },
+            "Route 48": {
+              "name": "",
+              "status": ""
+            },
+            "Safarizone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 27": {
+              "name": "",
+              "status": ""
+            },
+            "Tohjo-Fälle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 26": {
+              "name": "",
+              "status": ""
+            },
+            "Route 28": {
+              "name": "",
+              "status": ""
+            },
+            "Silberberg": {
+              "name": "",
+              "status": ""
+            },
+            "Silberberg (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Alabastia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 1": {
+              "name": "",
+              "status": ""
+            },
+            "Vertania City": {
+              "name": "",
+              "status": ""
+            },
+            "Vertaniawald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 2": {
+              "name": "",
+              "status": ""
+            },
+            "Mamoria City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 3": {
+              "name": "",
+              "status": ""
+            },
+            "Mondberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4": {
+              "name": "",
+              "status": ""
+            },
+            "Azuria City": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 5": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 6": {
+              "name": "",
+              "status": ""
+            },
+            "Orania City": {
+              "name": "",
+              "status": ""
+            },
+            "Digdahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 7": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 8": {
+              "name": "",
+              "status": ""
+            },
+            "Route 9": {
+              "name": "",
+              "status": ""
+            },
+            "Felshöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 10": {
+              "name": "",
+              "status": ""
+            },
+            "Route 11": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12": {
+              "name": "",
+              "status": ""
+            },
+            "Route 13": {
+              "name": "",
+              "status": ""
+            },
+            "Route 14": {
+              "name": "",
+              "status": ""
+            },
+            "Route 15": {
+              "name": "",
+              "status": ""
+            },
+            "Fuchsania City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16": {
+              "name": "",
+              "status": ""
+            },
+            "Route 17": {
+              "name": "",
+              "status": ""
+            },
+            "Route 18": {
+              "name": "",
+              "status": ""
+            },
+            "Route 19": {
+              "name": "",
+              "status": ""
+            },
+            "Route 20": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 21": {
+              "name": "",
+              "status": ""
+            },
+            "Route 22": {
+              "name": "",
+              "status": ""
+            },
+            "Route 24": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25 (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -39446,7 +40256,412 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Neuborkia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 29": {
+              "name": "",
+              "status": ""
+            },
+            "Rosalia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 30": {
+              "name": "",
+              "status": ""
+            },
+            "Dunkelhöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 31": {
+              "name": "",
+              "status": ""
+            },
+            "Viola City": {
+              "name": "",
+              "status": ""
+            },
+            "Viola City (Ei)": {
+              "name": "",
+              "status": ""
+            },
+            "Knofensa-Turm": {
+              "name": "",
+              "status": ""
+            },
+            "Alph-Ruinen": {
+              "name": "",
+              "status": ""
+            },
+            "Route 32": {
+              "name": "",
+              "status": ""
+            },
+            "Einheitstunnel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 33": {
+              "name": "",
+              "status": ""
+            },
+            "Azalea City": {
+              "name": "",
+              "status": ""
+            },
+            "Flegmon-Brunnen": {
+              "name": "",
+              "status": ""
+            },
+            "Steineichenwald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 34": {
+              "name": "",
+              "status": ""
+            },
+            "Dukatia City (Geschenk 1)": {
+              "name": "",
+              "status": ""
+            },
+            "Dukatia City (Geschenk 2)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 35": {
+              "name": "",
+              "status": ""
+            },
+            "Nationalpark": {
+              "name": "",
+              "status": ""
+            },
+            "Route 36": {
+              "name": "",
+              "status": ""
+            },
+            "Route 36 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 37": {
+              "name": "",
+              "status": ""
+            },
+            "Teak City": {
+              "name": "",
+              "status": ""
+            },
+            "Turmruine": {
+              "name": "",
+              "status": ""
+            },
+            "Glockenturm": {
+              "name": "",
+              "status": ""
+            },
+            "Glockenturm (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 38": {
+              "name": "",
+              "status": ""
+            },
+            "Route 39": {
+              "name": "",
+              "status": ""
+            },
+            "Oliviana City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 40": {
+              "name": "",
+              "status": ""
+            },
+            "Route 41": {
+              "name": "",
+              "status": ""
+            },
+            "Strudelinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Strudelinsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Anemonia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 42": {
+              "name": "",
+              "status": ""
+            },
+            "Kesselberg": {
+              "name": "",
+              "status": ""
+            },
+            "Mahagonia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 43": {
+              "name": "",
+              "status": ""
+            },
+            "See des Zorns": {
+              "name": "",
+              "status": ""
+            },
+            "See des Zorns (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 44": {
+              "name": "",
+              "status": ""
+            },
+            "Eispfad": {
+              "name": "",
+              "status": ""
+            },
+            "Ebenholz City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 45": {
+              "name": "",
+              "status": ""
+            },
+            "Route 46": {
+              "name": "",
+              "status": ""
+            },
+            "Route 47": {
+              "name": "",
+              "status": ""
+            },
+            "Route 48": {
+              "name": "",
+              "status": ""
+            },
+            "Safarizone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 27": {
+              "name": "",
+              "status": ""
+            },
+            "Tohjo-Fälle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 26": {
+              "name": "",
+              "status": ""
+            },
+            "Route 28": {
+              "name": "",
+              "status": ""
+            },
+            "Silberberg": {
+              "name": "",
+              "status": ""
+            },
+            "Silberberg (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Alabastia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 1": {
+              "name": "",
+              "status": ""
+            },
+            "Vertania City": {
+              "name": "",
+              "status": ""
+            },
+            "Vertaniawald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 2": {
+              "name": "",
+              "status": ""
+            },
+            "Mamoria City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 3": {
+              "name": "",
+              "status": ""
+            },
+            "Mondberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4": {
+              "name": "",
+              "status": ""
+            },
+            "Azuria City": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 5": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 6": {
+              "name": "",
+              "status": ""
+            },
+            "Orania City": {
+              "name": "",
+              "status": ""
+            },
+            "Digdahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 7": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 8": {
+              "name": "",
+              "status": ""
+            },
+            "Route 9": {
+              "name": "",
+              "status": ""
+            },
+            "Felshöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 10": {
+              "name": "",
+              "status": ""
+            },
+            "Route 11": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12": {
+              "name": "",
+              "status": ""
+            },
+            "Route 13": {
+              "name": "",
+              "status": ""
+            },
+            "Route 14": {
+              "name": "",
+              "status": ""
+            },
+            "Route 15": {
+              "name": "",
+              "status": ""
+            },
+            "Fuchsania City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16": {
+              "name": "",
+              "status": ""
+            },
+            "Route 17": {
+              "name": "",
+              "status": ""
+            },
+            "Route 18": {
+              "name": "",
+              "status": ""
+            },
+            "Route 19": {
+              "name": "",
+              "status": ""
+            },
+            "Route 20": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 21": {
+              "name": "",
+              "status": ""
+            },
+            "Route 22": {
+              "name": "",
+              "status": ""
+            },
+            "Route 24": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25 (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -39485,7 +40700,412 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Neuborkia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 29": {
+              "name": "",
+              "status": ""
+            },
+            "Rosalia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 30": {
+              "name": "",
+              "status": ""
+            },
+            "Dunkelhöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 31": {
+              "name": "",
+              "status": ""
+            },
+            "Viola City": {
+              "name": "",
+              "status": ""
+            },
+            "Viola City (Ei)": {
+              "name": "",
+              "status": ""
+            },
+            "Knofensa-Turm": {
+              "name": "",
+              "status": ""
+            },
+            "Alph-Ruinen": {
+              "name": "",
+              "status": ""
+            },
+            "Route 32": {
+              "name": "",
+              "status": ""
+            },
+            "Einheitstunnel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 33": {
+              "name": "",
+              "status": ""
+            },
+            "Azalea City": {
+              "name": "",
+              "status": ""
+            },
+            "Flegmon-Brunnen": {
+              "name": "",
+              "status": ""
+            },
+            "Steineichenwald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 34": {
+              "name": "",
+              "status": ""
+            },
+            "Dukatia City (Geschenk 1)": {
+              "name": "",
+              "status": ""
+            },
+            "Dukatia City (Geschenk 2)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 35": {
+              "name": "",
+              "status": ""
+            },
+            "Nationalpark": {
+              "name": "",
+              "status": ""
+            },
+            "Route 36": {
+              "name": "",
+              "status": ""
+            },
+            "Route 36 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 37": {
+              "name": "",
+              "status": ""
+            },
+            "Teak City": {
+              "name": "",
+              "status": ""
+            },
+            "Turmruine": {
+              "name": "",
+              "status": ""
+            },
+            "Glockenturm": {
+              "name": "",
+              "status": ""
+            },
+            "Glockenturm (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 38": {
+              "name": "",
+              "status": ""
+            },
+            "Route 39": {
+              "name": "",
+              "status": ""
+            },
+            "Oliviana City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 40": {
+              "name": "",
+              "status": ""
+            },
+            "Route 41": {
+              "name": "",
+              "status": ""
+            },
+            "Strudelinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Strudelinsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Anemonia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 42": {
+              "name": "",
+              "status": ""
+            },
+            "Kesselberg": {
+              "name": "",
+              "status": ""
+            },
+            "Mahagonia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 43": {
+              "name": "",
+              "status": ""
+            },
+            "See des Zorns": {
+              "name": "",
+              "status": ""
+            },
+            "See des Zorns (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 44": {
+              "name": "",
+              "status": ""
+            },
+            "Eispfad": {
+              "name": "",
+              "status": ""
+            },
+            "Ebenholz City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 45": {
+              "name": "",
+              "status": ""
+            },
+            "Route 46": {
+              "name": "",
+              "status": ""
+            },
+            "Route 47": {
+              "name": "",
+              "status": ""
+            },
+            "Route 48": {
+              "name": "",
+              "status": ""
+            },
+            "Safarizone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 27": {
+              "name": "",
+              "status": ""
+            },
+            "Tohjo-Fälle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 26": {
+              "name": "",
+              "status": ""
+            },
+            "Route 28": {
+              "name": "",
+              "status": ""
+            },
+            "Silberberg": {
+              "name": "",
+              "status": ""
+            },
+            "Silberberg (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Alabastia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 1": {
+              "name": "",
+              "status": ""
+            },
+            "Vertania City": {
+              "name": "",
+              "status": ""
+            },
+            "Vertaniawald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 2": {
+              "name": "",
+              "status": ""
+            },
+            "Mamoria City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 3": {
+              "name": "",
+              "status": ""
+            },
+            "Mondberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4": {
+              "name": "",
+              "status": ""
+            },
+            "Azuria City": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 5": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 6": {
+              "name": "",
+              "status": ""
+            },
+            "Orania City": {
+              "name": "",
+              "status": ""
+            },
+            "Digdahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 7": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 8": {
+              "name": "",
+              "status": ""
+            },
+            "Route 9": {
+              "name": "",
+              "status": ""
+            },
+            "Felshöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 10": {
+              "name": "",
+              "status": ""
+            },
+            "Route 11": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12": {
+              "name": "",
+              "status": ""
+            },
+            "Route 13": {
+              "name": "",
+              "status": ""
+            },
+            "Route 14": {
+              "name": "",
+              "status": ""
+            },
+            "Route 15": {
+              "name": "",
+              "status": ""
+            },
+            "Fuchsania City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16": {
+              "name": "",
+              "status": ""
+            },
+            "Route 17": {
+              "name": "",
+              "status": ""
+            },
+            "Route 18": {
+              "name": "",
+              "status": ""
+            },
+            "Route 19": {
+              "name": "",
+              "status": ""
+            },
+            "Route 20": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 21": {
+              "name": "",
+              "status": ""
+            },
+            "Route 22": {
+              "name": "",
+              "status": ""
+            },
+            "Route 24": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25 (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -39524,7 +41144,412 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Neuborkia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 29": {
+              "name": "",
+              "status": ""
+            },
+            "Rosalia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 30": {
+              "name": "",
+              "status": ""
+            },
+            "Dunkelhöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 31": {
+              "name": "",
+              "status": ""
+            },
+            "Viola City": {
+              "name": "",
+              "status": ""
+            },
+            "Viola City (Ei)": {
+              "name": "",
+              "status": ""
+            },
+            "Knofensa-Turm": {
+              "name": "",
+              "status": ""
+            },
+            "Alph-Ruinen": {
+              "name": "",
+              "status": ""
+            },
+            "Route 32": {
+              "name": "",
+              "status": ""
+            },
+            "Einheitstunnel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 33": {
+              "name": "",
+              "status": ""
+            },
+            "Azalea City": {
+              "name": "",
+              "status": ""
+            },
+            "Flegmon-Brunnen": {
+              "name": "",
+              "status": ""
+            },
+            "Steineichenwald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 34": {
+              "name": "",
+              "status": ""
+            },
+            "Dukatia City (Geschenk 1)": {
+              "name": "",
+              "status": ""
+            },
+            "Dukatia City (Geschenk 2)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 35": {
+              "name": "",
+              "status": ""
+            },
+            "Nationalpark": {
+              "name": "",
+              "status": ""
+            },
+            "Route 36": {
+              "name": "",
+              "status": ""
+            },
+            "Route 36 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 37": {
+              "name": "",
+              "status": ""
+            },
+            "Teak City": {
+              "name": "",
+              "status": ""
+            },
+            "Turmruine": {
+              "name": "",
+              "status": ""
+            },
+            "Glockenturm": {
+              "name": "",
+              "status": ""
+            },
+            "Glockenturm (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 38": {
+              "name": "",
+              "status": ""
+            },
+            "Route 39": {
+              "name": "",
+              "status": ""
+            },
+            "Oliviana City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 40": {
+              "name": "",
+              "status": ""
+            },
+            "Route 41": {
+              "name": "",
+              "status": ""
+            },
+            "Strudelinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Strudelinsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Anemonia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 42": {
+              "name": "",
+              "status": ""
+            },
+            "Kesselberg": {
+              "name": "",
+              "status": ""
+            },
+            "Mahagonia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 43": {
+              "name": "",
+              "status": ""
+            },
+            "See des Zorns": {
+              "name": "",
+              "status": ""
+            },
+            "See des Zorns (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 44": {
+              "name": "",
+              "status": ""
+            },
+            "Eispfad": {
+              "name": "",
+              "status": ""
+            },
+            "Ebenholz City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 45": {
+              "name": "",
+              "status": ""
+            },
+            "Route 46": {
+              "name": "",
+              "status": ""
+            },
+            "Route 47": {
+              "name": "",
+              "status": ""
+            },
+            "Route 48": {
+              "name": "",
+              "status": ""
+            },
+            "Safarizone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 27": {
+              "name": "",
+              "status": ""
+            },
+            "Tohjo-Fälle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 26": {
+              "name": "",
+              "status": ""
+            },
+            "Route 28": {
+              "name": "",
+              "status": ""
+            },
+            "Silberberg": {
+              "name": "",
+              "status": ""
+            },
+            "Silberberg (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Alabastia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 1": {
+              "name": "",
+              "status": ""
+            },
+            "Vertania City": {
+              "name": "",
+              "status": ""
+            },
+            "Vertaniawald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 2": {
+              "name": "",
+              "status": ""
+            },
+            "Mamoria City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 3": {
+              "name": "",
+              "status": ""
+            },
+            "Mondberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4": {
+              "name": "",
+              "status": ""
+            },
+            "Azuria City": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 5": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 6": {
+              "name": "",
+              "status": ""
+            },
+            "Orania City": {
+              "name": "",
+              "status": ""
+            },
+            "Digdahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 7": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 8": {
+              "name": "",
+              "status": ""
+            },
+            "Route 9": {
+              "name": "",
+              "status": ""
+            },
+            "Felshöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 10": {
+              "name": "",
+              "status": ""
+            },
+            "Route 11": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12": {
+              "name": "",
+              "status": ""
+            },
+            "Route 13": {
+              "name": "",
+              "status": ""
+            },
+            "Route 14": {
+              "name": "",
+              "status": ""
+            },
+            "Route 15": {
+              "name": "",
+              "status": ""
+            },
+            "Fuchsania City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16": {
+              "name": "",
+              "status": ""
+            },
+            "Route 17": {
+              "name": "",
+              "status": ""
+            },
+            "Route 18": {
+              "name": "",
+              "status": ""
+            },
+            "Route 19": {
+              "name": "",
+              "status": ""
+            },
+            "Route 20": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 21": {
+              "name": "",
+              "status": ""
+            },
+            "Route 22": {
+              "name": "",
+              "status": ""
+            },
+            "Route 24": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25 (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -39563,7 +41588,412 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Neuborkia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 29": {
+              "name": "",
+              "status": ""
+            },
+            "Rosalia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 30": {
+              "name": "",
+              "status": ""
+            },
+            "Dunkelhöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 31": {
+              "name": "",
+              "status": ""
+            },
+            "Viola City": {
+              "name": "",
+              "status": ""
+            },
+            "Viola City (Ei)": {
+              "name": "",
+              "status": ""
+            },
+            "Knofensa-Turm": {
+              "name": "",
+              "status": ""
+            },
+            "Alph-Ruinen": {
+              "name": "",
+              "status": ""
+            },
+            "Route 32": {
+              "name": "",
+              "status": ""
+            },
+            "Einheitstunnel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 33": {
+              "name": "",
+              "status": ""
+            },
+            "Azalea City": {
+              "name": "",
+              "status": ""
+            },
+            "Flegmon-Brunnen": {
+              "name": "",
+              "status": ""
+            },
+            "Steineichenwald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 34": {
+              "name": "",
+              "status": ""
+            },
+            "Dukatia City (Geschenk 1)": {
+              "name": "",
+              "status": ""
+            },
+            "Dukatia City (Geschenk 2)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 35": {
+              "name": "",
+              "status": ""
+            },
+            "Nationalpark": {
+              "name": "",
+              "status": ""
+            },
+            "Route 36": {
+              "name": "",
+              "status": ""
+            },
+            "Route 36 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 37": {
+              "name": "",
+              "status": ""
+            },
+            "Teak City": {
+              "name": "",
+              "status": ""
+            },
+            "Turmruine": {
+              "name": "",
+              "status": ""
+            },
+            "Glockenturm": {
+              "name": "",
+              "status": ""
+            },
+            "Glockenturm (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 38": {
+              "name": "",
+              "status": ""
+            },
+            "Route 39": {
+              "name": "",
+              "status": ""
+            },
+            "Oliviana City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 40": {
+              "name": "",
+              "status": ""
+            },
+            "Route 41": {
+              "name": "",
+              "status": ""
+            },
+            "Strudelinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Strudelinsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Anemonia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 42": {
+              "name": "",
+              "status": ""
+            },
+            "Kesselberg": {
+              "name": "",
+              "status": ""
+            },
+            "Mahagonia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 43": {
+              "name": "",
+              "status": ""
+            },
+            "See des Zorns": {
+              "name": "",
+              "status": ""
+            },
+            "See des Zorns (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 44": {
+              "name": "",
+              "status": ""
+            },
+            "Eispfad": {
+              "name": "",
+              "status": ""
+            },
+            "Ebenholz City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 45": {
+              "name": "",
+              "status": ""
+            },
+            "Route 46": {
+              "name": "",
+              "status": ""
+            },
+            "Route 47": {
+              "name": "",
+              "status": ""
+            },
+            "Route 48": {
+              "name": "",
+              "status": ""
+            },
+            "Safarizone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 27": {
+              "name": "",
+              "status": ""
+            },
+            "Tohjo-Fälle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 26": {
+              "name": "",
+              "status": ""
+            },
+            "Route 28": {
+              "name": "",
+              "status": ""
+            },
+            "Silberberg": {
+              "name": "",
+              "status": ""
+            },
+            "Silberberg (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Alabastia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 1": {
+              "name": "",
+              "status": ""
+            },
+            "Vertania City": {
+              "name": "",
+              "status": ""
+            },
+            "Vertaniawald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 2": {
+              "name": "",
+              "status": ""
+            },
+            "Mamoria City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 3": {
+              "name": "",
+              "status": ""
+            },
+            "Mondberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4": {
+              "name": "",
+              "status": ""
+            },
+            "Azuria City": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 5": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 6": {
+              "name": "",
+              "status": ""
+            },
+            "Orania City": {
+              "name": "",
+              "status": ""
+            },
+            "Digdahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 7": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 8": {
+              "name": "",
+              "status": ""
+            },
+            "Route 9": {
+              "name": "",
+              "status": ""
+            },
+            "Felshöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 10": {
+              "name": "",
+              "status": ""
+            },
+            "Route 11": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12": {
+              "name": "",
+              "status": ""
+            },
+            "Route 13": {
+              "name": "",
+              "status": ""
+            },
+            "Route 14": {
+              "name": "",
+              "status": ""
+            },
+            "Route 15": {
+              "name": "",
+              "status": ""
+            },
+            "Fuchsania City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16": {
+              "name": "",
+              "status": ""
+            },
+            "Route 17": {
+              "name": "",
+              "status": ""
+            },
+            "Route 18": {
+              "name": "",
+              "status": ""
+            },
+            "Route 19": {
+              "name": "",
+              "status": ""
+            },
+            "Route 20": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 21": {
+              "name": "",
+              "status": ""
+            },
+            "Route 22": {
+              "name": "",
+              "status": ""
+            },
+            "Route 24": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25 (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -39602,7 +42032,412 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Neuborkia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 29": {
+              "name": "",
+              "status": ""
+            },
+            "Rosalia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 30": {
+              "name": "",
+              "status": ""
+            },
+            "Dunkelhöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 31": {
+              "name": "",
+              "status": ""
+            },
+            "Viola City": {
+              "name": "",
+              "status": ""
+            },
+            "Viola City (Ei)": {
+              "name": "",
+              "status": ""
+            },
+            "Knofensa-Turm": {
+              "name": "",
+              "status": ""
+            },
+            "Alph-Ruinen": {
+              "name": "",
+              "status": ""
+            },
+            "Route 32": {
+              "name": "",
+              "status": ""
+            },
+            "Einheitstunnel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 33": {
+              "name": "",
+              "status": ""
+            },
+            "Azalea City": {
+              "name": "",
+              "status": ""
+            },
+            "Flegmon-Brunnen": {
+              "name": "",
+              "status": ""
+            },
+            "Steineichenwald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 34": {
+              "name": "",
+              "status": ""
+            },
+            "Dukatia City (Geschenk 1)": {
+              "name": "",
+              "status": ""
+            },
+            "Dukatia City (Geschenk 2)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 35": {
+              "name": "",
+              "status": ""
+            },
+            "Nationalpark": {
+              "name": "",
+              "status": ""
+            },
+            "Route 36": {
+              "name": "",
+              "status": ""
+            },
+            "Route 36 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 37": {
+              "name": "",
+              "status": ""
+            },
+            "Teak City": {
+              "name": "",
+              "status": ""
+            },
+            "Turmruine": {
+              "name": "",
+              "status": ""
+            },
+            "Glockenturm": {
+              "name": "",
+              "status": ""
+            },
+            "Glockenturm (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 38": {
+              "name": "",
+              "status": ""
+            },
+            "Route 39": {
+              "name": "",
+              "status": ""
+            },
+            "Oliviana City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 40": {
+              "name": "",
+              "status": ""
+            },
+            "Route 41": {
+              "name": "",
+              "status": ""
+            },
+            "Strudelinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Strudelinsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Anemonia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 42": {
+              "name": "",
+              "status": ""
+            },
+            "Kesselberg": {
+              "name": "",
+              "status": ""
+            },
+            "Mahagonia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 43": {
+              "name": "",
+              "status": ""
+            },
+            "See des Zorns": {
+              "name": "",
+              "status": ""
+            },
+            "See des Zorns (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 44": {
+              "name": "",
+              "status": ""
+            },
+            "Eispfad": {
+              "name": "",
+              "status": ""
+            },
+            "Ebenholz City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 45": {
+              "name": "",
+              "status": ""
+            },
+            "Route 46": {
+              "name": "",
+              "status": ""
+            },
+            "Route 47": {
+              "name": "",
+              "status": ""
+            },
+            "Route 48": {
+              "name": "",
+              "status": ""
+            },
+            "Safarizone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 27": {
+              "name": "",
+              "status": ""
+            },
+            "Tohjo-Fälle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 26": {
+              "name": "",
+              "status": ""
+            },
+            "Route 28": {
+              "name": "",
+              "status": ""
+            },
+            "Silberberg": {
+              "name": "",
+              "status": ""
+            },
+            "Silberberg (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Alabastia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 1": {
+              "name": "",
+              "status": ""
+            },
+            "Vertania City": {
+              "name": "",
+              "status": ""
+            },
+            "Vertaniawald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 2": {
+              "name": "",
+              "status": ""
+            },
+            "Mamoria City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 3": {
+              "name": "",
+              "status": ""
+            },
+            "Mondberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4": {
+              "name": "",
+              "status": ""
+            },
+            "Azuria City": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 5": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 6": {
+              "name": "",
+              "status": ""
+            },
+            "Orania City": {
+              "name": "",
+              "status": ""
+            },
+            "Digdahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 7": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 8": {
+              "name": "",
+              "status": ""
+            },
+            "Route 9": {
+              "name": "",
+              "status": ""
+            },
+            "Felshöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 10": {
+              "name": "",
+              "status": ""
+            },
+            "Route 11": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12": {
+              "name": "",
+              "status": ""
+            },
+            "Route 13": {
+              "name": "",
+              "status": ""
+            },
+            "Route 14": {
+              "name": "",
+              "status": ""
+            },
+            "Route 15": {
+              "name": "",
+              "status": ""
+            },
+            "Fuchsania City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16": {
+              "name": "",
+              "status": ""
+            },
+            "Route 17": {
+              "name": "",
+              "status": ""
+            },
+            "Route 18": {
+              "name": "",
+              "status": ""
+            },
+            "Route 19": {
+              "name": "",
+              "status": ""
+            },
+            "Route 20": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 21": {
+              "name": "",
+              "status": ""
+            },
+            "Route 22": {
+              "name": "",
+              "status": ""
+            },
+            "Route 24": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25 (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
@@ -39641,7 +42476,412 @@
           "mainStream": "",
           "touchStream": "",
           "taken": false,
-          "catches": {},
+          "catches": {
+            "Neuborkia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 29": {
+              "name": "",
+              "status": ""
+            },
+            "Rosalia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 30": {
+              "name": "",
+              "status": ""
+            },
+            "Dunkelhöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 31": {
+              "name": "",
+              "status": ""
+            },
+            "Viola City": {
+              "name": "",
+              "status": ""
+            },
+            "Viola City (Ei)": {
+              "name": "",
+              "status": ""
+            },
+            "Knofensa-Turm": {
+              "name": "",
+              "status": ""
+            },
+            "Alph-Ruinen": {
+              "name": "",
+              "status": ""
+            },
+            "Route 32": {
+              "name": "",
+              "status": ""
+            },
+            "Einheitstunnel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 33": {
+              "name": "",
+              "status": ""
+            },
+            "Azalea City": {
+              "name": "",
+              "status": ""
+            },
+            "Flegmon-Brunnen": {
+              "name": "",
+              "status": ""
+            },
+            "Steineichenwald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 34": {
+              "name": "",
+              "status": ""
+            },
+            "Dukatia City (Geschenk 1)": {
+              "name": "",
+              "status": ""
+            },
+            "Dukatia City (Geschenk 2)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 35": {
+              "name": "",
+              "status": ""
+            },
+            "Nationalpark": {
+              "name": "",
+              "status": ""
+            },
+            "Route 36": {
+              "name": "",
+              "status": ""
+            },
+            "Route 36 (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 37": {
+              "name": "",
+              "status": ""
+            },
+            "Teak City": {
+              "name": "",
+              "status": ""
+            },
+            "Turmruine": {
+              "name": "",
+              "status": ""
+            },
+            "Glockenturm": {
+              "name": "",
+              "status": ""
+            },
+            "Glockenturm (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 38": {
+              "name": "",
+              "status": ""
+            },
+            "Route 39": {
+              "name": "",
+              "status": ""
+            },
+            "Oliviana City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 40": {
+              "name": "",
+              "status": ""
+            },
+            "Route 41": {
+              "name": "",
+              "status": ""
+            },
+            "Strudelinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Strudelinsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Anemonia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 42": {
+              "name": "",
+              "status": ""
+            },
+            "Kesselberg": {
+              "name": "",
+              "status": ""
+            },
+            "Mahagonia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 43": {
+              "name": "",
+              "status": ""
+            },
+            "See des Zorns": {
+              "name": "",
+              "status": ""
+            },
+            "See des Zorns (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 44": {
+              "name": "",
+              "status": ""
+            },
+            "Eispfad": {
+              "name": "",
+              "status": ""
+            },
+            "Ebenholz City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 45": {
+              "name": "",
+              "status": ""
+            },
+            "Route 46": {
+              "name": "",
+              "status": ""
+            },
+            "Route 47": {
+              "name": "",
+              "status": ""
+            },
+            "Route 48": {
+              "name": "",
+              "status": ""
+            },
+            "Safarizone": {
+              "name": "",
+              "status": ""
+            },
+            "Route 27": {
+              "name": "",
+              "status": ""
+            },
+            "Tohjo-Fälle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 26": {
+              "name": "",
+              "status": ""
+            },
+            "Route 28": {
+              "name": "",
+              "status": ""
+            },
+            "Silberberg": {
+              "name": "",
+              "status": ""
+            },
+            "Silberberg (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Siegesstraße": {
+              "name": "",
+              "status": ""
+            },
+            "Alabastia": {
+              "name": "",
+              "status": ""
+            },
+            "Route 1": {
+              "name": "",
+              "status": ""
+            },
+            "Vertania City": {
+              "name": "",
+              "status": ""
+            },
+            "Vertaniawald": {
+              "name": "",
+              "status": ""
+            },
+            "Route 2": {
+              "name": "",
+              "status": ""
+            },
+            "Mamoria City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 3": {
+              "name": "",
+              "status": ""
+            },
+            "Mondberg": {
+              "name": "",
+              "status": ""
+            },
+            "Route 4": {
+              "name": "",
+              "status": ""
+            },
+            "Azuria City": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Azuriahöhle (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 5": {
+              "name": "",
+              "status": ""
+            },
+            "Safronia City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 6": {
+              "name": "",
+              "status": ""
+            },
+            "Orania City": {
+              "name": "",
+              "status": ""
+            },
+            "Digdahöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Route 7": {
+              "name": "",
+              "status": ""
+            },
+            "Prismania City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 8": {
+              "name": "",
+              "status": ""
+            },
+            "Route 9": {
+              "name": "",
+              "status": ""
+            },
+            "Felshöhle": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk": {
+              "name": "",
+              "status": ""
+            },
+            "Kraftwerk (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Route 10": {
+              "name": "",
+              "status": ""
+            },
+            "Route 11": {
+              "name": "",
+              "status": ""
+            },
+            "Route 12": {
+              "name": "",
+              "status": ""
+            },
+            "Route 13": {
+              "name": "",
+              "status": ""
+            },
+            "Route 14": {
+              "name": "",
+              "status": ""
+            },
+            "Route 15": {
+              "name": "",
+              "status": ""
+            },
+            "Fuchsania City": {
+              "name": "",
+              "status": ""
+            },
+            "Route 16": {
+              "name": "",
+              "status": ""
+            },
+            "Route 17": {
+              "name": "",
+              "status": ""
+            },
+            "Route 18": {
+              "name": "",
+              "status": ""
+            },
+            "Route 19": {
+              "name": "",
+              "status": ""
+            },
+            "Route 20": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel": {
+              "name": "",
+              "status": ""
+            },
+            "Seeschauminsel (Statik)": {
+              "name": "",
+              "status": ""
+            },
+            "Zinoberinsel": {
+              "name": "",
+              "status": ""
+            },
+            "Route 21": {
+              "name": "",
+              "status": ""
+            },
+            "Route 22": {
+              "name": "",
+              "status": ""
+            },
+            "Route 24": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25": {
+              "name": "",
+              "status": ""
+            },
+            "Route 25 (Statik)": {
+              "name": "",
+              "status": ""
+            }
+          },
           "mainAdj": {
             "left": 0,
             "top": 0,
